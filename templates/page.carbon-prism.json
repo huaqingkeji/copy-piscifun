@@ -1,0 +1,479 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "d956281a-fbbf-44df-b7b1-5d7953a7ffe3": {
+      "type": "aa-cp-s1",
+      "settings": {
+        "video_cover": "shopify://shop_images/s1-bg_02.jpg",
+        "video_cover_mobile": "shopify://shop_images/carbon-prism-M__02_1.jpg",
+        "image": "shopify://shop_images/s1-product.png",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/7a1aafdf3db0471ab1a955e7955feaa2.mp4",
+        "video_url_mobile": "https://cdn.shopify.com/videos/c/o/v/195ec0eea90f4362b342398dc1d9d54e.mp4",
+        "heading": "CARBON PRISM SPINNING REEL",
+        "heading_size": "60px",
+        "heading_bgimg": "shopify://shop_images/text1-bg_2128a452-14e5-4a5a-9a18-449370ab6f83.jpg",
+        "subheading": "SHINNING ON THE WATER",
+        "subheading_size": "32px",
+        "info": "<p>Introducing the next generation of carbon fiber spinning reels. <br/>Redesigned with a stunning look, these reels<br/>are built for power and performance to drive confidence with every cast.</p>",
+        "info_size": "22px",
+        "heading_mobile": "CARBON PRISM",
+        "heading_size_mobile": "36px",
+        "subheading_mobile": "SPINNING REEL",
+        "subheading_size_mobile": "16px",
+        "info_mobile": "<p><strong>SHINNING ON THE WATER</strong></p><p>Introducing the next generation of carbon fiber spinning reels. Redesigned with a stunning look, these reels are built for power and performance to drive confidence with every cast.</p>",
+        "info_size_mobile": "14px",
+        "button": "SHOP NOW",
+        "button_size": "26px",
+        "button_size_mobile": "14px",
+        "link": "/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+      }
+    },
+    "18f564b8-04bd-4b2b-b092-6077da2bea94": {
+      "type": "aa-cp-s2",
+      "blocks": {
+        "78d77d58-1ce1-4e96-a848-14d0a0b2615b": {
+          "type": "block",
+          "settings": {
+            "bgimg": "shopify://shop_images/carbon-prism_PC_03.jpg",
+            "bgimg_mobile": "shopify://shop_images/carbon-prism-M__03.jpg",
+            "heading": "VIOLET VICTORY SPARKLING",
+            "heading_size": "70px",
+            "heading_size_mobile": "27px",
+            "heading_width": "450px",
+            "heading_width_mobile": "50%",
+            "heading_bgimg": "shopify://shop_images/text2-bg.jpg",
+            "heading_bgimg_mobile": "shopify://shop_images/text2-bg.jpg",
+            "info": "<p>Derived from the beauty of nature and the perception of light a symbol of romance, elegance and creativity</p>",
+            "info_size": "24px",
+            "info_size_mobile": "14px",
+            "button": "SHOP NOW",
+            "button_size": "26px",
+            "button_size_mobile": "14px",
+            "link": "/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+          }
+        },
+        "21f4efc0-4ec1-4a38-9ab9-c8cb069fb8d2": {
+          "type": "block",
+          "settings": {
+            "bgimg": "shopify://shop_images/carbon-prism_PC_03_f7425826-081c-4191-99b7-715e007afcfc.jpg",
+            "bgimg_mobile": "shopify://shop_images/carbon-prism-M__03--fotor-2023091211927.jpg",
+            "heading": "SEAFOAM MINT GLITTERING",
+            "heading_size": "70px",
+            "heading_size_mobile": "27px",
+            "heading_width": "450px",
+            "heading_width_mobile": "60%",
+            "heading_bgimg": "shopify://shop_images/text2-bg.jpg",
+            "heading_bgimg_mobile": "shopify://shop_images/text2-bg.jpg",
+            "info": "<p>Refreshing greenish-blue hue inspired by surf waves and mint leaves, a feeling of vitality, freshness, and relaxation.</p>",
+            "info_size": "24px",
+            "info_size_mobile": "14px",
+            "button": "SHOP NOW",
+            "button_size": "26px",
+            "button_size_mobile": "14px",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet?variant=40573912318021"
+          }
+        }
+      },
+      "block_order": [
+        "78d77d58-1ce1-4e96-a848-14d0a0b2615b",
+        "21f4efc0-4ec1-4a38-9ab9-c8cb069fb8d2"
+      ],
+      "settings": {
+      }
+    },
+    "efd99a0d-f3a0-483a-bd3b-e67d4fb8501b": {
+      "type": "aa-cp-s3",
+      "settings": {
+        "bgimg": "shopify://shop_images/carbon-prism_PC_04.jpg",
+        "bgimg_mobile": "shopify://shop_images/carbon-prism-M__04.jpg",
+        "heading": "LESS WEIGHT MORE COMFORT",
+        "heading_size": "70px",
+        "heading_size_mobile": "27px",
+        "heading_width": "650px",
+        "heading_width_mobile": "80%",
+        "heading_bgimg": "shopify://shop_images/text2-bg.jpg",
+        "heading_bgimg_mobile": "shopify://shop_images/text2-bg.jpg",
+        "info": "<p>Featuring carbon fiber construction <br/>with a carbon fiber handle, <br/>the fishing reel offers smooth <br/>operation when fighting large fish, <br/>as well as providing anglers<br/>with a comfortable grip <br/>all day long.</p>",
+        "info_size": "24px",
+        "info_size_mobile": "14px",
+        "show_button": true,
+        "link": "/products/carbon-prism-spinning-reels-ultralight-seafoam-violet",
+        "button": "SHOP NOW",
+        "button_size": "26px",
+        "button_size_mobile": "14px"
+      }
+    },
+    "32306b97-4123-409c-a472-ea106a5ff103": {
+      "type": "aa-cp-s4-video",
+      "settings": {
+        "bgimg": "shopify://shop_images/carbon-prism_PC_05_02.jpg",
+        "bgimg_mobile": "shopify://shop_images/carbon-prism-M__05_02_05.jpg",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/991672d7c6d9405caba6a683e8e3c6a5.mp4",
+        "video_url_mobile": "https://cdn.shopify.com/videos/c/o/v/eca2c70195b14cc49ba5bec39ae559af.mp4",
+        "heading": "SILKY SMOOTH FREE ROTATION",
+        "heading_size": "70px",
+        "heading_size_mobile": "24px",
+        "heading_bgimg": "shopify://shop_images/text1-bg_2128a452-14e5-4a5a-9a18-449370ab6f83.jpg",
+        "heading_bgimg_mobile": "shopify://shop_images/text2-bg.jpg",
+        "subheading": "6.2:1 High-Speed Retrieve",
+        "subheading_size": "44px",
+        "subheading_size_mobile": "16px",
+        "info": "<p>Weight reduction, smooth rotation, and high response enhance the spinning action of the reel. Its effortless rotation allows anglers to enjoy an excellent fishing experience.</p>",
+        "info_size": "24px",
+        "info_size_mobile": "14px"
+      }
+    },
+    "6ff75c67-5637-4dc2-9a67-b0db0e8344de": {
+      "type": "aa-cp-s4-1",
+      "disabled": true,
+      "settings": {
+        "bgimg": "shopify://shop_images/PC_1.gif",
+        "bgimg_mobile": "shopify://shop_images/000M.gif",
+        "heading": "SILKY SMOOTH FREE ROTATION",
+        "heading_size": "70px",
+        "heading_size_mobile": "25px",
+        "heading_bgimg": "shopify://shop_images/text1-bg_2128a452-14e5-4a5a-9a18-449370ab6f83.jpg",
+        "heading_bgimg_mobile": "shopify://shop_images/text2-bg.jpg",
+        "subheading": "6.2:1 High-Speed Retrieve",
+        "subheading_size": "44px",
+        "subheading_size_mobile": "16px",
+        "info": "<p>Weight reduction, smooth rotation, and high response enhance the spinning action of the reel. Its effortless rotation allows anglers to enjoy an excellent fishing experience.</p>",
+        "info_size": "24px",
+        "info_size_mobile": "14px"
+      }
+    },
+    "1650bd2d-7906-4b40-b6dc-8826aecea540": {
+      "type": "aa-cp-s5",
+      "blocks": {
+        "7d14ed63-8bec-4d6f-b999-e6d5ad32db8a": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_08.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism-M__06.jpg",
+            "title": "Air-Carbon Handle",
+            "title_size": "30px",
+            "title_size_mobile": "16px",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+          }
+        },
+        "8600561c-b004-4db5-8b93-7c4572c99291": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_10.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism_pc-2_10.jpg",
+            "title": "Air-Carbon Body",
+            "title_size": "30px",
+            "title_size_mobile": "16px",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+          }
+        },
+        "947f1930-697d-4b1c-a8af-e08b69b7f6c3": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_17.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism_pc-2_17.jpg",
+            "title": "Air-Carbon Rotor",
+            "title_size": "30px",
+            "title_size_mobile": "16px",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+          }
+        },
+        "d20b1a62-ffae-4a64-91d2-d319dc1ca7c0": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_14.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism_pc-2_14.jpg",
+            "title": "Air-Carbon Drag",
+            "title_size": "30px",
+            "title_size_mobile": "16px",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+          }
+        }
+      },
+      "block_order": [
+        "7d14ed63-8bec-4d6f-b999-e6d5ad32db8a",
+        "8600561c-b004-4db5-8b93-7c4572c99291",
+        "947f1930-697d-4b1c-a8af-e08b69b7f6c3",
+        "d20b1a62-ffae-4a64-91d2-d319dc1ca7c0"
+      ],
+      "settings": {
+        "bgimg": "shopify://shop_images/3_0301a6ff-0cbb-4736-852c-c42fe7f35389.jpg",
+        "bgimg_mobile": "shopify://shop_images/carbon-prism-M_-bg3_02.jpg",
+        "heading": "CARBON TECHNOLOGY",
+        "heading_size": "70px",
+        "heading_size_mobile": "27px",
+        "heading_bgimg": "shopify://shop_images/text2-bg.jpg",
+        "heading_bgimg_mobile": "shopify://shop_images/text1-bg_2128a452-14e5-4a5a-9a18-449370ab6f83.jpg",
+        "info": "<p>Designed with an ultralight carbon fiber body, rotor, and handle assembly, every turn of the fishing reel inspires anglers to pursue their target species confidently.</p>",
+        "info_size": "24px",
+        "info_size_mobile": "14px",
+        "show_button": true,
+        "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet",
+        "button": "SHOP NOW",
+        "button_size": "26px",
+        "button_size_mobile": "14px"
+      }
+    },
+    "ae6f6a44-6fcd-4ba8-95b4-1e17cf2a7908": {
+      "type": "aa-cp-banner",
+      "blocks": {
+        "82f5c1a2-2e15-40ad-aac2-ce9934a1e321": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_20.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism-M__18.jpg"
+          }
+        },
+        "365504e4-2768-4122-801b-7f7f3b1edb11": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/1920-4-fotor-20230913135847.jpg",
+            "image_mobile": "shopify://shop_images/960-4.jpg"
+          }
+        },
+        "68fba487-83bc-4a0b-bb0f-df0681d3ac33": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/1920-1-fotor-20230913135813.jpg",
+            "image_mobile": "shopify://shop_images/960-5.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "82f5c1a2-2e15-40ad-aac2-ce9934a1e321",
+        "365504e4-2768-4122-801b-7f7f3b1edb11",
+        "68fba487-83bc-4a0b-bb0f-df0681d3ac33"
+      ],
+      "settings": {
+      }
+    },
+    "82ffb55d-cb72-4c7e-9465-0d191c15610c": {
+      "type": "aa-cp-s7",
+      "settings": {
+        "bgimg": "shopify://shop_images/1_2557f66d-c19c-4b63-8a98-c34e8f35bf44.jpg",
+        "bgimg_mobile": "shopify://shop_images/2_20fc8dbf-f64e-416d-8296-6c51ae87eced.jpg",
+        "heading": "ULTRA SMOOTHING",
+        "heading_size": "70px",
+        "heading_size_mobile": "27px",
+        "heading_bgimg": "shopify://shop_images/text2-bg.jpg",
+        "heading_bgimg_mobile": "shopify://shop_images/text2-bg.jpg",
+        "info": "<p>This is a super smooth functioning spinning reel that works well. You can effortlessly operate with excellent control over line and lure. The drag setting is simple to use and provides the right amount when adjusted correctly. It is a sharp-looking reel with bright colors. Perfect for those who are in the beginning of spooling up with braid.</p>",
+        "info_size": "24px",
+        "info_size_mobile": "14px",
+        "show_button": true,
+        "button": "SHOP NOW",
+        "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet",
+        "button_size": "26px",
+        "button_size_mobile": "14px",
+        "image_1": "shopify://shop_images/carbon-prism_pc-2_23.jpg",
+        "image_1_mobile": "shopify://shop_images/carbon-prism-M__21.jpg",
+        "image_1_link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet",
+        "image_2": "shopify://shop_images/carbon-prism_pc-2_26.jpg",
+        "image_2_mobile": "shopify://shop_images/carbon-prism-M__24.jpg",
+        "image_2_link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+      }
+    },
+    "89caa463-2b8a-4f60-a42a-e850b3e0d208": {
+      "type": "aa-cp-banner",
+      "blocks": {
+        "e974850f-9063-4171-a0bc-11e1f4b15b59": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_29.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism-M__27.jpg"
+          }
+        },
+        "3c479477-4d94-4205-82eb-a7e8e9dd8067": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/1920-5.jpg",
+            "image_mobile": "shopify://shop_images/960-6.jpg"
+          }
+        },
+        "5871c69f-5016-41bd-b719-e496af25dd3a": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/1920-3.jpg",
+            "image_mobile": "shopify://shop_images/960-1.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "e974850f-9063-4171-a0bc-11e1f4b15b59",
+        "3c479477-4d94-4205-82eb-a7e8e9dd8067",
+        "5871c69f-5016-41bd-b719-e496af25dd3a"
+      ],
+      "settings": {
+      }
+    },
+    "44edea8e-cfbe-4d54-a0c2-93cfc3bb5a79": {
+      "type": "aa-cp-s9",
+      "blocks": {
+        "74551ac0-7724-4155-bf25-51f3cc28bc58": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_31.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism-M__30.jpg",
+            "heading": "CAST AMAZING",
+            "heading_size": "70px",
+            "heading_size_mobile": "27px",
+            "heading_bgimg": "shopify://shop_images/text1-bg_2128a452-14e5-4a5a-9a18-449370ab6f83.jpg",
+            "heading_bgimg_mobile": "shopify://shop_images/text1-bg_2128a452-14e5-4a5a-9a18-449370ab6f83.jpg",
+            "info": "<p>The reel has an excellent drag system and is quite light. It has incredibly smooth spinning, forward and reverse, the drag is quickly adjustable so you can loosen or tighten it according to how hard a fish is fighting, and the anti-reverse locks in any position, preventing the jump some reels have when clicking into a stop. </p>",
+            "info_size": "24px",
+            "info_size_mobile": "14px",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet?variant=40573912318021"
+          }
+        },
+        "ac5419e3-1e0d-42ff-8450-b0c21fe02172": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_35.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism-M__33.jpg",
+            "heading": "",
+            "heading_size": "70px",
+            "heading_size_mobile": "27px",
+            "info": "<p>The reel action is ultra smooth, and the line loading process was extremely easy. It is a great reel, with great colors, great action, and a great price.</p>",
+            "info_size": "26px",
+            "info_size_mobile": "15px",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet?variant=40573912318021"
+          }
+        },
+        "b6f611d2-a014-40a2-ade4-82a1a1f43af0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_pc-2_40.jpg",
+            "image_mobile": "shopify://shop_images/carbon-prism-M__35.jpg",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+          }
+        }
+      },
+      "block_order": [
+        "74551ac0-7724-4155-bf25-51f3cc28bc58",
+        "ac5419e3-1e0d-42ff-8450-b0c21fe02172",
+        "b6f611d2-a014-40a2-ade4-82a1a1f43af0"
+      ],
+      "settings": {
+        "bgimg": "shopify://shop_images/1_2f472480-5dcb-435b-baf6-f65ea9bf2f2c.jpg",
+        "show_button": true,
+        "button": "SHOP NOW",
+        "button_size": "26px",
+        "button_size_mobile": "14px"
+      }
+    },
+    "22e345aa-517c-4d60-9965-0b75b681df52": {
+      "type": "aa-cp-s10",
+      "settings": {
+        "heading": "PRODUCT STORY",
+        "heading_size": "70px",
+        "heading_size_mobile": "27px",
+        "heading_bgimg_mobile": "shopify://shop_images/text2-bg.jpg",
+        "info": "<p>Precision-engineered and constructed with durability in mind, the Carbon Prism spinning reel features lightweight yet robust construction. The sparkling finish and modern aesthetic reflect the craftsmanship and passion behind its creation.</p>",
+        "info_size": "24px",
+        "info_size_mobile": "14px",
+        "image": "shopify://shop_images/carbon-prism_pc-2_43.jpg",
+        "image_mobile": "shopify://shop_images/carbon-prism-M__37.jpg"
+      }
+    },
+    "37be7442-3161-4112-a29b-abd1526155b3": {
+      "type": "aa-cp-s11",
+      "blocks": {
+        "a01bce5e-bf76-4207-b1d7-f8a76bd07774": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/09.png",
+            "model": "Carbon X",
+            "parameter": "<table><tbody>\n<tr><td>Model 2000</td></tr>\n<tr><td>Bearings 10+1</td></tr>\n<tr><td>Gear Ratio 6.2:1</td></tr>\n<tr><td>Weight 7.8 oz</td></tr>\n<tr><td>Freshwater Fishing</td></tr>\n<tr><td>Carbon fiber body and rotor</td></tr>\n</tbody></table>",
+            "price": "$64.99",
+            "link": "https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-lightest-carbon-spinning-reel"
+          }
+        },
+        "800312fa-e696-4c06-bb92-4f4dc0362ba7": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/10.png",
+            "model": "Carbon X II",
+            "parameter": "<table><tbody>\n<tr><td>Model 2000</td></tr>\n<tr><td>Bearings 10+1</td></tr>\n<tr><td>Gear Ratio 6.2:1</td></tr>\n<tr><td>Weight 7.2 oz</td></tr>\n<tr><td>Freshwater Fishing</td></tr>\n<tr><td>Carbon fiber body and rotor</td></tr>\n</tbody></table>",
+            "price": "$79.99",
+            "link": "https://www.piscifun.com/products/piscifun-carbon-x-ii-spinning-reels"
+          }
+        },
+        "c0757b3a-5e19-42fc-b3d7-af445f899925": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/11.png",
+            "model": "Carbon Prism Vioet",
+            "parameter": "<table><tbody>\n<tr><td>Model 2000</td></tr>\n<tr><td>Bearings 10+1</td></tr>\n<tr><td>Gear Ratio 6.2:1</td></tr>\n<tr><td>Weight 7.2 oz</td></tr>\n<tr><td>Freshwater Fishing</td></tr>\n<tr><td>Carbon fiber body, rotor, and handle</td></tr>\n</tbody></table>",
+            "price": "$79.99",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+          }
+        },
+        "3c6b999b-b016-46c5-b666-66d6888433d3": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/12.png",
+            "model": "Carbon Prism Seafoam",
+            "parameter": "<table><tbody>\n<tr><td>Model 2000</td></tr>\n<tr><td>Bearings 10+1</td></tr>\n<tr><td>Gear Ratio 6.2:1</td></tr>\n<tr><td>Weight 7.2 oz</td></tr>\n<tr><td>Freshwater Fishing</td></tr>\n<tr><td>Carbon fiber body, rotor, and handle</td></tr>\n</tbody></table>",
+            "price": "$79.99",
+            "link": "https://www.piscifun.com/products/carbon-prism-spinning-reels-ultralight-seafoam-violet?variant=40573912318021"
+          }
+        }
+      },
+      "block_order": [
+        "a01bce5e-bf76-4207-b1d7-f8a76bd07774",
+        "800312fa-e696-4c06-bb92-4f4dc0362ba7",
+        "c0757b3a-5e19-42fc-b3d7-af445f899925",
+        "3c6b999b-b016-46c5-b666-66d6888433d3"
+      ],
+      "settings": {
+        "model_size": "18px",
+        "model_size_mobile": "18px",
+        "price_size": "18px",
+        "price_size_mobile": "18px",
+        "parameter_size": "18px",
+        "parameter_size_mobile": "18px",
+        "show_button": true,
+        "button": "SHOP NOW",
+        "button_size": "18px",
+        "button_size_mobile": "14px"
+      }
+    },
+    "4a4618de-9c06-459e-80b6-d9d740fc7cb7": {
+      "type": "aa-cp-ads",
+      "settings": {
+        "image": "shopify://shop_images/pc_093c61cf-bf80-4f6d-afda-542ae5180eb7.jpg",
+        "image_mobile": "shopify://shop_images/carbon-prism-M__01.jpg",
+        "link": "/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+      }
+    },
+    "44c9617e-5443-47b5-b2a7-391cd065e828": {
+      "type": "aa-cp-extra",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "d956281a-fbbf-44df-b7b1-5d7953a7ffe3",
+    "18f564b8-04bd-4b2b-b092-6077da2bea94",
+    "efd99a0d-f3a0-483a-bd3b-e67d4fb8501b",
+    "32306b97-4123-409c-a472-ea106a5ff103",
+    "6ff75c67-5637-4dc2-9a67-b0db0e8344de",
+    "1650bd2d-7906-4b40-b6dc-8826aecea540",
+    "ae6f6a44-6fcd-4ba8-95b4-1e17cf2a7908",
+    "82ffb55d-cb72-4c7e-9465-0d191c15610c",
+    "89caa463-2b8a-4f60-a42a-e850b3e0d208",
+    "44edea8e-cfbe-4d54-a0c2-93cfc3bb5a79",
+    "22e345aa-517c-4d60-9965-0b75b681df52",
+    "37be7442-3161-4112-a29b-abd1526155b3",
+    "4a4618de-9c06-459e-80b6-d9d740fc7cb7",
+    "44c9617e-5443-47b5-b2a7-391cd065e828"
+  ]
+}

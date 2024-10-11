@@ -1,0 +1,231 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "031efc02-a318-4acc-84d0-4720ed3d0a60": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14725291343941__031efc02-a318-4acc-84d0-4720ed3d0a60-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "OTHER FISHING REELS",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14725291343941__031efc02-a318-4acc-84d0-4720ed3d0a60-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "a387db69-eb7e-4aa3-9c85-8e38a5c014b5": {
+      "type": "gallery",
+      "blocks": {
+        "template--14725291343941__a387db69-eb7e-4aa3-9c85-8e38a5c014b5-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291343941__a387db69-eb7e-4aa3-9c85-8e38a5c014b5-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291343941__a387db69-eb7e-4aa3-9c85-8e38a5c014b5-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291343941__a387db69-eb7e-4aa3-9c85-8e38a5c014b5-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14725291343941__a387db69-eb7e-4aa3-9c85-8e38a5c014b5-image-1",
+        "template--14725291343941__a387db69-eb7e-4aa3-9c85-8e38a5c014b5-image-2",
+        "template--14725291343941__a387db69-eb7e-4aa3-9c85-8e38a5c014b5-image-3",
+        "template--14725291343941__a387db69-eb7e-4aa3-9c85-8e38a5c014b5-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Conventional Reels",
+            "answer": "<p>The conventional fishing reel stands out among the most powerful baitcasting type fishing reels for sale. Before low-profile <a href=\"https://www.piscifun.com/collections/baitcasting-reel\" target=\"_blank\" title=\"Casting Reels\">baitcasting reels</a> arrived, the conventional reel was the go-to standard. Today, when shopping for bass fishing reels, anglers go for the low profile. While conventional fishing reels can still work great as baitcasters with the significant advantage of holding more lines, customized versions of this traditional favorite are specifically targeted at anglers who need to troll or jig to catch their fish. However, the common practice is to use a conventional reel for big fish while trolling or jigging, and it is also a good catfish reel if you pursue larger blues or flathead catfish.</p><p>In addition to holding more lines than a bait caster, conventional fishing reels offer strong drag systems, fast retrieval rates, a level wind feature to minimize twists and an instant-acting anti-reverse mechanism.</p><p>As always, the first decision you must make when looking at reels for fishing is to choose the correct size of the reel for the fish species. For trolling, the 3000 size is the typical starting point. At that size, the conventional reel has plenty of line capacity to deal with the distance a lure trails the boat. Jigging reels come in a variety of sizes as well. Since anglers use a purpose-specific jigging reel only in exceptionally deep water, as long as the size selected has a robust drag and plenty of line capacity, the size may not matter as much as it would when picking a fishing <a href=\"https://www.piscifun.com/collections/spinning-reel\" target=\"_blank\" title=\"Spinning Reels\">spinning reel</a>, a low profile bait caster, or another type of fishing reel.</p><p>As with all reels, buy quality; it will last a lifetime. Quality comes down to material, construction, weight, and drag system.</p><h5><strong>Material:</strong> </h5><p>Look for reels made from aircraft-grade hard anodized aluminum or graphite. These materials will not rust and can withstand a reasonable amount of abuse. Avoid any conventional reel not rated for salt and freshwater. The saltwater designation confirms that the manufacturer used material resistant to corrosion – something very important for the ball bearings.</p><h5><strong>Construction:</strong> </h5><p>CNC machining and precisely cut internal gears indicate attention to detail that will produce a smoothly operating fishing reel. Since anglers use these reels for fishing deep water, the gear ratio must be at least 6.2:1. Otherwise, it will take far too long to retrieve the lure, bait, or, hopefully, a fish. Be sure the reel has a level wind mechanism to keep the line evenly spread across the spool. Level line mechanisms use either a worm gear or a line guide. A worm gear uses a spiral-shaped gear that moves back and forth along the spool, while a line guide uses a small arm traveling side to side along the spool. Many experts recommend the more durable and stable worm gear, but this type adds more weight and friction to the reel. Line guides are usually lighter and faster but wear out sooner and can cause line twists.</p><h5><strong>Weight:</strong> </h5><p>Manufacturers assume you will use a rod holder when using the conventional reel as a trolling reel. Taking advantage of this, they use robust, heavy-duty components with a spool design emphasizing line capacity. In short, in the trolling configuration, weight is not an issue. On the other hand, you will hold the rod and reel when jigging. When evaluating jigging reels, assess the reel’s weight in conjunction with the rod and lure typically used. As always, a lighter weight is better.</p><h5><strong>Drag: </strong></h5><p>Trolling and jigging reels must have high-quality drag systems using carbon fiber washers. Avoid any drag based on cork or felt washers since they wear out quickly and may develop flat spots that cause the drag to slip, usually at the worst possible time. Big fish, strong drag! The drag needs to be at least 30 pounds – more is better.</p><p>Now, you must make a decision when looking at these types of <a href=\"https://www.piscifun.com/collections/reels\" target=\"_blank\" title=\"FISHING REELS\">fishing reels</a>. You should sort your potential conventional reel options from high cost to low, list the features you need and work down the list. You will be surprised at how low you can go and still meet all your requirements!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "LEARN MORE ABOUT CONVENTIONAL REELS"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Is a conventional reel the same as a baitcaster?",
+            "answer": "<p>Yes, a conventional reel and a bait caster are the same type of fishing reel. They are often referred to interchangeably in fishing terminology. Both terms refer to a specific type of reel commonly used for casting and retrieving fishing lines, particularly in baitcasting setups. These reels have a spool that rotates during casting and retrieval and are typically mounted on the fishing rod. They require the angler to manually apply thumb pressure on the spool during casting to control the line's release and prevent backlash. So, in short, a conventional reel and a bait caster are different names for the same type of reel.</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "How to spool a conventional reel?",
+            "answer": "<p>A conventional reel is spooled in the same manner as a baitcaster.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "197c2396-f83b-4dc7-8358-a3f7a6bc6e05": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"Is a conventional reel the same as a baitcaster?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Yes, a conventional reel and a bait caster are the same type of fishing reel. They are often referred to interchangeably in fishing terminology. Both terms refer to a specific type of reel commonly used for casting and retrieving fishing lines, particularly in baitcasting setups. These reels have a spool that rotates during casting and retrieval and are typically mounted on the fishing rod. They require the angler to manually apply thumb pressure on the spool during casting to control the line's release and prevent backlash. So, in short, a conventional reel and a bait caster are different names for the same type of reel.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"How to spool a conventional reel?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"A conventional reel is spooled in the same manner as a baitcaster.\"\n    }\n  }]\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "031efc02-a318-4acc-84d0-4720ed3d0a60",
+    "a387db69-eb7e-4aa3-9c85-8e38a5c014b5",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "197c2396-f83b-4dc7-8358-a3f7a6bc6e05"
+  ]
+}

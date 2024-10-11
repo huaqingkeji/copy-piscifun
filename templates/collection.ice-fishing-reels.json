@@ -1,0 +1,239 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": true,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "5e3d261d-a1d1-42de-baf4-880988c96269": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14725291278405__5e3d261d-a1d1-42de-baf4-880988c96269-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "OTHER FISHING REELS",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14725291278405__5e3d261d-a1d1-42de-baf4-880988c96269-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "f186f55d-d691-4531-8d07-89205963e802": {
+      "type": "gallery",
+      "blocks": {
+        "template--14725291278405__f186f55d-d691-4531-8d07-89205963e802-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_rod_aabfa6d8-a083-4d88-9461-b6efd393b77b.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "ice fishing rod",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-rod",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14725291278405__f186f55d-d691-4531-8d07-89205963e802-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_clothing.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "ice fishing clothing",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-apparel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14725291278405__f186f55d-d691-4531-8d07-89205963e802-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_tent.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing tent",
+            "button_label": "",
+            "link": "shopify://products/3-4-person-ice-fishing-shelter-pop-up-ice-fishing-tent",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14725291278405__f186f55d-d691-4531-8d07-89205963e802-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14725291278405__f186f55d-d691-4531-8d07-89205963e802-image-2",
+        "template--14725291278405__f186f55d-d691-4531-8d07-89205963e802-image-3",
+        "template--14725291278405__f186f55d-d691-4531-8d07-89205963e802-image-4",
+        "template--14725291278405__f186f55d-d691-4531-8d07-89205963e802-image-1"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Ice Fishing Reels",
+            "answer": "<p>There are two basic types of ice fishing reels for sale, inline free spool reels (sometimes called spooler reels) and small spinning reels, usually size 500 or 1000. While you can use either of these reels for fishing, there are clear advantages to selecting one over the other based on what you fish for and where you fish. Understanding those situational variables takes precedence over evaluating the ice fishing reel based on line capacity, gear ratio, number of ball bearings, construction material, and drag. Check those later when assessing the chosen type of ice fishing reel. <br/>The inline free spool reel has a unique look for those unfamiliar with ice fishing. Manufacturers engineer it to optimize the characteristics critical to a successful day on the ice. The ice fishing spooler reel looks like a skinny fly fishing reel with a handle and, ideally, a trigger to release and stop the line. <br/>Here are the advantages and disadvantages of the inline ice fishing reel and the small ice fishing spinning reel. Use these to decide which ice fishing reel is best for you.</p><h4><br/><strong>Inline Freespool Ice Fishing Reel:</strong></h4><p><br/>The primary use of the inline reel is for shallow water and smaller fish such as crappie, perch, small walleye, and panfish. <br/>Advantages:<br/>· The spooler reel is easier to operate with gloves on. Unlike a spinning ice fishing reel, you can release the line with the trigger, stop it, and start jigging with one hand.<br/>· The trigger allows precise control over depth. It goes without saying to avoid a spooler reel without a trigger. Some anglers believe manually pulling the line out allows for slower fishing and more control over the depth. However, once you spend a day doing that, you will wish the reel had a trigger!<br/>· Since the line falls directly off the spool, it does not have the line twist typically associated with the ice fishing spinning reel. Line twist causes a small lure to spin as the line unwinds, scaring the fish. Also, you may use a thicker line without worrying about line twists.<br/>· While older ice fishing spool reels have a 1:1 gear ratio, the newer and better reels have gear ratios of 2.6:1, 2.7:1, and 3.2:1. The higher gear ratio is beneficial if fishing in deep water.<br/>· Inline reels have fewer internal components than spinning reels and are more reliable.<br/>· Inline reels do not have the problem of ice buildup around the bail common to spinning reels.<br/>Disadvantages:<br/>· Once the depth exceeds 30 feet, a spinning reel is better. <br/>· An inline spooler reel has a lower gear ratio than a spinning reel.<br/>· Putting too many lines on the reel is an easy mistake. An overfull reel will experience tangles when you least want to deal with them.<br/>· The line capacity of an inline free spool reel is less than a spinning reel.<br/>· Since the primary target with these ice fishing reels is smaller fish, they are best with light lines rated four-pound test or less.</p><h4><br/><strong>Ice Fishing Spinning Reel: </strong></h4><p><br/>The primary use of an ice fishing spinning reel is to pursue larger fish in deeper water with a diverse set of lures or bait.<br/>Advantages:<br/>· These reels work best for larger fish.<br/>· Anglers can use larger spoons, jigs, and even live bait.<br/>· The higher gear ratio of 5.2:1 makes it easier to land larger fish quickly.<br/>· The larger spinning reel spool supports greater line capacity that will hold a significant amount of stronger line, with the 1000 series efficiently handling a ten-pound test line.<br/>· The typical ice fishing spinning reel has a better drag system, including multiple carbon fiber washers (avoid felt or cork-based drag systems!).<br/>· Ice fishing spinning reels allow the angler to drop the lure or bait faster to depth, maximizing time in the target zone and bite window.<br/>· Most anglers already know how to operate a spinning reel – no learning curve.<br/>· You can use a spinning reel on small streams in the spring and summer, maximizing the investment.<br/>· The technology used in spinning reels is mature. This results in exceptionally durable products that can withstand the harsh conditions of ice fishing.<br/>Disadvantages: <br/>· The most significant disadvantage of using a spinning reel for ice fishing is line twist. As a result of the spinning reel design, it puts twists in the line as it unwinds from the spool in a spiral motion. The twisting causes smaller jigs or spoons to spin when they reach depth. The spin scares fish.<br/>· The small 500 and 1000 spinning reels used in ice fishing may not have an anti-reverse switch.<br/>· Due to the bail and spool arrangement on a spinning reel, they will experience more ice buildup. The angler needs to pay more attention to the reel when using it to clear ice.<br/>· The higher gear ratio makes an ice fishing spinning reel inappropriate for shallow-water fishing using small jigs. Each turn of the handle draws too much line in too fast.<br/>· Ice fishing spinning reels are typically heavier than an inline spool reel and take up more storage space. The additional weight can be tiring when holding and jigging for an extended time.<br/>Look for clues to premium features and solid construction when evaluating any reel. For an inline free spool ice fishing reel, one priceless feature is a magnetic drop speed control system that provides the ability to adjust the speed of the drop. The best reels have a dual-mode trigger, offering free spool and lock adjustments. Avoid spooler ice fishing reels using plastic washers in the drag system! Look for carbon fiber!<br/>Both reels should have frames constructed of graphite, carbon fiber, or aluminum for durability. Look for at least five ball bearings; more is better and shielded bearings are best for long life. Check out the expanded view of the reel to review details on the internal construction. Specifically, look for CNC machining, brass or zinc alloy gearing (rust resistant), and a spool made from aluminum or carbon fiber on spinning reels. Avoid graphite spinning reel spools! They are prone to cracking when used with monofilament. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "Learn More About ice fishing Reels"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What size ice reel for lake trout?",
+            "answer": "<p>Usually, Lake Trout are targeted deep in the water column, meaning a 2000-size reel like the<a href=\"https://www.piscifun.com/products/carbon-x-spinning-reel\" target=\"_blank\" title=\"PISCIFUN® Carbon X Spinning Reel\">Carbon X</a>is perfect.</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "What is the advantage of an inline ice fishing reel?",
+            "answer": "<p>Inline Ice Fishing reels offer a great advantage. The line is spooled on the reel \"in line\" rather than coiled around like a Spinning Reel, allowing the angler to avoid what is known as \"jig spin.\" which makes it easier to trick finicky fish while Ice Fishing.</p>"
+          }
+        },
+        "a23f6659-1ba9-4e48-b77c-9f9a8da53fe1": {
+          "type": "question",
+          "settings": {
+            "title": "How much line do I need for an ice fishing reel?",
+            "answer": "<p>It is best to follow the recommended specs on the fishing reel.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2",
+        "a23f6659-1ba9-4e48-b77c-9f9a8da53fe1"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "3857462c-63d4-45db-b8b0-0c9acf7a57ba": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"What size ice reel for lake trout?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Usually, Lake Trout are targeted deep in the water column, meaning a 2000-size reel like theCarbon Xis perfect.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What is the advantage of an inline ice fishing reel?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Inline Ice Fishing reels offer a great advantage. The line is spooled on the reel \\\"in line\\\" rather than coiled around like a Spinning Reel, allowing the angler to avoid what is known as \\\"jig spin.\\\" which makes it easier to trick finicky fish while Ice Fishing.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"How much line do I need for an ice fishing reel?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"It is best to follow the recommended specs on the fishing reel.\"\n    }\n  }]\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "5e3d261d-a1d1-42de-baf4-880988c96269",
+    "f186f55d-d691-4531-8d07-89205963e802",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "3857462c-63d4-45db-b8b0-0c9acf7a57ba"
+  ]
+}

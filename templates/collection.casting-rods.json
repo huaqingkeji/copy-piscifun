@@ -1,0 +1,239 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Casting Rods",
+            "answer": "<p>There are many types of <a href=\"https://www.piscifun.com/collections/rods\" target=\"_blank\" title=\"Fishing Rods\">fishing rods</a>! Before choosing the best catfish or bass fishing rod, you must understand the \"language of rod construction\" to select the best fishing pole for each application. These are power, action, length, composition, and components. Here is a quick summary:</p><h5><strong>· Power:</strong> </h5><p>Measures how much force it takes to bend the rod. High-power fishing rods are stiffer, stronger, and can handle heavy lures. Conversely, a light power fishing rod is very flexible and ideally suited to throw lightweight lures. A heavy power baitcasting rod will handle large fish and heavy lures and is suitable for hauling fish from dense cover. This fishing pole type is well suited as a catfish rod when pursuing blues or flathead cats. Never overmatch a rod by throwing heavy lures on light power rods since that will stress and eventually break the tip. Manufacturers imprint the casting rod's rating and recommended lure weights near the reel seat.</p><h5><strong>· Action:</strong> </h5><p>Measures how much and where the rod bends. Ratings range from extra fast to slow. A fast-action fishing rod bends at the tip; slow-action bends closer to the reel. Fast-action baitcasting rods are more sensitive and accurate; slow action provides more leverage and cushioning against a strong hit.</p><h5><strong>· Length:</strong> </h5><p>Longer casting rods cast farther. Shorter fishing rods are more accurate. Choose the length based on how spooky the fish are where you go fishing.</p><h5><strong>· Composition:</strong> </h5><p>Baitcasting rods come in various rod materials, including fiberglass, graphite, and composite (graphite+fiberglass). Each has unique characteristics of weight, durability, and sensitivity. Most anglers choose a graphite baitcasting rod as a bass fishing rod since these are lighter and more sensitive despite being more prone to breakage than fiberglass or composite. Fiberglass is almost indestructible, but that comes at the price of reduced sensitivity and responsiveness. A composite rod attempts to thread the needle to optimize the middle ground between graphite and fiberglass.</p><h5><strong>· Components:</strong> </h5><p>This is where the devil is in the details. Checking for these rod materials will help you avoid cheap fishing rods. Look for a reinforced reel lockup and quality rod guides. Fuji reel seats have a well-deserved reputation for quality. Check that there is at least one guide for every foot of length. Fishing rod guides made from aluminum oxide, stainless steel, silicon carbide, or titanium with ceramic inserts are the most durable. Of these choices, titanium and silicon are lighter, more rigid, and more sensitive. Confirm the handle is the correct length for your application (kayak, boat, bank) and fishing style. Handles made with cork tend to absorb water and dirt. For that reason, an EVA handle is a better option. Check for a hook keeper.</p><h4><strong>Best Baitcasting Rod for Bass Fishing:</strong> </h4><p>Bass anglers use a medium or medium heavy power with moderately fast action as their go-to bass fishing rod. A medium-heavy power casting rod allows you to throw heavier swimbaits, crankbaits, spinner baits, casting jigs, heavy Carolina rigs, and many other popular terminal tackle options. At the same time, fast action provides the needed sensitivity. A medium-heavy baitcasting rod is perfect for pulling large fish out of heavy cover.</p><p>Bass anglers choose a medium power baitcasting rod for finesse fishing, where sensitivity is vital. Match the medium power casting rod with lighter lures to include Texas rigs, topwater presentations, jerk baits, grubs, and other lures weighing up to 3/8 ounces. Moderate to fast action is the preferred choice. </p><p>Select the rod length based on where you are fishing. Go long if fishing for skittish fish, and distance is vital. Go short if you are fishing around heavy cover where accuracy is critical. Longer rods also provide more leverage if you haul a fish out of cover.</p><h4><strong>Best Baitcasting Rod for Catfish Fishing:</strong> </h4><p>Catfishers prefer medium or medium heavy baitcasting rods with moderate to moderate-fast action as their catfish rod. Use either power for channel cats, but upgrade to a medium heavy for the larger blues or flatheads. The advantage of a medium-heavy power baitcasting rod is that you can use heavier baits that require the additional stiffness associated with the higher power rating. For example, sliding sinker rigs with live or cut bait are usually heavier than jigs and need a stiffer casting rod to throw them effectively. Once you return to jigs, soft plastic trailers, or spinnerbaits, your best option is to use the medium power casting rod to increase its sensitivity. Another good option is to pair a conventional baitcasting reel with the rod instead of a low-profile reel. Conventional casting reels have more line capacity and a more powerful drag to pull in the monsters! Finally, some casting rods for catfish offer night fishing features such as an illuminated tip – an option that makes detecting a hit at night easier!</p><h4><a href=\"https://www.piscifun.com/collections/saltwater-fishing-gear\" target=\"_blank\" title=\"Saltwater Fishing Gear\"><strong>Saltwater fishing</strong></a><strong>:</strong> </h4><p>Given the opportunity to catch larger fish, your saltwater fishing rod must be heavy action. While plenty of fish is in the \"chop,\" you can catch using a medium-heavy saltwater rod; go to a long, heavy power rod to get the leverage needed to throw big chunks of cut bait beyond the surf for the monsters.</p><p></p><p></p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "Learn more about casting rods"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is the difference between casting and spinning rods?",
+            "answer": "<p>Casting rods and spinning rods are two different fishing rods designed for use with specific reels: baitcasting reels and spinning reels, respectively. The main differences between casting and spinning rods are as follows: </p><h5><strong>Reel Placement:</strong> </h5><p>Casting rods are designed to be used with <a href=\"https://www.piscifun.com/collections/baitcasting-reel\" target=\"_blank\" title=\"Casting Reels\">baitcasting reels</a>, which are mounted on top of the rod. The reel seat on a casting rod is positioned on the upper side, closer to the handle. Spinning rods, on the other hand, are designed for use with spinning reels, which are mounted on the underside of the rod. The reel seat on a spinning rod is located on the lower side. </p><h5><strong>Line Guides:</strong> </h5><p>Casting rods typically have smaller and fewer line guides than <a href=\"https://www.piscifun.com/collections/spinning-rods\" target=\"_blank\" title=\"Spinning Rods\">spinning rods</a>. The line guides on a casting rod are smaller because the line comes off the top of the spool in a straighter path. Spinning rods have larger and more numerous line guides because the line comes off the spinning reel's spool in a circular motion. </p><h5><strong>Line Control:</strong> </h5><p>Casting rods are optimized for casting accuracy and control. The line is released from a baitcasting reel by applying thumb pressure on the spool during the cast. The design of a casting rod allows for better thumb control and line manipulation during the cast. On the other hand, spinning rods are designed for ease of use and versatility. The line is released from a spinning reel by opening the bail, and the line is guided off the spool by a rotating line roller. </p><h5><strong>Casting Technique:</strong> </h5><p>Casting rods and baitcasting reels are typically used for casting heavier lures or baits. The angler controls the cast using the weight of the lure, and the reel's spool rotation is controlled by thumb pressure. Spinning rods and spinning reels are generally used for lighter lures or baits. The line is released by opening the bail, and the cast is initiated by the motion of the rod, with the spinning reel controlling the line release. </p><h5><strong>Angler Preference:</strong> </h5><p>The choice between a casting rod and a spinning rod often comes down to personal preference and fishing style. Some anglers prefer the accuracy and control offered by baitcasting reels and casting rods, especially for techniques that require precise casting and lure presentation. Others prefer the ease of use and versatility of spinning reels and spinning rods, particularly for finesse fishing or when using lighter lures. It's important to note that casting rods are primarily used with baitcasting reels, and spinning rods are used with spinning reels, and there can be exceptions and hybrid setups available that cater to specific fishing needs and preferences.</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "What are casting rods used for?",
+            "answer": "<p>Casting rods are used for many different applications across many species, and it is best to research the species and technique you plan to use to understand if a casting rod is correct for you.</p>"
+          }
+        },
+        "478269d8-785f-4f31-9049-84b19b8ae361": {
+          "type": "question",
+          "settings": {
+            "title": "What is the difference between a surf rod and casting rod?",
+            "answer": "<p>The difference between a surf rod and a casting rod lies in their design and intended use: </p><h5><strong>Length and Power:</strong> </h5><p>Surf rods are typically longer and more powerful than casting rods. They are designed to cast long distances from the shoreline or surf and to handle larger fish species commonly found in saltwater environments. Surf rods typically range from 8 to 15 feet long, providing increased casting distance and leverage to handle challenging surf conditions. In contrast, casting rods are generally shorter and come in a wider range of lengths, powers, and actions, depending on the specific fishing technique and target species. </p><h5><strong>Casting Performance:</strong> </h5><p>Surf rods are specifically designed for long-distance casting. They feature longer, more flexible blank and larger line guides to allow the line to flow smoothly during long casts. The length and action of a surf rod help generate the power and momentum needed to cast heavy lures or bait beyond the breaking waves. On the other hand, casting rods are designed for accuracy and control in various fishing scenarios. They may have a shorter and stiffer blank, allowing for more precise lure placement and better sensitivity for detecting bites. </p><h5><strong>Reel Placement:</strong> </h5><p>Surf rods are primarily designed for use with spinning reels, with the reel seat positioned on the lower side of the rod. Spinning reels are commonly used in surf fishing due to their ease of use, line capacity, and ability to handle heavy lines and baits. Casting rods, as the name suggests, are designed for use with baitcasting reels or conventional reels, with the reel seat positioned on the upper side of the rod. These reels are typically used for casting heavier lures or baits in freshwater or inshore saltwater fishing. </p><h5><strong>Durability and Construction:</strong> </h5><p>Surf rods are built to withstand the harsh conditions of surf fishing, including exposure to saltwater, sand, and powerful waves. They are constructed with strong, durable materials, such as graphite or composite blanks, and corrosion-resistant components to ensure longevity and performance in saltwater environments. Depending on their specific application, casting rods may vary in construction materials and durability, but they are generally designed to handle the rigors of freshwater or inshore saltwater fishing. It's worth noting that while surf rods are typically used for surf fishing, they can also be utilized in other situations where long-distance casting is required, such as fishing from piers or jetties. On the other hand, casting rods have a wider range of applications, including freshwater bass fishing, inshore saltwater fishing, and other techniques where accuracy and control are key factors.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2",
+        "478269d8-785f-4f31-9049-84b19b8ae361"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "8ae288a7-04c4-4d24-a91d-6bcd64575248": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"What is the difference between casting and spinning rods?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Casting rods and spinning rods are two different fishing rods designed for use with specific reels: baitcasting reels and spinning reels, respectively. The main differences between casting and spinning rods are as follows: \n\nREEL PLACEMENT: \nCasting rods are designed to be used with baitcasting reels, which are mounted on top of the rod. The reel seat on a casting rod is positioned on the upper side, closer to the handle. Spinning rods, on the other hand, are designed for use with spinning reels, which are mounted on the underside of the rod. The reel seat on a spinning rod is located on the lower side. \n\nLINE GUIDES: \nCasting rods typically have smaller and fewer line guides than spinning rods. The line guides on a casting rod are smaller because the line comes off the top of the spool in a straighter path. Spinning rods have larger and more numerous line guides because the line comes off the spinning reel's spool in a circular motion. \n\nLINE CONTROL: \nCasting rods are optimized for casting accuracy and control. The line is released from a baitcasting reel by applying thumb pressure on the spool during the cast. The design of a casting rod allows for better thumb control and line manipulation during the cast. On the other hand, spinning rods are designed for ease of use and versatility. The line is released from a spinning reel by opening the bail, and the line is guided off the spool by a rotating line roller. \n\nCASTING TECHNIQUE: \nCasting rods and baitcasting reels are typically used for casting heavier lures or baits. The angler controls the cast using the weight of the lure, and the reel's spool rotation is controlled by thumb pressure. Spinning rods and spinning reels are generally used for lighter lures or baits. The line is released by opening the bail, and the cast is initiated by the motion of the rod, with the spinning reel controlling the line release. \n\nANGLER PREFERENCE: \nThe choice between a casting rod and a spinning rod often comes down to personal preference and fishing style. Some anglers prefer the accuracy and control offered by baitcasting reels and casting rods, especially for techniques that require precise casting and lure presentation. Others prefer the ease of use and versatility of spinning reels and spinning rods, particularly for finesse fishing or when using lighter lures. It's important to note that casting rods are primarily used with baitcasting reels, and spinning rods are used with spinning reels, and there can be exceptions and hybrid setups available that cater to specific fishing needs and preferences.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What are casting rods used for?\",\n    \"acceptedAnswer\":  {\n      \"@type\": \"Answer\",\n      \"text\": \"Casting rods are used for many different applications across many species, and it is best to research the species and technique you plan to use to understand if a casting rod is correct for you.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What is the difference between a surf rod and casting rod?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"The difference between a surf rod and a casting rod lies in their design and intended use: \n\nLENGTH AND POWER: \nSurf rods are typically longer and more powerful than casting rods. They are designed to cast long distances from the shoreline or surf and to handle larger fish species commonly found in saltwater environments. Surf rods typically range from 8 to 15 feet long, providing increased casting distance and leverage to handle challenging surf conditions. In contrast, casting rods are generally shorter and come in a wider range of lengths, powers, and actions, depending on the specific fishing technique and target species. \n\nCASTING PERFORMANCE: \nSurf rods are specifically designed for long-distance casting. They feature longer, more flexible blank and larger line guides to allow the line to flow smoothly during long casts. The length and action of a surf rod help generate the power and momentum needed to cast heavy lures or bait beyond the breaking waves. On the other hand, casting rods are designed for accuracy and control in various fishing scenarios. They may have a shorter and stiffer blank, allowing for more precise lure placement and better sensitivity for detecting bites. \n\nREEL PLACEMENT: \nSurf rods are primarily designed for use with spinning reels, with the reel seat positioned on the lower side of the rod. Spinning reels are commonly used in surf fishing due to their ease of use, line capacity, and ability to handle heavy lines and baits. Casting rods, as the name suggests, are designed for use with baitcasting reels or conventional reels, with the reel seat positioned on the upper side of the rod. These reels are typically used for casting heavier lures or baits in freshwater or inshore saltwater fishing. \n\nDURABILITY AND CONSTRUCTION: \nSurf rods are built to withstand the harsh conditions of surf fishing, including exposure to saltwater, sand, and powerful waves. They are constructed with strong, durable materials, such as graphite or composite blanks, and corrosion-resistant components to ensure longevity and performance in saltwater environments. Depending on their specific application, casting rods may vary in construction materials and durability, but they are generally designed to handle the rigors of freshwater or inshore saltwater fishing. It's worth noting that while surf rods are typically used for surf fishing, they can also be utilized in other situations where long-distance casting is required, such as fishing from piers or jetties. On the other hand, casting rods have a wider range of applications, including freshwater bass fishing, inshore saltwater fishing, and other techniques where accuracy and control are key factors.\"\n    }\n  }]\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "8ae288a7-04c4-4d24-a91d-6bcd64575248"
+  ]
+}

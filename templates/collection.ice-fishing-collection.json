@@ -1,0 +1,299 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Ice-Fishing-Adventures-1920-300.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "80c4bc8b-7d64-4696-a7b0-e810d883b5a2": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14751046303813__80c4bc8b-7d64-4696-a7b0-e810d883b5a2-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ice-Fishing-Adventures-1920-300.jpg",
+            "mobile_image": "shopify://shop_images/Ice-Fishing-Adventures-960-400.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14751046303813__80c4bc8b-7d64-4696-a7b0-e810d883b5a2-image-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "small",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": false,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "box",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_rod_aabfa6d8-a083-4d88-9461-b6efd393b77b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing rods",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-rod",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_clothing.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "ice fishing clothing",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-apparel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_tent.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "ice fishing tent",
+            "button_label": "",
+            "link": "shopify://products/3-4-person-ice-fishing-shelter-pop-up-ice-fishing-tent",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "bb518eda-33bb-41db-9cb5-4a224b33fd49": {
+          "type": "question",
+          "settings": {
+            "title": "General introduction about ice fishing",
+            "answer": "<p>Ice fishing can be a great way to get out of the house in the dead of winter and still enjoy the thrill of catching fish and the natural beauty of the winter outdoors. However, ice fishing has characteristics requiring specialized ice fishing gear that make it a distinctly different sport than fishing in the other three seasons of the year. <br/>Before discussing ice fishing equipment, you need to familiarize yourself with ice fishing safety. Before venturing onto the ice, test it to ensure it is at least 4 inches thick. You cannot just eyeball this! Use an ice auger, a spud bar, or an ice chisel to break through and measure thickness with a tape measure. Since ice thickness varies based on temperature patterns, water currents, snow drifts, and bottom sediment, you must check at least every 100 feet to verify the ice is safe. The possibility of dangerous ice dictates wearing clothing designed to help save your life if you fall through. Surprisingly, a personal flotation device (PFD) is not just something you wear on a boat. A PFD can save your life if the ice cracks and you fall in. Luckily, you can buy an ice fishing suit with built-in flotation to avoid wearing a bulky PFD with ice fishing bibs and jacket. Be sure to carry ice picks to provide the needed grip if you have to pull yourself out of a hole.<br/>Here is the essential ice fishing gear you need to have a successful, comfortable day fishing on the ice:<br/>· Ice fishing rod<br/>· Ice fishing reels<br/>· Cold weather fishing gear for warmth, transport, and making holes</p>"
+          }
+        },
+        "ef053873-30d1-41b0-a6da-ead4e2ee61c0": {
+          "type": "question",
+          "settings": {
+            "title": "Ice Fishing Rod",
+            "answer": "<p>While you could use a short spinning rod, you will have a more productive day using a fishing rod specifically made for ice fishing. Since you will fish over a hole in front of you, there is no need to cast, and that means the ice fishing rod can be very short – typically 24 to 36 inches long. Most freshwater anglers use fast or medium fast action rods (bends at the tip) for more casting distance and accuracy. Neither of these applies when ice fishing. Instead, the best ice fishing rods have a slow or medium slow action, so they bend evenly across the length of the rod and provide good leverage to haul a fish out of the hole. In addition, ice fishing rods do not have as many guides, and the guides are smaller to fight ice buildup.<br/>Many ice anglers fish from inside an ice fishing tent or other semi-permanent structure. A short rod is the only viable solution to fish comfortably within that limited space. Ice fishing rods are made from graphite, fiberglass, or a combination, just like standard fishing rods. While graphite is more sensitive, it is more brittle. Fiberglass rods are flexible and durable. If sensitivity is vital, go with graphite. Combination rods try to optimize both characteristics.</p>"
+          }
+        },
+        "909575d3-4645-413b-b10e-4dbd60c40d06": {
+          "type": "question",
+          "settings": {
+            "title": "Ice Fishing Reels",
+            "answer": "<p>While a small 500 or 1000-series spinning reel is best for pursuing large fish in deep water, the go-to ice fishing reel is the inline free-spool reel. The key advantages of the free-spool reel are you can use it with gloves on; it has a trigger to control depth, no line twist, and minimal ice buildup. Use a small spinning reel if you need more line capacity (fish deep beyond 40 feet), a better drag for fighting large fish, and want to use a variety of spoons, jigs, or live bait.</p>"
+          }
+        },
+        "01e9a48a-a175-4b14-b215-8c41ba0aae93": {
+          "type": "question",
+          "settings": {
+            "title": "Ice Fishing Tent",
+            "answer": "<p>On a nice winter day, sitting out on a frozen lake enjoying the exciting sport of ice fishing is pleasant. But, as soon as that cold North wind starts gaining speed and driving the windchill below zero, you will wish you had a good, insulated ice fishing tent.</p><p>Here are the things to consider as you select the best type of ice fishing house for where, when, and how long you typically spend ice fishing.</p><h6><strong>Size</strong>: </h6><p>An ice fishing shanty ranges from a one-person tent to an eight-person mansion. Rather than look at the manufacturer’s rating based on the number of people, look at the square footage of the opened tent. Lay that out in your yard and put all the equipment you intend to take on your ice fishing expedition inside the square. Mark a spot for the hole and sit down. Is that enough space to fish comfortably? Be sure to consider the length of your ice fishing rod. When sitting, move it around as you would when fishing. Simulate retrieving a fish out of the pretend hole in front of you. If you feel constrained or cramped, move up to the next size, lay it out, and repeat the process.</p><h6><strong>Weight</strong>: </h6><p>Weight becomes the next significant issue to examine after completing the sizing step. As you look at each ice fishing hut based on the size you need, pay close attention to the weight and the dimensions. Look at the length, width, and height to assess how you will transport it to your fishing spot. You may need to purchase a small ice fishing sled to haul it and your other gear.</p><h6><strong>Ease of Use</strong>: </h6><p>The larger the ice fishing shelter, the more time it will take to set it up. While this may not be significant with a two or four-person tent, it may be an issue with a larger one.</p><h6><strong>Stability</strong>: </h6><p>How will you secure the tent to the ice? Since you will likely use the ice fishing tent on a windy day, it is important to lock it down to the ice to help it maintain its horizontal and vertical dimensions. The best way to stabilize an ice fishing tent is to use iced anchors. Piling snow around the base is another option, but there may not be loose snow on the ice. Do not try and bring regular tent stakes since it is impossible to drive them into the ice.</p><h6><strong>Protection</strong>: </h6><p>Assess the structure of the ice fishing tent. Is it stable? Are the components robust or fragile? A cost issue is associated with increasing strength, and you must judge the sliding scale of protection versus your budget. An essential consideration for comfort is thermal protection. Some ice fishing tents feature a layer of insulation sandwiched between two layers of fabric. These will hold warmth better and minimize the time you may need to use a personal heater. However, everything has a cost. Adding insulation adds weight, making the tent larger and bulkier to transport.</p><h6><strong>Quality</strong>: </h6><p>The best way to assess the quality of an ice fishing tent is to look at the type of fabric. Most ice fishing tents use denier Oxford fabric rated at 300D on the low end and 1200D at the high. “Denier” is the industry-standard measurement of the density of a fabric. A higher number indicates greater thickness and durability. However, the thicker fabric weighs more. Depending on how you intend to use your ice fishing tent, you may be okay with 300D or need to move up to a higher-rated fabric if you will use it in harsher environmental conditions.</p><h6><strong>Safety</strong>: </h6><p>It’s cold outside! Undoubtedly, you will probably use a heater inside your ice fishing tent. Be sure the tent has plenty of ventilation. There should be enough windows to allow carbon monoxide to escape. Most ice fishing tents are water resistant, not waterproof. The seams on a water-resistant ice fishing hut may have small holes. If you buy a waterproof ice fishing tent, ensuring it offers ventilation is more important than ever. A best practice, regardless of the water rating, is to use a heater with an oxygen sensor to provide a warning against carbon monoxide poisoning.</p><h6><strong>Regulations</strong>: </h6><p>As with everything, there are regulations regarding using an ice fishing tent. These vary by location and typically address how long you can leave your ice fishing shelter in place. Some regulations require you to display your name and contact information in a specific format, specify a maximum size, define required ventilation, and whether you need reflective strips or lighting. The last thing you want is for a snowmobile to run over your tent in the dark as it moves across the lake to get to a spot. There may be limits on when you set up the ice fishing house and when you must take it down. Be sure you understand how many holes you can drill and if there are any restrictions on equipment.</p><p>In general, it is best to plan for adverse conditions. While wearing high-quality ice fishing clothing with flotation insulation will undoubtedly protect you to a certain extent, it’s no fun when your face begins to freeze and your fingers become numb. It’s best to include the purchase of an ice fishing tent in your budget and make it a key component of your cold-weather fishing gear. </p>"
+          }
+        },
+        "6d689eda-8ac9-433a-baf4-37cf0be646ce": {
+          "type": "question",
+          "settings": {
+            "title": "Other cold weather fishing gear/ice fishing equipment",
+            "answer": "<h5><strong>Ice fishing clothing</strong></h5><p>You must be warm to have an enjoyable day. As mentioned above, a great way to be safe and comfortable is to wear layered ice fishing bibs and pants with built-in flotation. Look for clothing that is lightweight, waterproof, windproof, and breathable. Clothing advertising that it is “DWR” combined with taped and sealed seams is ideal. DWR stands for “durable water repellent” and is manufactured using a polymer-based coating to resist liquid. Ice-fishing clothing with plenty of pockets is perfect. Not only do those pockets allow you to organize your small items, but you will not have to dig with bare hands into a cold tackle backpack to find what you need. One indication of quality is that the jacket features a YKK two-way zipper. These zippers open from the top and bottom to allow you to prevent overheating and sweating.</p><h5><strong>Ice fishing tackle backpack</strong></h5><p>Since you are walking to your spot, you need a way to take your cold-weather fishing gear with you. Look for a backpack with custom space for lure boxes, room inside for a change of clothes, and straps to attach rods so you do not have to carry them. After all, your hands will probably be busy handling an ice fishing tent, auger, seat, and ice skimmer.</p><h5><strong>Ice management</strong></h5><p>You must break through the ice once you reach your spot. Unless you haul your cold-weather fishing gear on an ice sled, your two primary choices are a hand auger or an ice chisel. Do not forget an ice skimmer! Once you make the hole, it will start to freeze over. You need a tool to scoop out the slush and clear the hole.<br/>Ice fishing is a great way to fish spots you cannot investigate without a boat! Walk over, make a hole, and settle in for fun!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "bb518eda-33bb-41db-9cb5-4a224b33fd49",
+        "ef053873-30d1-41b0-a6da-ead4e2ee61c0",
+        "909575d3-4645-413b-b10e-4dbd60c40d06",
+        "01e9a48a-a175-4b14-b215-8c41ba0aae93",
+        "6d689eda-8ac9-433a-baf4-37cf0be646ce"
+      ],
+      "settings": {
+        "title": "learn more about ice fishing"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "What is the best bait to use for ice fishing?",
+            "answer": "<p>That depends totally on the species of fish that the angler is targeting. Panfish are very common, and anglers can use various sizes of jigs and live bait or small plastics to target them. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "aab8bd9c-780f-447a-85b1-6066c6753361": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": {\n    \"@type\": \"Question\",\n    \"name\": \"What is the best bait to use for ice fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"That depends totally on the species of fish that the angler is targeting. Panfish are very common, and anglers can use various sizes of jigs and live bait or small plastics to target them.\"\n    }\n  }\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "80c4bc8b-7d64-4696-a7b0-e810d883b5a2",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "aab8bd9c-780f-447a-85b1-6066c6753361"
+  ]
+}

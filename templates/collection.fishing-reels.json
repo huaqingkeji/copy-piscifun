@@ -1,0 +1,255 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "aab4ea76-724a-405b-b3e7-61afad11b0da": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14724855005253__aab4ea76-724a-405b-b3e7-61afad11b0da-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing reels",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14724855005253__aab4ea76-724a-405b-b3e7-61afad11b0da-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "c8198ed4-d694-466e-944b-681573f2543a": {
+      "type": "gallery",
+      "blocks": {
+        "template--14724855005253__c8198ed4-d694-466e-944b-681573f2543a-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14724855005253__c8198ed4-d694-466e-944b-681573f2543a-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14724855005253__c8198ed4-d694-466e-944b-681573f2543a-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/electric_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "electric reels",
+            "button_label": "",
+            "link": "shopify://collections/electric-reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14724855005253__c8198ed4-d694-466e-944b-681573f2543a-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14724855005253__c8198ed4-d694-466e-944b-681573f2543a-image-1",
+        "template--14724855005253__c8198ed4-d694-466e-944b-681573f2543a-image-2",
+        "template--14724855005253__c8198ed4-d694-466e-944b-681573f2543a-image-3",
+        "template--14724855005253__c8198ed4-d694-466e-944b-681573f2543a-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 24,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Fishing Reels",
+            "answer": "<p>When evaluating different types of spinning and baitcasting reels for sale, there are a few common characteristics to consider. These are line capacity, gear ratio, number of ball bearings, construction material, drag, and whether the fishing reel is for freshwater or saltwater use.</p><h5><strong>Line Capacity</strong></h5><p><br/>While line capacity is the most specific characteristic, it has crucial implications for catfish reels versus bass reels. Typically, anglers fishing for catfish, musky, or other large fish use heavier lines given the potential size of the catch than anglers pursuing bass or trout. Since the heavier pound test line is thicker, reels for fishing larger species must have a higher capacity to hold the needed line. </p><h5>Gear Ratio</h5><p><br/>The gear ratio measures how fast a fishing reel retrieves the line for each handle turn. Typical gear ratios are 5.2:1 or 6.2:1. The first number is how many times the spool rotates for each turn of the handle. Therefore, a higher first number means the angler can retrieve a lure faster, which gives the angler flexibility in working a lure and lets the angler take the slack out of the line much quicker.<br/></p><h5>ball bearings</h5><p>The more ball bearings reels for fishing have, the smoother they operate. However, the raw number is not the only criterion a discerning angler should use. Cheaply made bearings will fail! Good bearings are made from stainless steel with shielding to resist corrosion and last longer.<br/></p><h5>material</h5><p>Next, consider the material used to build the reel. Whether the angler is looking for catfish reels, bass fishing reels, saltwater fishing reels, or freshwater reels, graphite, carbon fiber, and aluminum are the most common materials. These three materials result in corrosion-resistant frames that will withstand hard use. However, avoid spools made from graphite since they can crack when used with monofilament (monofilament shrinks). Aluminum or carbon fiber spools are always a better choice. Finally, look for CNC-machined internal components engineered to higher tolerances. These contribute substantially to smooth operation.<br/>Avoid a reel with drag washers made from felt or cork. Those wear out faster than the current choice, carbon fiber. Fishing reels with three or more carbon fiber washers will perform better than those with fewer.</p><h5>sizes</h5><p><br/>Fishing reels come in standard sizes ranging from 500 to 6000 and up. The higher the number, the bigger the fishing reel and the bigger fish it can handle. Typically, anglers use fishing reels rated at 4000 and up for large saltwater fish, musky or pike. As fishing reels increase in size, the weight also goes up, and the angler must consider how that impacts comfort across a full day of fishing. Heavy reels can wear out a casting arm quickly! Ideally, select the size needed for the species and then look for the lightest implementation. Light reels are easier to balance with more rods than heavier reels.</p><h5>saltwater OR freshwater</h5><p><br/>When considering fishing reels for sale, the angler must consider the issue of saltwater versus freshwater. Saltwater reels are made to a higher standard, using more corrosion-resistant materials than freshwater catfish or bass reels. The best saltwater reels use aluminum for the frame.<br/>Are they finally spinning the reel or baitcasting the reel? <a href=\"/collections/spinning-reel\" target=\"_blank\" title=\"Spinning Reels\">Spinning reels</a> do not have a learning curve and are more user-friendly. However, <a href=\"/collections/baitcasting-reel\" target=\"_blank\" title=\"Casting Reels\">baitcasting fishing reels</a> have the crucial advantage of being able to cast farther. The word \"baitcasting\" is misleading. Professional anglers use bait casters for their bass reels, given their ability to throw any lure from 1/8 ounce up to heavy swim baits.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about fishing reels"
+      }
+    },
+    "66d5ff61-dab8-4b6f-b62f-da385219d10f": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14724855005253__66d5ff61-dab8-4b6f-b62f-da385219d10f-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What reels are best for fishing?",
+            "answer": "<p>The best fishing reels depend on various factors, such as the type of fishing you like, target species, and personal preference. There are three typical fishing reels: spinning reels, baitcasting reels, and fly reels.<br/> -Spinning reels are versatile and easy to use for beginners. They work well for light to medium freshwater fishing. <br/>- Baitcasting reels have better accuracy and control; they are ideal for more experienced anglers; you can choose them for heavy freshwater and saltwater fishing. <br/>- <a href=\"/collections/fly-reel\" target=\"_blank\" title=\"Fly Reel\">Fly reels</a> are only used for fly fishing and have a large arbor design for faster line retrieval. <br/>Consider factors like durability, smoothness, gear ratio, drag system, and overall quality when choosing the best fishing reel for the money. Sometimes, a local tackle shop or experienced anglers can give specific recommendations based on your fishing needs and budget.</p>"
+          }
+        },
+        "template--14724855005253__66d5ff61-dab8-4b6f-b62f-da385219d10f-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "What size reel is best for shore fishing?",
+            "answer": "<p>When choosing a reel size for shore fishing, you should ensure the target species and fishing conditions. <br/><br/>1. Sizes 1000 to 3000 are for small to medium-sized fish species such as trout, panfish, or bass.<br/><br/>2. Sizes 3000 to 5000 are for medium to large-sized fish species like salmon, striped bass, or redfish. <br/><br/>3. Sizes 5000 to 8000 are for big game fishing from the shore or targeting large saltwater species such as tarpon, sharks, or tuna. <br/><br/>Matching the reel size with the fishing rod ensures a balanced setup combo, so the rod's power and action also matter.</p>"
+          }
+        },
+        "a06c765f-f980-4d64-9522-c25db94a5c12": {
+          "type": "question",
+          "settings": {
+            "title": "What are the 4 primary fishing reels?",
+            "answer": "<p>Piscifun can provide four primary fishing reels:</p><h5>1. Spinning Reel: </h5><p>One of the most commonly used reels for its open-faced design, allowing a more extensive line capability and exchanging lines when needed. The spinning reel is easy for beginners and has various sizes, ranging from small freshwater fish to medium offshore fish species.</p><h5><br/>2. The <a href=\"/collections/baitcasting-reel\" target=\"_blank\" title=\"Casting Reels\">baitcasting reel</a> </h5><p>features a rotating spool to reel in line and cast and has a line guide that keeps an even line. Its excellent casting distance and fast retrieve make its high accuracy, designed for experienced anglers to cast heavier lures for medium-sized fish in freshwater and inshore saltwater.</p><h5><br/>3. Fly fishing reels </h5><p>are designed for fly fishing and can only match fly rods. Unlike other fishing reels, the fly reel has no gear ratio, is made to be spooled with thicker fly lines, and the drag system is different too. Casting distance largely depends on line weight, rod length, and the angler's fishing technique.</p><h5>4. <a href=\"/collections/conventional-reel\" target=\"_blank\" title=\"Conventional Reel\">Conventional Reel</a>: </h5><p>The spin cast reel is perfect for beginners or children. They have a cover or closed face protecting the spool and line against tangles and backlash. However, its lack of accuracy makes it out of skilled anglers' choices.</p>"
+          }
+        },
+        "f8dbb497-8c61-41a6-9111-9ddc29855be4": {
+          "type": "question",
+          "settings": {
+            "title": "What's the difference between a baitcasting reel and a spinning reel?",
+            "answer": "<p>Casting reels and spinning reels are two common fishing reels, each with advantages and characteristics. The main differences between the two lie in their design, functionality, and the techniques they are best suited for. </p><ul><li><h5>Design</h5></li></ul><p>Casting Reel: A casting reel, also known as a baitcasting reel, is mounted on top of the fishing rod. It features a revolving spool that rotates as the line is released or retrieved. Casting reels typically have a trigger or thumb button that controls the line's release during casting. </p><p>Spinning Reel: A spinning reel, also called a fixed spool reel, is mounted beneath the fishing rod. It has a fixed, stationary spool that doesn't rotate during casting. The line is released from the spool by a bail arm that rotates around it. </p><ul><li><h5>Line Management</h5></li></ul><p>Casting Reel: Casting reels are known for superior line control and accuracy. They allow anglers to make precise casts and control the speed and distance of the lure. They are ideal for techniques that require accurate bait placement, such as flipping, pitching, and casting heavier lures. </p><p>Spinning Reel: Spinning reels are generally easier to use and are suitable for beginners. They offer better line control when managing light lines and lighter lures. Spinning reels are often preferred for finesse techniques, such as drop-shotting, jigging, and using lighter baits.</p>"
+          }
+        },
+        "aa4d20f5-9186-4870-b3ad-1c38e3b9c931": {
+          "type": "question",
+          "settings": {
+            "title": "What type of reel is best for lake fishing?",
+            "answer": "<p>The type of reel you use for lake fishing totally depends on the species and style of fishing you choose. When chasing Panfish, you may select the <a href=\"/products/carbon-x-spinning-reel\" target=\"_blank\" title=\"PISCIFUN® Carbon X Spinning Reel\">Carbon X 1000 Spinning Reel</a>; however, when chasing Bass, you may prefer to select the <a href=\"/products/piscifun-alijoz-size-300-low-profile-aluminum-frame-baitcasting-reel\" target=\"_blank\" title=\"Piscifun® Alijoz Size 300 Low Profile Aluminum Frame Baitcasting Reel\">Alloy M</a>. For more information, you can find more answers on our Piscifun Official Fishing Group on Facebook. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14724855005253__66d5ff61-dab8-4b6f-b62f-da385219d10f-question-1",
+        "template--14724855005253__66d5ff61-dab8-4b6f-b62f-da385219d10f-question-2",
+        "a06c765f-f980-4d64-9522-c25db94a5c12",
+        "f8dbb497-8c61-41a6-9111-9ddc29855be4",
+        "aa4d20f5-9186-4870-b3ad-1c38e3b9c931"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "80c55ed8-b148-4fc8-997f-0a907b8dbb59": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"What reels are best for fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"The best fishing reels depend on various factors, such as the type of fishing you like, target species, and personal preference. There are three typical fishing reels: spinning reels, baitcasting reels, and fly reels.\n-Spinning reels are versatile and easy to use for beginners. They work well for light to medium freshwater fishing.\n- Baitcasting reels have better accuracy and control; they are ideal for more experienced anglers; you can choose them for heavy freshwater and saltwater fishing.\n- Fly reels are only used for fly fishing and have a large arbor design for faster line retrieval.\nConsider factors like durability, smoothness, gear ratio, drag system, and overall quality when choosing the best fishing reel for the money. Sometimes, a local tackle shop or experienced anglers can give specific recommendations based on your fishing needs and budget.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What size reel is best for shore fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"When choosing a reel size for shore fishing, you should ensure the target species and fishing conditions.\n\n1. Sizes 1000 to 3000 are for small to medium-sized fish species such as trout, panfish, or bass.\n\n2. Sizes 3000 to 5000 are for medium to large-sized fish species like salmon, striped bass, or redfish.\n\n3. Sizes 5000 to 8000 are for big game fishing from the shore or targeting large saltwater species such as tarpon, sharks, or tuna.\n\nMatching the reel size with the fishing rod ensures a balanced setup combo, so the rod's power and action also matter.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What are the 4 primary fishing reels?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Piscifun can provide four primary fishing reels:\n\n1. SPINNING REEL:\nOne of the most commonly used reels for its open-faced design, allowing a more extensive line capability and exchanging lines when needed. The spinning reel is easy for beginners and has various sizes, ranging from small freshwater fish to medium offshore fish species.\n\n\n2. THE BAITCASTING REEL\nfeatures a rotating spool to reel in line and cast and has a line guide that keeps an even line. Its excellent casting distance and fast retrieve make its high accuracy, designed for experienced anglers to cast heavier lures for medium-sized fish in freshwater and inshore saltwater.\n\n\n3. FLY FISHING REELS\nare designed for fly fishing and can only match fly rods. Unlike other fishing reels, the fly reel has no gear ratio, is made to be spooled with thicker fly lines, and the drag system is different too. Casting distance largely depends on line weight, rod length, and the angler's fishing technique.\n\n4. CONVENTIONAL REEL:\nThe spin cast reel is perfect for beginners or children. They have a cover or closed face protecting the spool and line against tangles and backlash. However, its lack of accuracy makes it out of skilled anglers' choices.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What's the difference between a baitcasting reel and a spinning reel?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Casting reels and spinning reels are two common fishing reels, each with advantages and characteristics. The main differences between the two lie in their design, functionality, and the techniques they are best suited for.\n\nDESIGN\nCasting Reel: A casting reel, also known as a baitcasting reel, is mounted on top of the fishing rod. It features a revolving spool that rotates as the line is released or retrieved. Casting reels typically have a trigger or thumb button that controls the line's release during casting.\n\nSpinning Reel: A spinning reel, also called a fixed spool reel, is mounted beneath the fishing rod. It has a fixed, stationary spool that doesn't rotate during casting. The line is released from the spool by a bail arm that rotates around it.\n\nLINE MANAGEMENT\nCasting Reel: Casting reels are known for superior line control and accuracy. They allow anglers to make precise casts and control the speed and distance of the lure. They are ideal for techniques that require accurate bait placement, such as flipping, pitching, and casting heavier lures.\n\nSpinning Reel: Spinning reels are generally easier to use and are suitable for beginners. They offer better line control when managing light lines and lighter lures. Spinning reels are often preferred for finesse techniques, such as drop-shotting, jigging, and using lighter baits.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What type of reel is best for lake fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"The type of reel you use for lake fishing totally depends on the species and style of fishing you choose. When chasing Panfish, you may select the Carbon X 1000 Spinning Reel; however, when chasing Bass, you may prefer to select the Alloy M. For more information, you can find more answers on our Piscifun Official Fishing Group on Facebook.\"\n    }\n  }]\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "aab4ea76-724a-405b-b3e7-61afad11b0da",
+    "c8198ed4-d694-466e-944b-681573f2543a",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "66d5ff61-dab8-4b6f-b62f-da385219d10f",
+    "80c55ed8-b148-4fc8-997f-0a907b8dbb59"
+  ]
+}

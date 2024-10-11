@@ -1,0 +1,444 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
+          }
+        },
+        "368da27a-9490-4352-aa5c-15a21d5a4c4e": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>🎉Discounted Price:$399.99USD. Enjoy Code: PIS15</p>",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "d2dae2bf-bbd9-4f81-b3b3-0fa5204af717": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"width: 100%; display: flex; text-align: center; font-size: 12px;\">\n  <div style=\"width: 24%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-1.png\" style=\"width: 40px;\" /><br />\n    FREE SHIPPING OVER $48.99\n  </div>\n  <div style=\"width: 25%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-2.png\" style=\"width: 40px;\" /><br />\n    FAST DELIVERY<br />2-3 WORKING DAYS\n  </div>\n  <div style=\"width: 24%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-3.png\" style=\"width: 40px;\" /><br />\n    ONE YEAR<br />WARRANTY\n  </div>\n  <div style=\"width: 27%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-4.png\" style=\"width: 40px;\" /><br />\n    30-DAY MONEY BACK<br />GUARANTEE\n  </div>\n</div>",
+            "show_in_quickbuy": false
+          }
+        },
+        "36ddaee1-68ba-4791-bc47-c5eab96d21ce": {
+          "type": "accordion",
+          "settings": {
+            "title": "HIGHLIGHTS",
+            "icon": "",
+            "content": "<p>Collapsible tab content</p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "b30efb9c-a8d1-47b4-b1a9-1e7937135c09": {
+          "type": "accordion",
+          "settings": {
+            "title": "DESCRIPTION",
+            "icon": "",
+            "content": "<p>Collapsible tab content</p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "e191ab84-8cd1-4ffa-a7b5-c635c0896599": {
+          "type": "sku",
+          "settings": {
+          }
+        },
+        "14d788ab-0a7c-4ae4-b649-c6e4abeb2c7f": {
+          "type": "accordion",
+          "settings": {
+            "title": "RETURN POLICY",
+            "icon": "",
+            "content": "",
+            "page": "return-policy",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "368da27a-9490-4352-aa5c-15a21d5a4c4e",
+        "vendor",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "d2dae2bf-bbd9-4f81-b3b3-0fa5204af717",
+        "36ddaee1-68ba-4791-bc47-c5eab96d21ce",
+        "b30efb9c-a8d1-47b4-b1a9-1e7937135c09",
+        "e191ab84-8cd1-4ffa-a7b5-c635c0896599",
+        "14d788ab-0a7c-4ae4-b649-c6e4abeb2c7f"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "medium",
+        "gallery_layout": "collage-1",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "811c6d54-7288-4240-845f-5cbd6368d3ef": {
+      "type": "video",
+      "settings": {
+        "video": "https://youtu.be/RsSI71R1Xh8",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "text_alignment": "center center",
+        "image": "shopify://shop_images/Carbon-Prism-Spinning-Reel-Pre-Sale_1.jpg",
+        "image_position": "center center",
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "38919d3d-b4ee-4838-8afc-a9cdd638fcc0": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": ""
+      }
+    },
+    "16600435002861a735": {
+      "type": "slideshow",
+      "blocks": {
+        "04fe2f85-01c0-43cf-b59a-9e54ee80ca36": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PC_d400dde9-478d-4da9-bec9-51ecbb7d55e9.jpg",
+            "mobile_image": "shopify://shop_images/M_9fd0bd4d-4a96-4252-9228-244dc4243216.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "04fe2f85-01c0-43cf-b59a-9e54ee80ca36"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "16600395385ebd5c4f": {
+      "type": "slideshow",
+      "blocks": {
+        "1660039538ebd907b5-0": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Carbon X",
+            "title": "Say goodbye to fatigue!",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>There is no spinning reel in its class that is lighter than the Carbon X, which weighs only <strong>5.1 ounces</strong>. </p>",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "1660039538ebd907b5-1": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1660039538ebd907b5-0",
+        "1660039538ebd907b5-1"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "db1c0a71-676d-4c9d-aa8e-cc9de63163d1": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14722265448517__db1c0a71-676d-4c9d-aa8e-cc9de63163d1-image-1": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14722265448517__db1c0a71-676d-4c9d-aa8e-cc9de63163d1-image-2": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14722265448517__db1c0a71-676d-4c9d-aa8e-cc9de63163d1-image-1",
+        "template--14722265448517__db1c0a71-676d-4c9d-aa8e-cc9de63163d1-image-2"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "e925f062-e95c-4ea5-8c7e-15090b8a0e9c": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14722265448517__e925f062-e95c-4ea5-8c7e-15090b8a0e9c-image-1": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14722265448517__e925f062-e95c-4ea5-8c7e-15090b8a0e9c-image-2": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14722265448517__e925f062-e95c-4ea5-8c7e-15090b8a0e9c-image-1",
+        "template--14722265448517__e925f062-e95c-4ea5-8c7e-15090b8a0e9c-image-2"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "1660039598022e50ab": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "89a8238a-b292-4c7a-ab5a-15d1e5e17101": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "bestseller",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1660044875b38d3539": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "811c6d54-7288-4240-845f-5cbd6368d3ef",
+    "38919d3d-b4ee-4838-8afc-a9cdd638fcc0",
+    "16600435002861a735",
+    "16600395385ebd5c4f",
+    "db1c0a71-676d-4c9d-aa8e-cc9de63163d1",
+    "e925f062-e95c-4ea5-8c7e-15090b8a0e9c",
+    "1660039598022e50ab",
+    "recommendations",
+    "89a8238a-b292-4c7a-ab5a-15d1e5e17101",
+    "1660044875b38d3539"
+  ]
+}

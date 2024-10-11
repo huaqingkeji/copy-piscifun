@@ -1,0 +1,109 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+{{ 'swiper-bundle.min.css' | asset_url | stylesheet_tag }}
+<script src="{{ 'swiper-bundle.min.js' | asset_url }}"></script>
+
+<script src="{{ 'simpleParallax.min.js' | asset_url }}"></script>
+
+{{ 'aos-2.3.1.css' | asset_url | stylesheet_tag }}
+<script src="{{ 'aos-2.3.1.js' | asset_url }}"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<style>
+  .aa-w1920 {
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .aa-mobile {
+    display: none;
+  }
+  .aa-relative {
+    position: relative;
+  }
+  .aa-absolute {
+    position: absolute;
+  }
+  .aa-image {
+    line-height: 0;
+  }
+  .aa-image img, img.aa-image {
+    max-width: 100%;
+  }
+  #shopify-section-footer-newsletter .section {
+    margin-bottom: 0;
+  }
+  #shopify-section-footer-newsletter .container {
+    padding: 0;
+  }
+  #shopify-section-footer .footer {
+    background-color: #000;
+    border: none;
+  }
+  #shopify-section-footer .footer-nav__title,
+  #shopify-section-footer .footer-nav__link {
+    color: #fff !important;
+  }
+  #shopify-section-footer .footer-nav__social-link {
+    color: #fff !important;
+    border-color: #fff !important;
+  }
+  #shopify-section-footer .footer__bottom {
+    display: none;
+  }
+  #cartx-wrap,
+  #smile-ui-lite-container,
+  #tidio-chat {
+    display: none!important;
+  }
+
+  @media screen and (min-width: 768px) {
+    #shopify-section-footer .footer__content {
+      padding-bottom: 120px;
+    }
+
+  }
+  @media screen and (max-width: 767px) {
+    .aa-desktop {
+      display: none;
+    }
+    .aa-mobile {
+      display: block;
+    }
+    #shopify-section-footer .footer__content {
+      padding-bottom: 80px;
+    }
+  }
+</style>
+
+<script>
+  
+$.fn.inView = function(inViewType){
+    var viewport = {};
+    viewport.top = $(window).scrollTop();
+    viewport.bottom = viewport.top + $(window).height();
+    var bounds = {};
+    bounds.top = this.offset().top;
+    bounds.bottom = bounds.top + this.outerHeight();
+    switch(inViewType){
+      case 'bottomOnly':
+        return ((bounds.bottom <= viewport.bottom) && (bounds.bottom >= viewport.top));
+      case 'topOnly':
+        return ((bounds.top <= viewport.bottom) && (bounds.top >= viewport.top));
+      case 'both':
+        return ((bounds.top >= viewport.top) && (bounds.bottom <= viewport.bottom));         
+      default:     
+        return ((bounds.top >= viewport.top) && (bounds.bottom <= viewport.bottom));        
+    }
+};
+
+  
+$.fn.isInViewport=function(){var elementTop=$(this).offset().top;var elementBottom=elementTop+$(this).outerHeight()/2;var viewportTop=$(window).scrollTop();var viewportHalf=viewportTop+$(window).height()/2;return elementBottom>viewportTop&&elementTop<viewportHalf};
+  
+
+</script>
+
+

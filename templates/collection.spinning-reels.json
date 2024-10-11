@@ -1,0 +1,223 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "c9aad324-58d9-425a-a738-e1245ad1a14e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14725265621061__c9aad324-58d9-425a-a738-e1245ad1a14e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14725265621061__c9aad324-58d9-425a-a738-e1245ad1a14e-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "c0a2714a-fbe1-4c93-915a-0204748d5f56": {
+      "type": "gallery",
+      "blocks": {
+        "template--14725265621061__c0a2714a-fbe1-4c93-915a-0204748d5f56-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725265621061__c0a2714a-fbe1-4c93-915a-0204748d5f56-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725265621061__c0a2714a-fbe1-4c93-915a-0204748d5f56-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/electric_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "electric reels",
+            "button_label": "",
+            "link": "shopify://collections/electric-reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725265621061__c0a2714a-fbe1-4c93-915a-0204748d5f56-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14725265621061__c0a2714a-fbe1-4c93-915a-0204748d5f56-image-1",
+        "template--14725265621061__c0a2714a-fbe1-4c93-915a-0204748d5f56-image-2",
+        "template--14725265621061__c0a2714a-fbe1-4c93-915a-0204748d5f56-image-3",
+        "template--14725265621061__c0a2714a-fbe1-4c93-915a-0204748d5f56-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Spinning Reels",
+            "answer": "<p>Among all types of fishing reels, spinning reels are the easiest to use and the most popular. When evaluating different types of spinning fishing reels for sale, there are common characteristics to consider. These are line capacity, gear ratio, number of ball bearings, construction material, drag, and whether the fishing reel is for freshwater or saltwater use. But first, you must decide where and what you will fish for when evaluating fishing reels for sale.</p><h5>SIZES</h5><p><br/>Spinning reels for fishing come in standard sizes ranging from 500 to 6000 and up. The higher the number, the bigger the fishing reel and the bigger fish it can handle. Typically, anglers use fishing reels rated at 4000 and up for large saltwater fish, musky or pike. As fishing reels increase in size, the weight also goes up, and you must consider how that impacts comfort across a full day of fishing. Heavy reels can wear out a casting arm quickly! Ideally, select the size needed for the species and then look for the lightest implementation. Light reels are easier to balance with more rods than heavier reels.<br/>If you primarily fish on small streams, you need no more than a 1000 series-rated spinning reel. Pair it with an ultralight rod, and head out. Moving up to the 2000 and 3000 series, you may target larger fish – catfish, bass, and trout. Pair the 2000 series with a medium-light or medium rod. The 3000 series is best with a medium or medium-heavy rod. The key to comfort is to match the reel's weight to balance the rod. In most cases, the lightest spinning reel will be the best reel. Choose the lightest one that fits your budget AND has the quality indicators and features discussed below.</p><h5>LINE CAPACITY</h5><p>The line capacity of a fishing reel is the most basic characteristic to understand. However, it's important to note that the line capacity of a particular model is different for different types of fish, such as bass and catfish. For instance, when using heavier lines for larger fish, such as those caught in lakes and rivers, reels with a higher capacity are required to hold the line.</p><h5>GEAR RATIO</h5><p><br/>The gear ratio, the speed at which a fishing reel retrieves its line after each handle turn, is typically 5.2:1 or 6.2:1, depending on the model. The first number indicates how fast a reel can retrieve a lure after each turn of the handle. A higher first number lets you quickly remove the slack line, making it easier to work a lure.</p><h5>BALL BEARINGS</h5><p><br/>The ball bearings of a fishing reel should be well-designed and durable to ensure that they work smoothly. Although raw numbers are important, other criteria, such as the type of steel used, are also considered when choosing a new fishing gear.</p><h5>MATERIALS</h5><p><br/><br/>When it comes to the materials used to build a fishing reel, choose corrosion-resistant materials. Some of these include aluminum, carbon fiber, and graphite. These three materials ensure that the frames of a fishing reel will last for a long time.<br/><br/>Avoid using graphite-based spools on fishing reels since they can crack if exposed to the stress of using monofilament. Instead, opt for carbon fiber or aluminum spools. Finally, consider investing in CNC-machined components that are made to have higher tolerances.<br/><br/>Avoid getting one made from carbon fiber if you use a cork or felt-based drag washer. Instead, you should get one made from carbon fiber. If you want a spinning reel, choose one with a powerful drag.<br/><br/>When it comes to choosing a new fishing reel, consider the material used to make it. Compared to freshwater reels, saltwater ones are made of a higher quality. They have better corrosion resistance and are equipped with brass or aluminum gearing and frames.</p><h5>DRAGS</h5><p>A bait feeder spinning reel features two main drags. The rear drag allows fish to easily pick up bait, while the front drag is used when the fish takes the bait. This reel type has a unique advantage because it can quickly manage tension on the line, allowing it to catch fish with little effort.<br/><br/>This feature allows you to release all tension without turning the drag knob. You can then remember the number of clicks or turns the lever makes to return to the ideal pressure level. To get the best predictions, you need to create at least five paragraphs long.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "LEARN MORE ABOUT FISHING REELS"
+      }
+    },
+    "e9749f2e-2d9e-41d8-8de0-54b0371dbd71": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14725265621061__e9749f2e-2d9e-41d8-8de0-54b0371dbd71-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "How to use a spinning reel?",
+            "answer": "<h5><strong>FAMILIARIZE YOURSELF WITH THE REEL:</strong> </h5><p>Take some time to understand the different components of the spinning reel, such as the bail, handle, drag adjustment, and spool. </p><h5><strong>SPOOL THE REEL:</strong> </h5><p>Start by attaching the fishing line to the spool. Open the bail and wrap the line around the spool a few times. Then, close the bail and secure the line with a knot or a line clip. </p><h5><strong>ADJUST THE DRAG:</strong> </h5><p>Locate the drag adjustment knob on the reel, which allows you to set the resistance when a fish pulls on the line. Adjust it according to the fishing conditions and the size of the fish you expect to catch. </p><h5><strong>HOLD THE ROD AND REEL:</strong> </h5><p>Grasp the fishing rod handle with one hand, ensuring a comfortable and secure grip. Hold the spinning reel with your other hand, placing your fingers on the reel's handle. </p><h5><strong>CAST THE LINE:</strong> </h5><p>Hold the fishing rod at a slight angle and use your index finger to hold the line against the rod. With a quick flick of the wrist, release your finger to allow the line to come off the spool and propel the bait or lure forward. Practice casting to improve accuracy and distance. </p><h5><strong>RETRIEVE THE LINE:</strong> </h5><p>Turn the handle of the spinning reel to retrieve the line. Adjust the speed of retrieval based on your fishing technique and the behavior of the fish. </p><h5><strong>ENGAGE THE BAIL:</strong> </h5><p>Flip the bail back to its original position after retrieving the line. This action ensures that the line remains securely wrapped around the spool. </p><h5><strong>SET THE HOOK:</strong> </h5><p>When you feel a fish biting or pulling on the line, quickly jerk the rod upward to set the hook firmly in the fish's mouth. It will help secure the catch. </p><p>Remember, practice and experience are key to becoming proficient with a spinning reel. Experiment with different techniques, adapt to different fishing conditions and always follow the local fishing regulations and guidelines.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14725265621061__e9749f2e-2d9e-41d8-8de0-54b0371dbd71-question-1"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "bd0ade93-1492-4db0-aac4-f8e7c381deca": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": {\n    \"@type\": \"Question\",\n    \"name\": \"How to use a spinning reel?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"FAMILIARIZE YOURSELF WITH THE REEL: \nTake some time to understand the different components of the spinning reel, such as the bail, handle, drag adjustment, and spool. \n\nSPOOL THE REEL: \nStart by attaching the fishing line to the spool. Open the bail and wrap the line around the spool a few times. Then, close the bail and secure the line with a knot or a line clip. \n\nADJUST THE DRAG: \nLocate the drag adjustment knob on the reel, which allows you to set the resistance when a fish pulls on the line. Adjust it according to the fishing conditions and the size of the fish you expect to catch. \n\nHOLD THE ROD AND REEL: \nGrasp the fishing rod handle with one hand, ensuring a comfortable and secure grip. Hold the spinning reel with your other hand, placing your fingers on the reel's handle. \n\nCAST THE LINE: \nHold the fishing rod at a slight angle and use your index finger to hold the line against the rod. With a quick flick of the wrist, release your finger to allow the line to come off the spool and propel the bait or lure forward. Practice casting to improve accuracy and distance. \n\nRETRIEVE THE LINE: \nTurn the handle of the spinning reel to retrieve the line. Adjust the speed of retrieval based on your fishing technique and the behavior of the fish. \n\nENGAGE THE BAIL: \nFlip the bail back to its original position after retrieving the line. This action ensures that the line remains securely wrapped around the spool. \n\nSET THE HOOK: \nWhen you feel a fish biting or pulling on the line, quickly jerk the rod upward to set the hook firmly in the fish's mouth. It will help secure the catch. \n\nRemember, practice and experience are key to becoming proficient with a spinning reel. Experiment with different techniques, adapt to different fishing conditions and always follow the local fishing regulations and guidelines.\"\n    }\n  }\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "c9aad324-58d9-425a-a738-e1245ad1a14e",
+    "c0a2714a-fbe1-4c93-915a-0204748d5f56",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "e9749f2e-2d9e-41d8-8de0-54b0371dbd71",
+    "bd0ade93-1492-4db0-aac4-f8e7c381deca"
+  ]
+}

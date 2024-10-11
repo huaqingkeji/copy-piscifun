@@ -1,0 +1,223 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_rods.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing rods",
+            "button_label": "",
+            "link": "shopify://collections/rods",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Fishing Pliers",
+            "answer": "<p>If there is one tool every angler needs, it is a good set of fishing pliers. Whatever you do, please do not take a pair of generic needle nose pliers and throw them in your tackle bag! Needle nose pliers do not have the critical features needed to make them an effective fishing tool. In addition, they are probably made from poor-quality metal, subject to rust. After a few trips, they will rust shut in and become usable!</p><p>Here are the characteristics you should look for in a quality set of fishing pliers:</p><p>· A spring hinge for easy manipulation and operation</p><p>· Serrated jaws for a good grip</p><p>· A split-shot crimper</p><p>· A split ring opener to allow the easy change and removal of hooks</p><p>· A wire cutter is handy if you must cut off a hook when complying with catch and release regulations or surf fishing with heavy wire rigs. Look for blades made of tungsten carbide since this material will hold an edge the longest. You can also use the cutter to cut fishing lines when scissors are not handy.</p><p>· A rubber or plastic grip – metal slips!</p><p>· It should come with a case and lanyard. The case should have a loop or a clip to attach to your belt.</p><p>· Some anglers prefer fishing pliers with an angled jaw to help remove deeply seated hooks. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about fishing pliers"
+      }
+    },
+    "c74c2e60-8049-4ef1-a0ef-af017788c1a7": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14726657605701__c74c2e60-8049-4ef1-a0ef-af017788c1a7-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Can you use a multitool as fishing pliers? ",
+            "answer": "<p>While these are designed as a one-stop option to do many things, they are sub-optimized for fishing since all other embedded tools may get in the way. You will use fishing pliers constantly on the water, subjecting it to rust. If you use a multitool, the entire set of tools is susceptible to damage. Additionally, the pliers included in the multitool do not have all the fishing-specific features enumerated above. Leave the multitool in your tackle box until you need one of the other included tools.</p>"
+          }
+        },
+        "template--14726657605701__c74c2e60-8049-4ef1-a0ef-af017788c1a7-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "How do you evaluate a set of fishing pliers?",
+            "answer": "<p>First, look at the material. The material must be rust-resistant; Stainless steel, aluminum, and titanium pliers will last longer. Of those three materials, stainless steel is the last you should choose since low-grade stainless will eventually rust – go with aluminum or titanium. For aluminum, look for aircraft grade T6 – 6061 rated material.</p><p>Next, consider size and weight. The same pliers you use for small trout on a mountain stream are inappropriate for large saltwater fish! </p><p>Price is always a consideration. Assess how you want to use the tool and ensure you buy one with all the required features. For example, you do not want to crimp split shot with your teeth! Your dental bills will cost much more than buying a set of fishing pliers with that capability. Quality pliers do not cost very much. Do not sacrifice function to save a few bucks.</p><p>In summary, you will use your fishing pliers as much as your fishing scissors. Therefore, invest a few dollars to ensure you have a quality tool that will last many years and provide good service.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14726657605701__c74c2e60-8049-4ef1-a0ef-af017788c1a7-question-1",
+        "template--14726657605701__c74c2e60-8049-4ef1-a0ef-af017788c1a7-question-2"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "c74c2e60-8049-4ef1-a0ef-af017788c1a7"
+  ]
+}

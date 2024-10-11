@@ -1,0 +1,303 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": false,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "learn more about"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "d38af1c9-e065-48f7-bc5a-b7ff9b3d483b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14928707059781__d38af1c9-e065-48f7-bc5a-b7ff9b3d483b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "special offer",
+            "use_h1": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14928707059781__d38af1c9-e065-48f7-bc5a-b7ff9b3d483b-heading-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "be92e215-7e74-4a5d-9036-2348a7081c13": {
+      "type": "collection-list",
+      "blocks": {
+        "55b16861-5a23-4143-b76e-2d83f964afa4": {
+          "type": "collection",
+          "settings": {
+            "collection": "up-to-9-99"
+          }
+        }
+      },
+      "block_order": [
+        "55b16861-5a23-4143-b76e-2d83f964afa4"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Collection list",
+        "enable_carousel": true,
+        "grid": 4,
+        "use_alt_bg": true,
+        "full_width": true
+      }
+    },
+    "db711e56-ea80-4afb-a067-b1f8f413aa10": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "UP TO $9.99",
+        "collection": "up-to-9-99",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 2,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "a53c5f13-5e7a-4cb7-886b-bf13048908a3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "UP TO $19.99",
+        "collection": "up-to-19-99",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "d38af1c9-e065-48f7-bc5a-b7ff9b3d483b",
+    "be92e215-7e74-4a5d-9036-2348a7081c13",
+    "db711e56-ea80-4afb-a067-b1f8f413aa10",
+    "a53c5f13-5e7a-4cb7-886b-bf13048908a3"
+  ]
+}

@@ -1,0 +1,423 @@
+<style>
+  #shopify-section-{{ section.id }} .aa-cp-s5 {
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    background-color: #000;
+    overflow: hidden;
+    {%- if section.settings.bgimg != blank -%}
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-image:url({{ section.settings.bgimg | img_url: "master" }});
+    background-repeat: no-repeat;
+    background-position: center top;
+    {%- endif -%}
+    
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-wrapAA {
+    position: absolute;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-head {
+    line-height: 1;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-head .aa-heading {
+    font-size: {{ section.settings.heading_size }};
+    font-weight: 700;
+    text-transform: uppercase;
+    color: inherit;
+    padding: 20px 0;
+    {%- if section.settings.heading_bgimg != blank -%}
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    background-image: url('{{ section.settings.heading_bgimg | img_url: 'master' }}');
+    background-size: 100% 100%;
+    color: transparent;
+    {%- endif -%}
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-content .aa-info {
+     line-height: 1.4;
+     font-size: {{ section.settings.info_size }};
+     color: inherit;
+   }
+  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-items .aa-item {
+      position: relative;
+      height: 300px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center bottom;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-item .aa-title {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      z-index: 2;
+      width: 100%;
+      font-size: 30px;
+      font-weight: 500;
+      text-align: center;
+    }
+  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-button {
+    text-align: left;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-button a {
+    display: inline-block;
+    padding: 5px 30px;
+    margin-top: 15px;
+    font-size: {{ section.settings.button_size }};
+    font-weight: 700;
+    color: inherit;
+    background-color: #9921CF;
+    text-decoration: none;
+  }
+
+  
+  @media screen and (min-width: 768px) {
+   #shopify-section-{{ section.id }} .aa-cp-s5 .aa-head {
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-head .aa-heading {
+      padding-right: 55%;
+      padding-bottom: 60px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-wrapAA {
+      top: 60px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-content {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-lt {
+      width: 25%;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-rt {
+      width: 65%;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-items {
+      display: grid;
+      grid-template-columns: 50% 50%;
+      column-gap: 20px;
+      row-gap: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 1366px) {
+    #shopify-section-{{ section.id }} .aa-cp-s5 {
+      padding-left: 25px;
+      padding-right: 25px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-rt {
+      width: 50%;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-items .aa-item {
+      height: 200px;
+    }
+  }
+  
+  @media screen and (max-width: 1200px) {
+    #shopify-section-{{ section.id }} .aa-cp-s5 {
+      padding-left: 25px;
+      padding-right: 25px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-rt {
+      width: 50%;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-items .aa-item {
+      height: 160px;
+    }
+  }
+  @media screen and (max-width: 1460px) {
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-items .aa-item {
+      height: 260px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    #shopify-section-{{ section.id }} .aa-cp-s5 {
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+      {%- if section.settings.bgimg_mobile != blank -%}
+      background-image:url({{ section.settings.bgimg_mobile | img_url: "master" }});
+      background-repeat: no-repeat;
+      background-position: center top;
+      {%- endif -%}
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-wrapAA {
+      top: 60px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-content {
+      padding: 20px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-head {
+      text-align: center;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-head .aa-heading {
+      font-size: {{ section.settings.heading_size_mobile }};
+      padding: 30px 0;
+      {%- if section.settings.heading_bgimg_mobile != blank -%}
+      background-image: url('{{ section.settings.heading_bgimg_mobile | img_url: 'master' }}');
+      background-size: 100% 100%;
+      {%- endif -%}
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-content .aa-info {
+      font-size: {{ section.settings.info_size_mobile }};
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-rt {
+      width: 100%;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-items .aa-item {
+      height: 260px;
+      margin-bottom: 20px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-item .aa-title {
+      font-size: 16px;
+      padding: 5px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s5 .aa-button a {
+      font-size: {{ section.settings.button_size_mobile }};
+    }
+   }
+
+  @media screen and (max-width: 414px) {
+    #shopify-section-{{ section.id }} .aa-cp-s5AA {
+      max-height: 1300px;
+    }
+  }
+</style>
+
+<div class="aa-section aa-cp-s5 aa-w1920">
+  <div class="aa-relative">
+
+    {% comment %}
+    {%- if section.settings.bgimg != blank -%}
+      <div class="aa-desktop aa-bgimg">
+        <img src="{{ section.settings.bgimg | img_url: 'master' }}">
+      </div>
+    {%- endif -%}
+    {%- if section.settings.bgimg_mobile != blank -%}
+      <div class="aa-mobile aa-bgimg">
+        <img src="{{ section.settings.bgimg_mobile | img_url: 'master' }}">
+      </div>
+    {%- endif -%}
+    {% endcomment %}
+    <div class="aa-wrap">
+      <div class="aa-head">
+        {%- if section.settings.heading != blank -%}
+          <div class="aa-heading" {{ settings.item_animate }}>{{ section.settings.heading | escape }}</div>
+        {%- endif -%}
+      </div>
+
+      <div class="aa-content">
+        <div class="aa-desktop aa-lt">
+          {%- if section.settings.info != blank -%}
+            <div class="aa-info" {{ settings.item_animate }}>{{ section.settings.info }}</div>
+          {%- endif -%}
+          {%- if section.settings.show_button and section.settings.button != blank and section.settings.link != blank -%}
+              <div class="aa-button" {{ settings.item_animate }}>
+                <a href="{{ section.settings.link }}">{{ section.settings.button | escape }}</a>
+              </div>
+          {%- endif -%}
+        </div>
+        <div class="aa-rt">
+          <div class="aa-items">
+            {%- for block in section.blocks -%}
+              <style>
+                #shopify-section-{{ section.id }} .aa-cp-s5 .aa-item-{{ forloop.index }} {
+                  {%- if block.settings.image != blank -%}
+                  background-image: url({{ block.settings.image | img_url: 'master' }});
+                  {%- endif -%}
+                }
+                #shopify-section-{{ section.id }} .aa-cp-s5 .aa-item-{{ forloop.index }} .aa-title {
+                  font-size: {{ block.settings.title_size }};
+                }
+                @media screen and (max-width: 1366px) {
+                  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-item-{{ forloop.index }} .aa-title {
+                    font-size: 1.375rem;
+                  }
+                }
+                @media screen and (max-width: 767px) {
+                  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-item-{{ forloop.index }} {
+                    {%- if block.settings.image_mobile != blank -%}
+                    background-image: url({{ block.settings.image_mobile | img_url: 'master' }});
+                    {%- endif -%}
+                  }
+                  #shopify-section-{{ section.id }} .aa-cp-s5 .aa-item-{{ forloop.index }} .aa-title {
+                    font-size: {{ block.settings.title_size_mobile }};
+                  }
+                }
+              </style>
+              <div class="aa-item aa-item-{{ forloop.index }}" {{ settings.item_animate }}>
+               {% comment %}
+                <div class="aa-image">
+                  {%- if block.settings.image != blank -%}
+                    <img class="aa-desktop" src="{{ block.settings.image | img_url: 'master' }}">
+                  {%- endif -%}
+                  {%- if block.settings.image_mobile != blank -%}
+                    <img class="aa-mobile" src="{{ block.settings.image_mobile | img_url: 'master' }}">
+                  {%- endif -%}
+                </div>
+                {% endcomment %}
+                {%- if block.settings.link != blank -%}
+                  <a class="aa-link-mask" href="{{ block.settings.link }}"></a>
+                {%- endif -%}
+                {%- if block.settings.title != blank -%}
+                  <div class="aa-title">{{ block.settings.title | escape }}</div>
+                {%- endif -%}
+              </div>
+            {%- endfor -%}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "AA CP S5",
+  "limit": 1,
+  "max_blocks": 4,
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "bgimg",
+      "label": "Background image"
+    },
+    {
+      "type": "image_picker",
+      "id": "bgimg_mobile",
+      "label": "Background image (mobile)"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "heading_size",
+      "label": "Heading size",
+      "default": "70px"
+    },
+    {
+      "type": "text",
+      "id": "heading_size_mobile",
+      "label": "Heading size (mobile)",
+      "default": "27px"
+    },
+    {
+      "type": "image_picker",
+      "id": "heading_bgimg",
+      "label": "Heading background image"
+    },
+    {
+      "type": "image_picker",
+      "id": "heading_bgimg_mobile",
+      "label": "Heading background image (mobile)"
+    },
+    {
+      "type": "richtext",
+      "id": "info",
+      "label": "Info"
+    },
+    {
+      "type": "text",
+      "id": "info_size",
+      "label": "Info size",
+      "default": "26px"
+    },
+    {
+      "type": "text",
+      "id": "info_size_mobile",
+      "label": "Info size (mobile)",
+      "default": "14px"
+    },
+    {
+          "type": "checkbox",
+          "id": "show_button",
+          "label": "Show button",
+          "default": false
+        },
+    {
+          "type": "url",
+          "id": "link",
+          "label": "Link"
+        },
+        {
+          "type": "text",
+          "id": "button",
+          "label": "Button",
+          "default": "SHOP NOW"
+        },
+        {
+          "type": "text",
+          "id": "button_size",
+          "label": "Button size",
+          "default": "26px"
+        },
+        {
+          "type": "text",
+          "id": "button_size_mobile",
+          "label": "Button size (mobile)",
+          "default": "14px"
+        }
+  ],
+  "blocks": [
+    {
+      "type": "block",
+      "name": "Block",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "image_picker",
+          "id": "image_mobile",
+          "label": "Image (mobile)"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title"
+        },
+        {
+          "type": "text",
+          "id": "title_size",
+          "label": "Title size",
+          "default": "30px"
+        },
+        {
+          "type": "text",
+          "id": "title_size_mobile",
+          "label": "Title size (mobile)",
+          "default": "16px"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Link"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "AA CP S5"
+    }
+  ]
+}
+{% endschema %}

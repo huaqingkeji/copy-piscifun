@@ -1,0 +1,320 @@
+
+<!DOCTYPE html>
+{%- liquid
+  assign rtl_langs = 'ar,arc,dv,fa,ha,he,khw,ks,ku,ps,ur,yi' | split: ','
+  if rtl_langs contains localization.language.iso_code
+    assign lang_dir = 'rtl'
+  else
+    assign lang_dir = 'ltr'
+  endif
+-%}
+<html lang="{{ request.locale.iso_code }}" dir="{{ lang_dir }}">
+<head>{% render 'yoast-seo' %}
+<link rel='preconnect dns-prefetch' href='https://api.config-security.com/' crossorigin />
+<link rel='preconnect dns-prefetch' href='https://conf.config-security.com/' crossorigin />
+<link rel='preconnect dns-prefetch' href='https://whale.camera/' crossorigin />
+<script>
+/* >> TriplePixel :: start*/
+window.TriplePixelData={TripleName:"piscifun.myshopify.com",ver:"2.11",plat:"SHOPIFY",isHeadless:false},function(W,H,A,L,E,_,B,N){function O(U,T,P,H,R){void 0===R&&(R=!1),H=new XMLHttpRequest,P?(H.open("POST",U,!0),H.setRequestHeader("Content-Type","application/json")):H.open("GET",U,!0),H.send(JSON.stringify(P||{})),H.onreadystatechange=function(){4===H.readyState&&200===H.status?(R=H.responseText,U.includes(".txt")?eval(R):P||(N[B]=R)):(299<H.status||H.status<200)&&T&&!R&&(R=!0,O(U,T-1,P))}}if(N=window,!N[H+"sn"]){N[H+"sn"]=1,L=function(){return Date.now().toString(36)+"_"+Math.random().toString(36)};try{A.setItem(H,1+(0|A.getItem(H)||0)),(E=JSON.parse(A.getItem(H+"U")||"[]")).push({u:location.href,r:document.referrer,t:Date.now(),id:L()}),A.setItem(H+"U",JSON.stringify(E))}catch(e){}var i,m,p;A.getItem('"!nC`')||(_=A,A=N,A[H]||(E=A[H]=function(t,e,a){return void 0===a&&(a=[]),"State"==t?E.s:(W=L(),(E._q=E._q||[]).push([W,t,e].concat(a)),W)},E.s="Installed",E._q=[],E.ch=W,B="configSecurityConfModel",N[B]=1,O("https://conf.config-security.com/model",5),i=L(),m=A[atob("c2NyZWVu")],_.setItem("di_pmt_wt",i),p={id:i,action:"profile",avatar:_.getItem("auth-security_rand_salt_"),time:m[atob("d2lkdGg=")]+":"+m[atob("aGVpZ2h0")],host:A.TriplePixelData.TripleName,plat:A.TriplePixelData.plat,url:window.location.href,ref:document.referrer,ver:A.TriplePixelData.ver},O("https://api.config-security.com/event",5,p),O("https://whale.camera/live/dot.txt",5)))}}("","TriplePixel",localStorage);
+/* << TriplePixel :: end*/
+</script>
+<script src="https://unpkg.com/@shopify/storefront-api-client@0.2.3/dist/umd/storefront-api-client.js"></script>
+<link rel='preconnect dns-prefetch' href='https://triplewhale-pixel.web.app/' crossorigin />
+    
+  <!-- Symmetry 5.5.1 -->
+
+  <link rel="preload" href="{{ 'styles.css' | asset_url }}" as="style">
+  {% render 'head-tag' %}
+
+  {%- comment -%}Auto-disabled. Yoast plugin is taking care of SEO output.{%- endcomment -%}
+{%- if disabled_by_yoast_seo -%}
+<title>
+    {{ page_title }}{% if current_tags %}{% assign meta_tags = current_tags | join: ', ' %} &ndash; {{ 'general.meta.tags' | t: tags: meta_tags }}{% endif %}{% if current_page != 1 %} &ndash; {{ 'general.meta.page' | t: page: current_page }}{% endif %}{% unless page_title contains shop.name %} &ndash; {{ shop.name }}{% endunless %}
+  </title>
+{%- comment -%} End Yoast auto-disable. {%- endcomment -%}
+{%- endif -%}
+
+  {% render 'social-meta-tags' %}
+
+  {{ 'styles.css' | asset_url | stylesheet_tag }}
+  {% if template == 'page.hot-sale-page' %} 
+      <h1 style="display: none">
+  hot sale reels
+</h1>
+  {% elsif template == 'page.carbon-prism' %}
+    <h1 style="display: none">
+  carbon prism
+</h1>
+  {% endif %}
+{% if template == 'page.home-page' %} 
+      <style>
+        
+        body{
+          background-color: #000000 !important;
+          color:#ffffff;
+        }
+        .pageheader{
+           background-color: #000000 !important;
+          color:#ffffff;
+        }
+        h1, .h1-style, h2, h3, h4, h5, h6, .heading-font {
+          color:#ffffff;
+        }
+        .small-feature-link{
+          color:#ffffff;
+        }
+        .countdown-div {
+          color:#ffffff;
+        }
+        .navigation .navigation__tier-1{
+          background: #000000 !important;
+        }
+        .logo-area{
+          border-bottom:1px solid #000000 !important;
+        }
+        .navigation{
+          color:#ffffff;
+        }
+        .navigation .navigation__tier-2-container{
+          background: #161617 !important;
+        }
+          .navigation .navigation__link:hover,
+          .navigation .menu-promotion__link:hover {
+          color: #ffffff;
+      }
+        .article-list .article{
+          border-top:1px solid #161617 ;
+        }
+        @media (min-width: 768px) {
+          .navigation {
+            border-bottom: 1px solid #161617;
+          }
+          .article-list.article-layout--columns .article{
+            border-right:1px solid #161617;
+          }
+          .article-list.article-layout--columns .article:nth-child(2n){
+                        border-right:1px solid #161617;
+          }
+          .navigation .navigation__item--with-small-menu>.navigation__tier-2-container{
+            border:0px !important;
+          }
+        }
+        .logo-area{
+          color:#ffffff;
+        }
+        #pagefooter {
+          background: #000000;
+          color: #ffffff;
+        }
+        #pagefooter h1, #pagefooter h2, #pagefooter h3, #pagefooter h4, #pagefooter h5, #pagefooter h6{
+           color: #ffffff;
+        }
+        .section-footer__row-container{
+          border-top:1px solid #161617 ;
+        }
+        #shopify-section-template--14928707551301__beb0e699-667f-4236-a2a6-c2b03e62549c .container,#section-id-template--14777114656837__5295701f-21c5-47e9-b2a2-62c22020ceac,#section-id-template--14838903111749__5295701f-21c5-47e9-b2a2-62c22020ceac,.quickbuy-container .inner,#section-id-template--14822713688133__beb0e699-667f-4236-a2a6-c2b03e62549c{
+          background: #000000 !important;
+        }
+        .disclosure-list__item a{
+          color: #000000 !important;
+        }
+        a{
+          color:#ffffff !important;;
+        }
+        #pagefooter .cross-page-promos, #pagefooter .cross-page-promos a, #pagefooter .cross-page-promos h6{
+          color:#ffffff;
+        }
+        #pagefooter .cross-page-promos,.mobile-navigation-drawer,#pagefooter .cross-page-promos, .mobile-navigation-drawer,.product-form .quantity-submit-row.has-spb .button,#section-id-template--14847509987397__7ae5d351-3238-425c-b8c8-57509a586a79,#section-id-template--14822713688133__90318129-ff6e-4f8a-8543-345369e95359{
+         background: linear-gradient(to bottom, #5f1715, #da3e34) !important;
+        }
+        .button.altcolour, .btn.btn--secondary, button.altcolour, input[type=submit].altcolour, input[type=reset].altcolour, input[type=button].altcolour{
+          background: #bf1920 !important;
+        }
+    
+        .quickbuy-toggle{
+          background: #bf1920 !important;
+        }
+
+         .mobile-navigation-drawer{
+          border-right:1px solid #161617 !important;;
+        }
+
+        .mobile-navigation-drawer .navigation__mobile-header{
+           border:0px !important;
+        }
+
+        .mobile-navigation-drawer__footer .announcement-bar__link,.mobile-navigation-drawer__footer .social-links{
+           border:0px  !important;
+        }
+        .mobile-navigation-drawer{
+          background: #161617 !important;
+        }
+      </style>
+    {% endif %}
+    <style>
+      .navigation .navigation__tier-1>.navigation__item:first-child .navigation__link:first-child{
+        color:#e5173e !important;
+      }
+    </style>
+  <script>
+    window.theme = window.theme || {};
+    theme.money_format_with_product_code_preference = {% if settings.product_currency_code_enabled %}{{ shop.money_with_currency_format | json }}{% else %}{{ shop.money_format | json }}{% endif %};
+    theme.money_format_with_cart_code_preference = {% if settings.cart_currency_code_enabled %}{{ shop.money_with_currency_format | json }}{% else %}{{ shop.money_format | json }}{% endif %};
+    theme.money_format = {{ shop.money_format | json }};
+    theme.strings = {
+      previous: {{ 'general.accessibility_labels.previous' | t | json }},
+      next: {{ 'general.accessibility_labels.next' | t | json }},
+      addressError: {{ 'map.errors.address_error' | t | json }},
+      addressNoResults: {{ 'map.errors.address_no_results' | t | json }},
+      addressQueryLimit: {{ 'map.errors.address_query_limit_html' | t | json }},
+      authError: {{ 'map.errors.auth_error' | t | json }},
+      icon_labels_left: {{ 'general.icon_labels.left' | t | escape | json }},
+      icon_labels_right: {{ 'general.icon_labels.right' | t | escape | json }},
+      icon_labels_down: {{ 'general.icon_labels.down' | t | escape | json }},
+      icon_labels_close: {{ 'general.icon_labels.close' | t | escape | json }},
+      icon_labels_plus: {{ 'general.icon_labels.plus' | t | escape | json }},
+      cart_terms_confirmation: {{ 'cart.terms.confirmation' | t | json }},
+      products_listing_from: {{ 'products.listing.from' | t | json }},
+      layout_live_search_see_all: {{ 'layout.live_search.see_all' | t | json }},
+      products_product_add_to_cart: {{ 'products.product.add_to_cart' | t | json }},
+      products_variant_no_stock: {{ 'products.variant.no_stock' | t | json }},
+      products_variant_non_existent: {{ 'products.variant.non_existent' | t | json }},
+      products_product_pick_a: {{ 'products.product.pick_a' | t | json }},
+      general_navigation_menu_toggle_aria_label: {{ 'general.navigation.menu_toggle_aria_label' | t | json }},
+      general_accessibility_labels_close: {{ 'general.accessibility_labels.close' | t | json }},
+      products_product_adding_to_cart: {{ 'products.product.adding_to_cart' | t | json }},
+      products_product_added_to_cart: {{ 'products.product.added_to_cart' | t | json }},
+      general_quick_search_pages: {{ 'general.quick_search.pages' | t | json }},
+      general_quick_search_no_results: {{ 'general.quick_search.no_results' | t | json }},
+      collections_general_see_all_subcollections: {{ 'collections.general.see_all_subcollections' | t | json }}
+    };
+    theme.routes = {
+      cart_url: '{{ routes.cart_url }}',
+      cart_add_url: '{{ routes.cart_add_url }}.js',
+      cart_change_url: '{{ routes.cart_change_url }}',
+      predictive_search_url: '{{ routes.predictive_search_url }}'
+    };
+    theme.settings = {
+      cart_type: {{ settings.cart_type | json }},
+      quickbuy_style: {{ settings.quickbuy_style | json }},
+      avoid_orphans: {{ settings.avoid_orphans | json }}
+    };
+    document.documentElement.classList.add('js');
+  </script>
+
+  {%- if settings.swatch_enabled and settings.swatch_value_list != blank -%}
+    <style>
+      {%- assign swatch_lines = settings.swatch_value_list | newline_to_br | strip_newlines | split: '<br />' -%}
+      {%- for line in swatch_lines -%}
+        {%- assign line_split = line | split: ':' -%}
+        {%- if line_split.last contains '#' -%}
+          [data-swatch="{{ line_split.first | replace: '"', '' | downcase }}"] { --swatch-background-color: {{- line_split.last -}} }
+        {%- else -%}
+          [data-swatch="{{ line_split.first | replace: '"', '' | downcase }}"] { --swatch-background-image: url({{- line_split.last | strip | file_img_url: '128x128', crop: settings.swatch_crop_align -}}) }
+        {%- endif -%}
+      {%- endfor -%}
+    </style>
+  {%- endif -%}
+
+  {{ content_for_header }}
+{% render 'opinew_head' %}
+<!-- Ptengine Tag -->
+<script src="https://js.ptengine.com/5dj7ad1e.js"></script>
+<!-- End Ptengine Tag -->
+            
+
+{% render 'gsf-conversion-pixels' %}
+</head>
+
+<body class="template-{{ template | split: '.' | first | handle }}
+    {%- if template.suffix %} template-suffix-{{ template.suffix }}{% endif -%}
+    {%- if settings.swatch_enabled %} swatch-method-{{ settings.swatch_method }} swatch-style-{{ settings.swatch_style }}{% endif -%}
+    " data-cc-animate-timeout="0">
+
+  {%- if settings.animations_enabled_desktop -%}
+    <script>
+      if ('IntersectionObserver' in window) {
+        document.body.classList.add("cc-animate-enabled");
+      }
+    </script>
+  {%- endif -%}
+
+  <a class="skip-link visually-hidden" href="#content">{{ 'general.accessibility_labels.skip_to_content' | t }}</a>
+
+  {% section 'announcement-bar' %}
+  {% section 'header' %}
+  {% section 'store-messages' %}
+
+  <main id="content" role="main">
+    <div class="container cf">
+
+      {{ content_for_layout }}
+
+    </div><!-- /.container -->
+  </main><!-- /#content -->
+
+  {% if request.path != '/challenge' %}
+    <div id="pagefooter">
+      {% section 'cross-page-promos' %}
+      {% section 'footer' %}
+    </div>
+
+    {% section 'popup' %}
+
+  {% section 'aa-freegift' %}
+    
+  {% endif %}
+
+  {{ 'vendor.min.js'  | asset_url | script_tag }}
+  {{ 'theme.js'  | asset_url | script_tag }}
+ {% include 'smile-initializer' %}
+  
+  <!-- Ptengine Tag -->
+  {% if template contains "index" %}
+    <script>
+        window.ptengine && window.ptengine.track("product_home",{},{transport:'beacon'});
+    </script>
+  {% elsif template contains "product" %}
+    <script>
+        window.ptengine && window.ptengine.track("product_detail",{},{transport:'beacon'});
+    </script>
+  {% elsif template contains "collection" %}
+    <script>
+        window.ptengine && window.ptengine.track("product_list_view",{},{transport:'beacon'});
+    </script>
+  {% endif %}
+  
+  {% if customer %}
+    <script>
+      window.ptengine && window.ptengine.identify('{{ customer.id }}', {
+          email: '{{ customer.email }}',
+          name: '{{ customer.name }}',
+          has_account: '{{ customer.has_account }}',
+          last_order: '{{ customer.last_order }}',
+          orders_count: '{{ customer.orders_count }}',
+          total_spent: '{{ customer.total_spent }}',
+          accepts_marketing: '{{ customer.accepts_marketing }}'
+      });
+    </script>
+  {% endif %}
+  
+  <script>
+    document.querySelector("body").addEventListener("click",function(e){
+          var targetEle = e.srcElement||e.target;
+          if(targetEle.nodeName == "BUTTON"  && targetEle.getAttribute("data-add-to-cart-text") == "Add to Cart"){
+               window.ptengine && window.ptengine.track("add_cart",{},{transport:'beacon'});
+          }else if((targetEle.nodeName == "BUTTON" && (targetEle.getAttribute("name")&&targetEle.getAttribute("name")=="checkout"))||(targetEle.nodeName == "DIV"&&targetEle.getAttribute("data-testid")&&targetEle.getAttribute("data-testid") == "PayPalInContext-button")){
+              window.ptengine && window.ptengine.track("checkout",{},{transport:'beacon'});
+          }else if(targetEle.nodeName == "DIV" && targetEle.className.includes("shopify-payment-button__button")){
+              
+                window.ptengine && window.ptengine.track("add_cart",{},{transport:'beacon'});
+              
+          }
+      })
+    </script>
+  <!-- Ptengine Tag -->
+<!-- CRITEO START -->
+{% render 'criteo-tracking' %}
+<!-- CRITEO END -->
+</body>
+</html>

@@ -1,0 +1,244 @@
+<style>
+  #shopify-section-{{ section.id }} .aa-cp-s3 {
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    background-color: #000;
+    overflow: hidden;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s3 .aa-wrap {
+    position: absolute;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s3 .aa-head {
+    text-align: left;
+    line-height: 1;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s3 .aa-head .aa-heading {
+    font-size: {{ section.settings.heading_size }};
+    font-weight: 700;
+    text-transform: uppercase;
+    color: inherit;
+    padding: 20px 0;
+    {%- if section.settings.heading_bgimg != blank -%}
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    background-image: url('{{ section.settings.heading_bgimg | img_url: 'master' }}');
+    background-size: 100% 100%;
+    color: transparent;
+    {%- endif -%}
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s3 .aa-head .aa-info {
+     line-height: 1.4;
+     font-size: {{ section.settings.info_size }};
+     color: inherit;
+   }
+   #shopify-section-{{ section.id }} .aa-cp-s3 .aa-button {
+    text-align: left;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s3 .aa-button a {
+    display: inline-block;
+    padding: 15px 30px;
+    margin-top: 15px;
+    font-size: {{ section.settings.button_size }};
+    font-weight: 700;
+    color: inherit;
+    background-color: #9921CF;
+    text-decoration: none;
+  }
+  
+  @media screen and (min-width: 768px) {
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-head {
+      width: {{ section.settings.heading_width }};
+      text-align: left;
+      line-height: 1;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-content {
+      display: flex;
+      justify-content: flex-start;
+      flex-direction: column;
+      align-items: flex-start;
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-wrap {
+      top: 60px;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-wrap {
+      bottom: 0;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-content {
+      padding: 0 25px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-head .aa-heading {
+      width: {{ section.settings.heading_width_mobile }};
+      font-size: {{ section.settings.heading_size_mobile }};
+      {%- if section.settings.heading_bgimg_mobile != blank -%}
+      background-image: url('{{ section.settings.heading_bgimg_mobile | img_url: 'master' }}');
+      background-size: 100% 100%;
+      {%- endif -%}
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-head .aa-info {
+      font-size: {{ section.settings.info_size_mobile }};
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-has-button {
+      padding-bottom: 100px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s3 .aa-button a {
+      font-size: {{ section.settings.button_size_mobile }};
+      margin-bottom: 30px;
+    }
+   }
+</style>
+
+<div class="aa-section aa-cp-s3 aa-w1920">
+  <div class="aa-relative {% if section.settings.show_button and section.settings.button != blank and section.settings.link != blank %} aa-has-button{% endif %}">
+    {%- if section.settings.link != blank -%}
+      <a class="aa-link-mask" href="{{ section.settings.link }}"></a>
+    {%- endif -%}
+    {%- if section.settings.bgimg != blank -%}
+      <div class="aa-desktop aa-image">
+          <img src="{{ section.settings.bgimg | img_url: 'master' }}">
+      </div>
+    {%- endif -%}
+    {%- if section.settings.bgimg_mobile != blank -%}
+      <div class="aa-mobile aa-image">
+        <img src="{{ section.settings.bgimg_mobile | img_url: 'master' }}">
+      </div>
+    {%- endif -%}
+    <div class="aa-wrap">
+      <div class="aa-content">
+        <div class="aa-head">
+          {%- if section.settings.heading != blank -%}
+            <div class="aa-heading" {{ settings.item_animate }}>{{ section.settings.heading | escape }}</div>
+          {%- endif -%}
+          {%- if section.settings.info != blank -%}
+            <div class="aa-info" {{ settings.item_animate }}>{{ section.settings.info }}</div>
+          {%- endif -%}
+          {%- if section.settings.show_button and section.settings.button != blank and section.settings.link != blank -%}
+              <div class="aa-button" {{ settings.item_animate }}>
+                <a href="{{ section.settings.link }}">{{ section.settings.button | escape }}</a>
+              </div>
+          {%- endif -%}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "AA CP S3",
+  "limit": 1,
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "bgimg",
+      "label": "Background image"
+    },
+    {
+      "type": "image_picker",
+      "id": "bgimg_mobile",
+      "label": "Background image (mobile)"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "heading_size",
+      "label": "Heading size",
+      "default": "70px"
+    },
+    {
+      "type": "text",
+      "id": "heading_size_mobile",
+      "label": "Heading size (mobile)",
+      "default": "27px"
+    },
+    {
+      "type": "text",
+      "id": "heading_width",
+      "label": "Heading width",
+      "default": "650px"
+    },
+    {
+      "type": "text",
+      "id": "heading_width_mobile",
+      "label": "Heading width (mobile)",
+      "default": "50%"
+    },
+    {
+      "type": "image_picker",
+      "id": "heading_bgimg",
+      "label": "Heading background image"
+    },
+    {
+      "type": "image_picker",
+      "id": "heading_bgimg_mobile",
+      "label": "Heading background image (mobile)"
+    },
+    {
+      "type": "richtext",
+      "id": "info",
+      "label": "Info"
+    },
+    {
+      "type": "text",
+      "id": "info_size",
+      "label": "Info size",
+      "default": "26px"
+    },
+    {
+      "type": "text",
+      "id": "info_size_mobile",
+      "label": "Info size (mobile)",
+      "default": "14px"
+    },
+    {
+          "type": "checkbox",
+          "id": "show_button",
+          "label": "Show button",
+          "default": false
+        },
+    {
+          "type": "url",
+          "id": "link",
+          "label": "Link"
+        },
+        {
+          "type": "text",
+          "id": "button",
+          "label": "Button",
+          "default": "SHOP NOW"
+        },
+        {
+          "type": "text",
+          "id": "button_size",
+          "label": "Button size",
+          "default": "26px"
+        },
+        {
+          "type": "text",
+          "id": "button_size_mobile",
+          "label": "Button size (mobile)",
+          "default": "14px"
+        }
+  ],
+  "presets": [
+    {
+      "name": "AA CP S3"
+    }
+  ]
+}
+{% endschema %}

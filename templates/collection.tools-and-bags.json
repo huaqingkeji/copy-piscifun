@@ -1,0 +1,239 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_rods.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "fishing rods",
+            "button_label": "",
+            "link": "shopify://collections/rods",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Fishing Tools and Bags",
+            "answer": "<p>It's a common joke that you still need more when you know how much fishing gear you already have. No matter what you have, the common challenge is organizing it and getting it to the water's edge. Before looking at how you efficiently transport all that fishing gear, you must ensure you have the bare-bones fishing tools. Thankfully, there are only three essential tools you need.</p><h5><strong>Critical fishing tools:</strong> </h5><p>Spooler, Pliers, Scissors, and Fish Gripper: The first tool you should use before leaving the house. If you have not spooled your fishing line onto your fishing reel correctly, you will have a day of frustration as the line tangles on every cast. Therefore, every angler should have a good <a href=\"https://www.piscifun.com/collections/fishing-line-spooler\" target=\"_blank\" title=\"Fishing Line Spooler\">fishing line spooler</a>. Beyond that, it is simple. You only need a set of pliers, scissors, and a fish lip gripper to land your catch. However, there are efficiencies to be gained! Your pliers should include a cutter and eliminate the need for a separate set of scissors. In addition, the <a href=\"https://www.piscifun.com/collections/fishing-pliers\" target=\"_blank\" title=\"Fishing Pliers\">pliers</a> should have a split ring separator and slots to crimp sleeves or split shots. Be sure the pliers are made of rust-resistant metal, such as aluminum or stainless steel. A good fish lip gripper can include the ability to weigh the fish.</p><h5><strong>Transport:</strong> </h5><p>Chances are you will take more than just a couple of boxes of lures when fishing. You probably have your lunch, rain gear, water, insect repellent, and other comfort items. Thankfully there are many options of tackle bags or backpacks to choose from depending on how much \"stuff\" you need. Those fishing from a boat has the flexibility to pack more tackle boxes than an angler hiking next to a mountain stream. Let's look at some of the options and associated considerations.</p><p>Manufacturers who make the best tackle bags or fishing bags customize them to fit standard tackle boxes. <a href=\"https://www.piscifun.com/collections/tackle-bags\" target=\"_blank\" title=\"Tackle Bags\">Tackle bags</a> and fishing bags come in different sizes to hold different quantities of tackle boxes. Here is one approach to selecting the best size. Segregate your lures by season or species on the garage floor. The size of the largest pile dictates the minimum size bag you should buy since the tackle bag or fishing bag must accommodate the maximum number of boxes. </p><p>If you only have a few boxes, a fishing tackle backpack makes it easy to get them from your vehicle to the water. Tackle backpacks come in different sizes, and some include tackle trays. Regardless of how many trays you need, the fishing backpack should have plenty of compartments for all your other comfort items and slots specifically made to hold your fishing tools. A few indications of quality include double zippers, double stitching, high-quality nylon material rated at least 1000D nylon (1200D is better), rain protection, ergonomic design, adjustable waistband, and internal partitions. If the tackle backpack has a rod holder, reflective strips, and a hardened compartment for your sunglasses, you know you are at the top of the line.</p><p>If you take long hikes into the backcountry, the fishing backpack must be large enough to include emergency supplies. However, if only going on a day trip, you should consider the smaller backpacks, family packs, or sling tackle bag options. These are sized to hold a curated number of lures, tools, and required comfort items. In particular, a fishing backpack that can be used as a sling bag or a traditional backpack is handy when scrambling over rocks to get to the next beautiful pool on that mountain stream. The best choices always have front pockets for easy access to the items you constantly use.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about fishing tools and bags"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What do I need to go fishing?",
+            "answer": "<p>To go fishing, you will need a few essential items and equipment. The specific items you need may vary depending on the type of fishing you plan to do and the location you'll be fishing in. However, some common items are generally required for a fishing trip: </p><h5><strong>Fishing Rod and Reel:</strong> </h5><p>Choose a fishing rod and reel combination suitable for your intended fishing style and target species. Consider factors such as the fishing technique, type of water (freshwater or saltwater), and the size of fish you expect to catch. </p><h5><a href=\"https://www.piscifun.com/collections/line\" target=\"_blank\" title=\"Fishing Line\"><strong>Fishing Line</strong></a><strong>:</strong> </h5><p>Spool your reel with an appropriate fishing line based on the fishing conditions and target species. Monofilament, fluorocarbon, and braided lines are popular options with advantages and considerations. </p><h5><strong>Fishing Hooks:</strong> </h5><p>Carry a variety of fishing hooks in different sizes to accommodate various bait types and target fish species. Hooks come in different shapes and styles, such as J-hooks, circle hooks, or treble hooks, so choose the appropriate ones for your fishing needs. </p><h5><a href=\"https://www.piscifun.com/collections/lures\" target=\"_blank\" title=\"Lures\"><strong>Bait and Lures</strong></a><strong>: </strong></h5><p>Select baits and lures based on the fish species you're targeting and the fishing technique you plan to use. Live bait (worms, minnows) or artificial lures (jigs, crankbaits, soft plastics) are commonly used. </p><h5><strong>Fishing Tackle:</strong> </h5><p>This includes various small items such as swivels, sinkers, bobbers, and leaders. Tackle is used to modify and improve your fishing setup, enabling better presentation and control. </p><h5><strong>Fishing Accessories: </strong></h5><p>Some additional accessories can enhance your fishing experiences, such as a tackle box or bag to store and organize your gear, a fishing hat, sunglasses for eye protection, sunscreen, insect repellent, and a fishing license, which is often required to fish legally. </p><h5><strong>Fishing Tools</strong>: </h5><p>Carry essential tools like pliers or forceps for hook removal, a fishing knife or multitool, a fish scale to weigh your catch, and a net or landing tool to assist in landing fish.</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "What tools are used in fishing?",
+            "answer": "<p><strong>Fishing Line Cutter:</strong> It's a tool like scissors or pliers with built-in cutters to trim the fishing line. </p><p><a href=\"https://www.piscifun.com/collections/fishing-pliers\" target=\"_blank\" title=\"Fishing Pliers\"><strong>Pliers</strong></a><strong>: </strong>A tool with a gripping mechanism used for various tasks, including removing hooks from fish, crimping sleeves or split rings, or bending wire leaders. </p><p><a href=\"https://www.piscifun.com/collections/fish-gripper\" target=\"_blank\" title=\"Fish Gripper\"><strong>Fish Grippers</strong></a><strong>:</strong> Gripping tools with jaws designed to hold the fish firmly, providing a secure grip for easier handling and hook removal.</p>"
+          }
+        },
+        "a6569254-3352-4fcc-8746-06d0ef89ff96": {
+          "type": "question",
+          "settings": {
+            "title": "What is a fishing tackle box?",
+            "answer": "<p>A fishing tackle box is a container to store and organize fishing tackle equipment and accessories. It is an essential item for anglers as it allows them to keep their gear organized, easily accessible, and protected.</p><p>Tackle boxes come in various sizes, styles, and materials to accommodate different needs and preferences. They typically feature multiple compartments, trays, and dividers to help separate and organize different types of fishing tackle. The compartments and trays within a tackle box are designed to hold various items such as hooks, lures, sinkers, swivels, fishing lines, leaders, and other small accessories. This organization helps anglers quickly find the tackle they need for a particular fishing situation. Tackle boxes are usually made from durable materials like hard plastic, metal, or fabric, which protect the contents and can withstand the rigors of fishing environments. Many tackle boxes also feature sturdy handles or straps for easy carrying. Some tackle boxes are designed with specialized features, such as waterproof or water-resistant construction, to protect the tackle from moisture and prevent rust or corrosion. Additionally, there are tackle bags available that offer similar functionality but in a soft, bag-like design.</p><p>Overall, a fishing tackle box is a convenient storage solution that helps anglers keep their fishing gear organized, protected, and readily available for fishing adventures.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2",
+        "a6569254-3352-4fcc-8746-06d0ef89ff96"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "db903dd3-7f78-48c3-8afb-265c5acfb333": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"What do I need to go fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"To go fishing, you will need a few essential items and equipment. The specific items you need may vary depending on the type of fishing you plan to do and the location you'll be fishing in. However, some common items are generally required for a fishing trip: \n\nFISHING ROD AND REEL: \nChoose a fishing rod and reel combination suitable for your intended fishing style and target species. Consider factors such as the fishing technique, type of water (freshwater or saltwater), and the size of fish you expect to catch. \n\nFISHING LINE: \nSpool your reel with an appropriate fishing line based on the fishing conditions and target species. Monofilament, fluorocarbon, and braided lines are popular options with advantages and considerations. \n\nFISHING HOOKS: \nCarry a variety of fishing hooks in different sizes to accommodate various bait types and target fish species. Hooks come in different shapes and styles, such as J-hooks, circle hooks, or treble hooks, so choose the appropriate ones for your fishing needs. \n\nBAIT AND LURES: \nSelect baits and lures based on the fish species you're targeting and the fishing technique you plan to use. Live bait (worms, minnows) or artificial lures (jigs, crankbaits, soft plastics) are commonly used. \n\nFISHING TACKLE: \nThis includes various small items such as swivels, sinkers, bobbers, and leaders. Tackle is used to modify and improve your fishing setup, enabling better presentation and control. \n\nFISHING ACCESSORIES: \nSome additional accessories can enhance your fishing experiences, such as a tackle box or bag to store and organize your gear, a fishing hat, sunglasses for eye protection, sunscreen, insect repellent, and a fishing license, which is often required to fish legally. \n\nFISHING TOOLS:\nCarry essential tools like pliers or forceps for hook removal, a fishing knife or multitool, a fish scale to weigh your catch, and a net or landing tool to assist in landing fish.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What tools are used in fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Fishing Line Cutter: It's a tool like scissors or pliers with built-in cutters to trim the fishing line. \n\nPliers: A tool with a gripping mechanism used for various tasks, including removing hooks from fish, crimping sleeves or split rings, or bending wire leaders. \n\nFish Grippers: Gripping tools with jaws designed to hold the fish firmly, providing a secure grip for easier handling and hook removal.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What is a fishing tackle box?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"A fishing tackle box is a container to store and organize fishing tackle e quipment and accessories. It is an essential item for anglers as it allows them to keep their gear organized, easily accessible, and protected.\n\nTackle boxes come in various sizes, styles, and materials to accommodate different needs and preferences. They typically feature multiple compartments, trays, and dividers to help separate and organize different types of fishing tackle. The compartments and trays within a tackle box are designed to hold various items such as hooks, lures, sinkers, swivels, fishing lines, leaders, and other small accessories. This organization helps anglers quickly find the tackle they need for a particular fishing situation. Tackle boxes are usually made from durable materials like hard plastic, metal, or fabric, which protect the contents and can withstand the rigors of fishing environments. Many tackle boxes also feature sturdy handles or straps for easy carrying. Some tackle boxes are designed with specialized features, such as waterproof or water-resistant construction, to protect the tackle from moisture and prevent rust or corrosion. Additionally, there are tackle bags available that offer similar functionality but in a soft, bag-like design.\n\nOverall, a fishing tackle box is a convenient storage solution that helps anglers keep their fishing gear organized, protected, and readily available for fishing adventures.\"\n    }\n  }]\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "db903dd3-7f78-48c3-8afb-265c5acfb333"
+  ]
+}

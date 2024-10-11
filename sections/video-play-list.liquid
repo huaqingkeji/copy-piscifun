@@ -1,0 +1,15 @@
+<div id="section-id-{{ section.id }}">{{ section.settings.video_cover }}</div>
+
+{% schema %}
+{
+  "name": "Video play list",
+  "class": "section-video-play-list",
+  "settings": [
+    {
+        "id": "image",
+        "type": "image_picker",
+        "label": "Cover image"
+      }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,196 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_rods.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "fishing rods",
+            "button_label": "",
+            "link": "shopify://collections/rods",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is the most suitable tackle bag for your style of fishing? ",
+            "answer": "<p>Obviously, the fishing bag must be sized to accommodate the gear you use. Boating anglers have different requirements than anglers who fish from the shore or hike. Luckily, tackle bags come in several styles, including backpack, duffle, fanny, and sling. Regardless of the type of tackle bag you select, look for the key indications of quality such as double zippers, double stitching, high-quality nylon material rated at least 1000D nylon (1200D is better), rain protection, ergonomic design, plenty of internal partitions, and a comfortable support framework.</p><h5><strong>Backpack tackle bag:</strong> </h5><p>To state the obvious, you wear this tackle bag on your back. As such, it is best suited for those who hike to their fishing location. Be sure to look for padded shoulder straps, a chest strap, and a comfortable, padded waistband. Many backpack tackle bags include space specifically designed to hold standard-size lure boxes. Other features include external straps, outside pockets to hold a water bottle, or items you need quick access to, such as your GPS. Some tackle bags have molle straps to attach a multitool, knife, pliers, or other equipment directly to the outside of the pack. One indicator of a superior product is that it includes holders specifically for fishing rods. These free up your hands - something nice when bushwhacking through heavy brush or scrambling up a hill.</p><p>The best backpack tackle bags are multifunctional and can be reconfigured into sling, chest, or duffel bag configurations.</p><h5><strong>Duffle tackle bag:</strong> </h5><p>Unlike a backpack tackle bag, you carry a duffle tackle bag using handles. Their key advantage over a backpack tackle bag is the rectangular format that allows you to store large items. These can hold more tackle boxes and are best for those who fish from a boat or have a short walk from their vehicle to the shore. Be sure the duffel bag has plenty of external pockets to allow quick access to things you always use. </p><p>The bag's interior should be lined with mesh pockets to organize small items. Since the bag will probably sit at the bottom of your boat, look for an anti-slip waterproof base to keep everything dry. While the typical way to carry the bag will be using handles, be sure it includes a shoulder strap with a pad. Finally, duffel bags do not have the weight restrictions of a backpack tackle bag, allowing them to be made of heavier material. Typically, manufacturers use 400D ripstop nylon. 600D PVC waterproof material is a much better option and indicates a higher quality construction.</p><h5><strong>Sling or Fanny tackle bag: </strong></h5><p>Sling and Fanny bags operate on the same principle. A sling bag goes over your shoulder, while a fanny tackle bag attaches directly to your waist. A sling tackle bag has greater capacity and is more comfortable than a fanny pack. </p><p>Fanny packs are best when you do not need a lot of equipment. They are appropriate for holding a couple of lures, fishing pliers, water bottles, and other things. Unlike a duffel bag, fanny packs are made from lightweight material for maximum comfort.</p><p>On the other hand, a sling bag has more capacity, more external pockets and relies on a padded shoulder strap teamed up with a waist belt for stability. When evaluating a sling tackle bag, verify that it will handle the number of lure boxes and gear you typically take. Ideally, the sling bag has plenty of small outside pockets and holders specifically made for pliers and other standard fishing tools. The mark of a superior sling tackle bag is that it also has a rod holder. That feature allows you to free your hands to hold a wading staff or scramble up steep hills.</p><p>In short, decide how and where you are going to fish. Select the right tackle bag for that venue. You may need several different format bags if you fish for a wide variety of fish in different places.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about tackle bags"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a"
+  ]
+}

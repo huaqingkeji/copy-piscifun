@@ -1,0 +1,228 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_rods.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "fishing rods",
+            "button_label": "",
+            "link": "shopify://collections/rods",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Fish Gripper",
+            "answer": "<p>Fish are slippery! Larger fish are even more challenging to control once you get them on the bank or in your boat. They are not happy being landed and will flop frantically. The worst thing you can do is to grab the fish through the gill openings. You can cut your fingers doing this on some species, but the fish is more likely to die if you damage their gills. A good fish gripper is the best way to get control to harvest or release the fish safely. While there is such a thing as a net grip, that type of grip is expensive, awkward to use, and duplicates most of the function of the net itself. Stick with the basics. Manufacturers design lip grips to allow you to quickly control the fish without causing harm. </p><p>Lip grippers come with and without a scale. Of course, the advantage of the fish gripper with the scale is to provide instant feedback on the weight of your fish. But, for most anglers, the basic lip gripper is all you need.</p><p>When considering buying a fish gripper, there are a few factors to consider:</p><p>In summary, fish grippers protect the fish from harm. Since most freshwater anglers practice catch and release, using a fish gripper supports that ethic. For anglers who harvest fish, a fish gripper allows the angler to get the fish under control without risking personal injury from sharp teeth or gills.</p>"
+          }
+        },
+        "0365838e-8986-4acf-ac1f-ad581d836c03": {
+          "type": "question",
+          "settings": {
+            "title": "What is the size and weight of the fish you want to handle? ",
+            "answer": "<p>You want to use the appropriate-sized fish gripper for the species you intend to catch. Luckily, grippers come in different sizes. Typically, most anglers do not need a large fish gripper. One at least eight inches long is suitable for most fresh and inshore saltwater fish.</p>"
+          }
+        },
+        "fa55e111-c000-4cc7-8b78-996f439e7e3f": {
+          "type": "question",
+          "settings": {
+            "title": "What is the fish gripper made of? ",
+            "answer": "<p>You want to be sure your lip gripper will not rust and seize up. Therefore, look for sturdy plastic, stainless steel, or aluminum.</p>"
+          }
+        },
+        "2b94f3ac-aff9-4dae-9d87-5fdca68c3e94": {
+          "type": "question",
+          "settings": {
+            "title": "Is the gripper easy to hold? ",
+            "answer": "<p>Yes, you want the same EVA material in the grip’s handle as you have on your fishing reel. This material is soft, comfortable and resists slipping to a certain extent. </p>"
+          }
+        },
+        "5efb9327-b5bb-4e6e-89a0-b77d428da613": {
+          "type": "question",
+          "settings": {
+            "title": "Do you need additional features? ",
+            "answer": "<p>As a minimum, the fish gripper should have a cord you can put your wrist through. Grabbing the fish and dropping it back into the water with the grip attached would be a tragedy. If you want a scale, check that the scale is water-resistant and will handle the prospective weight of your catch. If it has a digital scale, confirm that the scale is readable in bright sunlight.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1",
+        "0365838e-8986-4acf-ac1f-ad581d836c03",
+        "fa55e111-c000-4cc7-8b78-996f439e7e3f",
+        "2b94f3ac-aff9-4dae-9d87-5fdca68c3e94",
+        "5efb9327-b5bb-4e6e-89a0-b77d428da613"
+      ],
+      "settings": {
+        "title": "learn more about fishing gripper"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a"
+  ]
+}

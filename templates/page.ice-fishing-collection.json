@@ -1,0 +1,622 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "9723e794-e3aa-44d7-81ee-b8850b3782a4": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14726145867845__9723e794-e3aa-44d7-81ee-b8850b3782a4-image-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/lQDPJxNya_pMYQTNAyDNB4CwSN5ibWQpvBYD7Mi8PcCpAA_1920_800_6076eae6-10c1-4d73-a5c3-1cc54c9c1dfd.jpg",
+            "mobile_image": "shopify://shop_images/lQDPJxIGn7hjYQTNA-jNA-iwHfUen3oAbiMD7Mi8PYClAA_1000_1000_e8ee5978-2f99-49c1-9711-377fc3785259.jpg",
+            "image_position": "top center",
+            "mobile_image_position": "center center",
+            "slide_link": "https://www.piscifun.com/collections/50-off-deals",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14726145867845__9723e794-e3aa-44d7-81ee-b8850b3782a4-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ice-Fishing-Gear-1900-2.jpg",
+            "mobile_image": "shopify://shop_images/Ice-Fishing-Gear-960-2.jpg",
+            "image_position": "top center",
+            "mobile_image_position": "center center",
+            "slide_link": "https://www.piscifun.com/collections/for-ice-fishing",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14726145867845__9723e794-e3aa-44d7-81ee-b8850b3782a4-image-1",
+        "template--14726145867845__9723e794-e3aa-44d7-81ee-b8850b3782a4-image-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "4ad558c6-927c-47ad-8818-bd6f9382628e": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "full_width": false,
+        "code": "<div class=\"wt-page-html\">\n<div style=\"margin-top: 30px; margin-bottom: 20px;\">\n\t<div class=\"wt-code-p-r \">\n\t\t<div class=\"section__title section__title--desc section__title--center home-rich-text__title \" style=\"margin-top: 0; margin-bottom: 0;\"> <h2 class=\"section__title-text\" style=\"width: 100%; display: block;margin-top:50px;margin-bottom:30px;text-align:center;font-size:30px;white-space: pre-wrap;\">ICE FISHING ROD AND REEL</h2> </div>\n\t\t<div class=\"wt-code-box-2 wt-code-m-t\">\n\t\t\t<div class=\"wt-code-box\">\n\t\t\t\t<div class=\"wt-code-row-2\">\n\t\t\t\t\t<div class=\"wt-code-row-list-no wt-code-row-list-5 wt-code-row-first-no-big\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 250px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/icx-focus-ice-fishing-rod\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-3-1.jpg?v=1700122029\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/icx-focus-ice-fishing-rod\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-3-1.jpg?v=1700122029\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tICX Focus Ice Fishing Rod\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/icx-focus-ice-fishing-rod\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 250px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-ice-fishing-reel-rod-combo-with-icx-focus\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-5-1.jpg?v=1700122067\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-ice-fishing-reel-rod-combo-with-icx-focus\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-5-1.jpg?v=1700122067\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tICX Frost Reel & Rod Combo\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-ice-fishing-reel-rod-combo-with-icx-focus\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 250px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-ice-fishing-reel-rod-combo-ultralight\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-4-1.jpg?v=1700122100\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-ice-fishing-reel-rod-combo-ultralight\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-4-1.jpg?v=1700122100\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tCarbon X 500 1000 Reel & Rod Combo\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-ice-fishing-reel-rod-combo-ultralight\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 250px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-1.jpg?v=1700122161\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-1.jpg?v=1700122161\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tICX Frost Carbon Ice Fishing Reel\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 250px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-2.jpg?v=1700122222\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/ice-fishing-960-2.jpg?v=1700122222\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tCarbon X Spinning Reel for Ice Fishing\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</div>"
+      }
+    },
+    "2222ad75-6b61-497a-b335-fcac09daa3df": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "code": "<style>.wt-code-m-t { margin-top: 10px; }\n.wt-code-m-t-lg { margin-top: 20px; }\n.wt-code-m-t-30 { margin-top: 30px; }\n.wt-code-m-t-40 { margin-top: 40px; }\n.wt-code-m-t-50 { margin-top: 50px; }\n.wt-code-m-b { margin-bottom: 10px; }\n.wt-code-m-b-lg { margin-bottom: 20px; }\n.wt-code-m-b-30 { margin-bottom: 30px; }\n.wt-code-m-b-40 { margin-bottom: 40px; }\n.wt-code-m-b-50 { margin-bottom: 50px; }\n.wt-code-p-r { position: relative; }\n.wt-code-p-a { position: absolute; }\n.wt-code-w100 { width: 100%; }\n.wt-code-container { max-width: 1400px; margin-left: auto; margin-right: auto; padding-left: 0px; padding-right: 0px; }\n.wt-code-p-10 { padding: 10px; }\n.wt-code-p-20 { padding: 20px; }\n.wt-code-box { width: 100%; }\n.wt-code-box-left { float: left; display: flow-root; width: 100px; }\n.wt-code-box-right { float: right; display: flow-root; width: 100px; }\n.wt-code-box-main { display: flow-root; grid-area: main; max-width: 100%; min-width: 0; height: 100%; }\n.wt-code-row { display: flex; margin-left: -5px; margin-right: -5px; }\n.wt-code-only-row { width: max-content; display: flow-root; overflow: auto; }\n.wt-code-row-item { width: 100%; padding: 5px; }\n.wt-code-row-item-b .wt-code-row-item { position: relative; }\n.wt-code-row-item-b .wt-code-row-item::after { content: ' '; position: absolute; border-right: 1px solid #000001; height: 50px; right: 0; top: 30px; }\n.wt-code-row-item-b .wt-code-row-item:last-child::after { display: none; }\n.wt-code-slide-table { position: relative; }\n.wt-code-item { float: left; }\n.wt-code-t-c { text-align: center; }\n.wt-a-td-underline { text-decoration: underline; }\n.wt-a-td-none { text-decoration: none; }\n.wt-hover-hui:hover { background: rgb(137 137 137 / 33%); }\n.wt-middle-box { padding: 0 100px; }\n.wt-large-title { line-height: 75px; font-size: 68px; font-weight: 500; }\n.wt-title { line-height: 65px; font-size: 58px; font-weight: 500; }\n.wt-small-title { line-height: 55px; font-size: 48px; font-weight: 500; }\n.wt-large-txt { line-height: 22px; font-size: 20px; font-weight: 500; }\n.wt-txt { line-height: 20px; font-size: 18px; font-weight: 500; }\n.wt-small-txt { line-height: 18px; font-size: 16px; font-weight: 500; }\n@media (max-width: 1199) {\n  .wt-middle-box { padding: 0 70px; }\n  .wt-large-title { line-height: 68px; font-size: 60px; font-weight: 500; }\n  .wt-title { line-height: 58px; font-size: 50px; font-weight: 500; }\n  .wt-small-title { line-height: 48px; font-size: 40px; font-weight: 500; }\n}\n@media (max-width: 991px) {\n  .wt-middle-box { padding: 0 30px; }\n  .wt-large-title { line-height: 55px; font-size: 52px; font-weight: 500; }\n  .wt-title { line-height: 45px; font-size: 42px; font-weight: 500; }\n  .wt-small-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n}\n@media (max-width: 767px) {\n  .wt-middle-box { padding: 0 10px; }\n  .wt-large-title { line-height: 45px; font-size: 42px; font-weight: 500; }\n  .wt-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n  .wt-small-title { line-height: 25px; font-size: 22px; font-weight: 500; }\n  .wt-code-min-line { display: grid !important; }\n  .wt-large-txt { line-height: 18px; font-size: 16px; font-weight: 500; }\n  .wt-txt { line-height: 16px; font-size: 14px; font-weight: 500; }\n  .wt-small-txt { line-height: 14px; font-size: 12px; font-weight: 500; }\n}\n@media (max-width: 480px) {\n  .wt-middle-box { padding: 0 10px; }\n  .wt-large-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n  .wt-title { line-height: 30px; font-size: 27px; font-weight: 500; }\n  .wt-small-title { line-height: 25px; font-size: 22px; font-weight: 500; }\n  .wt-code-min-line { display: grid !important; }\n  .wt-large-txt { line-height: 16px; font-size: 14px; font-weight: 500; }\n  .wt-txt { line-height: 14px; font-size: 12px; font-weight: 500; }\n  .wt-small-txt { line-height: 12px; font-size: 10px; font-weight: 500; }\n  .wt-code-row { display: block; }\n  .wt-code-row-item-b { display: flex; }\n}</style>\n<div id=\"wt-page-html\">\n<div class=\"wt-code-p-r wt-code-m-t-50 container container--large container--not-mobile wt-code-m-b-lg\">\n\t<h2 class=\"hometitle h4-style align-center has-paging cc-animate-init -in cc-animate-complete wt-code-t-c\" data-cc-animate=\"\" data-cc-animate-delay=\"0.3s\">\n\t\t<span>ICX FROST CARBON-PRECISE ICE FISHING</span>\n\t</h2>\n\t<div class=\"wt-code-box\">\n\t\t<div class=\"wt-code-box-main\" style=\"overflow: auto;\">\n      <div class=\"wt-code-only-row wt-code-resize-row wt-code-m-t\" item-number=\"3\">\n\t\t\t\t\n    \t\t<div class=\"wt-code-item wt-code-p-10\" style=\"width: 285px;\">\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Piscifun-ice-fishing-reel-1_471967df-eb93-4172-b916-531dcf3c3dc8.jpg?v=1671160649\" />\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; font-weight:bold;text-align:center;\">\n\t\t\t\t\t\tUltra-Light Carbon Frame\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align:center;\">\n\t\t\t\t\t\tEnsures high strength with lightness\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align: left;\">\n\t\t\t\t\t\t<span style=\"color: red; undefined\"></span>\n\t\t\t\t\t\t<span style=\"undefined\"></span>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"wt-code-t-c wt-code-m-t-lg wt-code-m-b\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px; display: initial;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-item wt-code-p-10\" style=\"width: 285px;\">\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Piscifun-ice-fishing-reel-4_aee6aa48-8b5d-40db-96be-1f4c7cc916e2.jpg?v=1671088136\" />\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; font-weight:bold;text-align:center;\">\n\t\t\t\t\t\tInnovative Structural Design\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align:center;\">\n\t\t\t\t\t\tSpool-and-handle on the same side\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align: left;\">\n\t\t\t\t\t\t<span style=\"color: red; undefined\"></span>\n\t\t\t\t\t\t<span style=\"undefined\"></span>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"wt-code-t-c wt-code-m-t-lg wt-code-m-b\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px; display: initial;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-item wt-code-p-10\" style=\"width: 285px;\">\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Piscifun-ice-fishing-reel-7_ef6386e6-10e1-448f-a95c-d4ee94dc8c52.jpg?v=1671088697\" />\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; font-weight:bold;text-align:center;\">\n\t\t\t\t\t\tCNC Precision Frost Spool\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align:center;\">\n\t\t\t\t\t\tSnowflake design for larger capacity\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align: left;\">\n\t\t\t\t\t\t<span style=\"color: red; undefined\"></span>\n\t\t\t\t\t\t<span style=\"undefined\"></span>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"wt-code-t-c wt-code-m-t-lg wt-code-m-b\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px; display: initial;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-item wt-code-p-10\" style=\"width: 285px;\">\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/6391ace427ade714b70fb966024ae804.jpg?v=1671175415\" />\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; font-weight:bold;text-align:center;\">\n\t\t\t\t\t\t7+1 Instant Stop Anti-Reverse\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align:center;\">\n\t\t\t\t\t\tMicro-adjustable falling and stopping\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align: left;\">\n\t\t\t\t\t\t<span style=\"color: red; undefined\"></span>\n\t\t\t\t\t\t<span style=\"undefined\"></span>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"wt-code-t-c wt-code-m-t-lg wt-code-m-b\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px; display: initial;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-item wt-code-p-10\" style=\"width: 285px;\">\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/5_255bf44b-87ac-4814-9c27-b843d8ce58e5.jpg?v=1671088837\" />\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; font-weight:bold;text-align:center;\">\n\t\t\t\t\t\tRolling By Seeing\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align:center;\">\n\t\t\t\t\t\tDesign helps eliminate line twist\n\t\t\t\t\t</div>\n\t\t\t\t\t\n          <div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; border-bottom: 0px solid #e1e3e5; text-align: left;\">\n\t\t\t\t\t\t<span style=\"color: red; undefined\"></span>\n\t\t\t\t\t\t<span style=\"undefined\"></span>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"wt-code-t-c wt-code-m-t-lg wt-code-m-b\">\n\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195967557\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px; display: initial;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div></div>"
+      }
+    },
+    "214c3fb7-e12b-432c-8016-3547890d6f40": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "code": "<style>.wt-code-m-t { margin-top: 10px; }\n.wt-code-m-t-lg { margin-top: 20px; }\n.wt-code-m-t-30 { margin-top: 30px; }\n.wt-code-m-t-40 { margin-top: 40px; }\n.wt-code-m-t-50 { margin-top: 50px; }\n.wt-code-m-b-none { margin-bottom: 0px !important; }\n.wt-code-m-b-xs { margin-bottom: 5px; }\n.wt-code-m-b { margin-bottom: 10px; }\n.wt-code-m-b-lg { margin-bottom: 20px; }\n.wt-code-m-b-30 { margin-bottom: 30px; }\n.wt-code-m-b-40 { margin-bottom: 40px; }\n.wt-code-m-b-50 { margin-bottom: 50px; }\n.wt-code-p-r { position: relative; }\n.wt-code-p-a { position: absolute; }\n.wt-code-w100 { width: 100%; }\n.wt-code-container { max-width: 1400px; margin-left: auto; margin-right: auto; padding-left: 0px; padding-right: 0px; }\n.wt-code-p-5 { padding: 5px; }\n.wt-code-p-10 { padding: 10px; }\n.wt-code-p-20 { padding: 20px; }\n.wt-code-box { width: 100%; }\n.wt-code-box-left { float: left; display: flow-root; width: 100px; }\n.wt-code-box-right { float: right; display: flow-root; width: 100px; }\n.wt-code-box-main { display: flow-root; grid-area: main; max-width: 100%; min-width: 0; height: 100%; }\n.wt-code-row { display: flex; margin-left: -5px; margin-right: -5px; }\n.wt-code-row-2 { display: flex; margin-left: -15px; margin-right: -15px; overflow: auto; }\n.wt-code-only-row { width: max-content; display: flow-root; overflow: auto; }\n.wt-code-row-item { width: 100%; padding: 5px; }\n.wt-code-row-item-b .wt-code-row-item { position: relative; }\n.wt-code-row-item-b .wt-code-row-item::after { content: ' '; position: absolute; border-right: 1px solid #000001; height: 50px; right: 0; top: 30px; }\n.wt-code-row-item-b .wt-code-row-item:last-child::after { display: none; }\n.wt-code-slide-table { position: relative; }\n.wt-code-item { float: left; }\n.wt-code-item-p-15 { float: left; }\n.wt-code-t-c { text-align: center; }\n.wt-a-td-underline { text-decoration: underline; }\n.wt-a-td-none { text-decoration: none; display: inline-block; }\n.wt-hover-hui:hover { background: rgb(137 137 137 / 33%); }\n.wt-middle-box { padding: 0 100px; }\n.wt-large-title { line-height: 75px; font-size: 68px; font-weight: 500; }\n.wt-title { line-height: 65px; font-size: 58px; font-weight: 500; }\n.wt-small-title { line-height: 55px; font-size: 48px; font-weight: 500; }\n.wt-large-txt { line-height: 22px; font-size: 20px; font-weight: 500; }\n.wt-txt { line-height: 20px; font-size: 18px; font-weight: 500; }\n.wt-small-txt { line-height: 18px; font-size: 16px; font-weight: 500; }\n.wt-code-column-box { width: 100%; margin-left: -5px; margin-right: -5px; }\n.wt-code-column-list { width: 33%; float: left; padding: 5px; }\n.wt-code-column-item { width: 100%; margin-bottom: 5px;}\n.wt-code-column-list .wt-code-column-item:nth-child(n+4){ display: none; }\n.wt-a-btn { margin: 0 auto; cursor: pointer; font-weight: 500; font-size: 22px; width: fit-content; color: #000; border-bottom: 3px solid #000; }\n.wt-code-row-list-no { width: initial; display: flex; }\n.wt-code-row-list-2 .wt-code-item-p-15 { width: 50%; padding: 5px 15px; }\n.wt-code-row-list-3 .wt-code-item-p-15 { width: 33.333%; padding: 5px 15px; }\n.wt-code-row-list-4 .wt-code-item-p-15 { width: 25%; padding: 5px 15px; }\n.wt-code-row-list-5 .wt-code-item-p-15 { width: 20%; padding: 5px 15px; }\n.wt-code-row-list-2.wt-code-row-first-big .wt-code-item-p-15 { width: 34%; padding: 5px 15px; }\n.wt-code-row-list-2.wt-code-row-first-big .wt-code-item-p-15:first-child { width: 66%; padding: 5px 15px; }\n.wt-code-row-list-3.wt-code-row-first-big .wt-code-item-p-15 { width: 25%; padding: 5px 15px; }\n.wt-code-row-list-3.wt-code-row-first-big .wt-code-item-p-15:first-child { width: 50%; padding: 5px 15px; }\n.wt-code-row-list-4.wt-code-row-first-big .wt-code-item-p-15 { width: 20%; padding: 5px 15px; }\n.wt-code-row-list-4.wt-code-row-first-big .wt-code-item-p-15:first-child { width: 40%; padding: 5px 15px; }\n.wt-code-show-pc { display: block; }\n.wt-code-show-moble { display: none; }\n.wt-code-hide { display: none; }\n.wt-code-hide-pbl { top: 0; left: 0; width: 100%; height: 100%; transition: all 1s linear; background: linear-gradient(to bottom right, #000000, #000000); opacity: 0.8; }\n.wt-code-body { top: 0; left: 0; width: 100%; height: 100%; padding-top: 45%; text-align: center; font-size: 14px; color: #fff; line-height: 22px; }\n.wt-code-hover-hide:hover .wt-code-hide { display: block; }\n.wt-code-hover-hide a:hover { opacity: 1; }\n.wt-code-top-left { top: 50px; left: 50px; }\n.wt-code-top-center { top: 50px; left: 25%; width: 50%; text-align: center; }\n.wt-code-top-rigth { top: 50px; right: 50px; }\n.wt-code-middle-left { top: 40%; left: 50px; }\n.wt-code-middle-center { top: 40%; left: 25%; width: 50%; text-align: center; }\n.wt-code-middle-rigth { top: 40%; right: 50px; }\n.wt-code-bottom-left { bottom: 50px; left: 50px; }\n.wt-code-bottom-center { bottom: 50px; left: 25%; width: 50%; text-align: center; }\n.wt-code-bottom-rigth { bottom: 50px; right: 50px; }\n@media (max-width: 1199) {\n  .wt-middle-box { padding: 0 70px; }\n  .wt-large-title { line-height: 68px; font-size: 60px; font-weight: 500; }\n  .wt-title { line-height: 58px; font-size: 50px; font-weight: 500; }\n  .wt-small-title { line-height: 48px; font-size: 40px; font-weight: 500; }\n}\n@media (max-width: 991px) {\n  .wt-middle-box { padding: 0 30px; }\n  .wt-large-title { line-height: 55px; font-size: 52px; font-weight: 500; }\n  .wt-title { line-height: 45px; font-size: 42px; font-weight: 500; }\n  .wt-small-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n}\n@media (max-width: 767px) {\n  .wt-middle-box { padding: 0 10px; }\n  .wt-large-title { line-height: 45px; font-size: 42px; font-weight: 500; }\n  .wt-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n  .wt-small-title { line-height: 25px; font-size: 22px; font-weight: 500; }\n  .wt-code-min-line { display: grid !important; }\n  .wt-large-txt { line-height: 18px; font-size: 16px; font-weight: 500; }\n  .wt-txt { line-height: 16px; font-size: 14px; font-weight: 500; }\n  .wt-small-txt { line-height: 14px; font-size: 12px; font-weight: 500; }\n  .wt-code-box-2 { padding: 0 3px; }\n  .wt-code-row-2 { display: flex; margin-left: -5px; margin-right: -5px; overflow: auto; }\n  .wt-code-item-p-15 { width: 80vw !important; padding: 5px 10px !important; }\n  .wt-code-show-pc { display: none; }\n  .wt-code-show-moble { display: block; }\n  .wt-code-top-center { top: 10px; left: 5%; width: 90%; text-align: center; }\n  .wt-code-middle-center { top: 40%; left: 5%; width: 90%; text-align: center; }\n  .wt-code-bottom-center { bottom: 10px; left: 5%; width: 90%; text-align: center; }\n\n  .wt-code-column-box { width: 100%; margin-left: -3px; margin-right: -3px; }\n  .wt-code-column-list { width: 50%; float: left; padding: 3px; }\n  .wt-code-column-item { width: 100%; margin-bottom: 3px;}\n  .wt-code-column-list .wt-code-column-item:nth-child(n+6){ display: none; }\n  .wt-code-body { font-size: 12px; }\n}\n@media (max-width: 480px) {\n  .wt-middle-box { padding: 0 10px; }\n  .wt-large-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n  .wt-title { line-height: 30px; font-size: 27px; font-weight: 500; }\n  .wt-small-title { line-height: 25px; font-size: 22px; font-weight: 500; }\n  .wt-code-min-line { display: grid !important; }\n  .wt-large-txt { line-height: 16px; font-size: 14px; font-weight: 500; }\n  .wt-txt { line-height: 14px; font-size: 12px; font-weight: 500; }\n  .wt-small-txt { line-height: 12px; font-size: 10px; font-weight: 500; }\n  .wt-code-row { display: block; }\n  .wt-code-row-item-b { display: flex; }\n  .wt-code-box-2 { padding: 0 3px; }\n  .wt-code-row-2 { display: flex; margin-left: -5px; margin-right: -5px; overflow: auto; }\n  .wt-code-item-p-15 { width: 80vw !important; padding: 5px 10px !important; }\n  .wt-code-show-pc { display: none; }\n  .wt-code-show-moble { display: block; }\n  .wt-code-top-center { top: 10px; left: 5%; width: 90%; text-align: center; }\n  .wt-code-middle-center { top: 40%; left: 5%; width: 90%; text-align: center; }\n  .wt-code-bottom-center { bottom: 10px; left: 5%; width: 90%; text-align: center; }\n\n  .wt-code-column-box { width: 100%; margin-left: -3px; margin-right: -3px; }\n  .wt-code-column-list { width: 50%; float: left; padding: 3px; }\n  .wt-code-column-item { width: 100%; margin-bottom: 3px;}\n  .wt-code-column-list .wt-code-column-item:nth-child(n+6){ display: none; }\n  .wt-code-body { font-size: 12px; }\n}\n@media (max-width: 420px) {\n  .wt-code-body { font-size: 10px; }\n}</style>\n<div id=\"wt-page-html\">\n<div class=\"wt-code-p-r container container--large container--not-mobile wt-code-m-b-lg\">\n\t<h2 class=\"hometitle h4-style align-center has-paging cc-animate-init -in cc-animate-complete wt-code-m-b-none\" data-cc-animate=\"\" data-cc-animate-delay=\"0.3s\"\n\t\t style=\"text-align:center;\">\n\t\t<span>CARBON X 500 1000-LIGHTEST EVER</span>\n\t</h2>\n\t<p class=\"hometitle h4-style align-center has-paging cc-animate-init -in cc-animate-complete wt-code-m-b-none wt-code-m-t\" data-cc-animate=\"\" data-cc-animate-delay=\"0.3s\"\n\t\t style=\"color: #000000; font-size: 14px; text-align:center;font-size:16px;\">\n\t\t<span>Carbon material makes the Carbon X Lighter, Stronger, and Smoother</span>\n\t</p>\n\t<div class=\"wt-code-box-2 wt-code-m-t\">\n\t\t<div class=\"wt-code-box\">\n\t\t\t<div class=\"wt-code-row-2\">\n\t\t\t\t<div class=\"wt-code-row-list-no wt-code-row-list-2 wt-code-row-first-no-big\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 600px; overflow: hidden;\">\n\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\">\n\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Carbon-X-feather_ac3edfa7-9efb-4258-b560-d37c2a204f09.jpg?v=1674114494\" />\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\">\n\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Carbon-X-feather_ac3edfa7-9efb-4258-b560-d37c2a204f09.jpg?v=1674114494\" />\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; font-weight:bold;text-align:center;\">\n\t\t\t\t\t\t\tFEATHER LIGHT\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; text-align:center;font-size:16px;\">\n\t\t\t\t\t\t\tOnly 5.1 oz means increased sensitivity\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center;\">\n\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px; display: initial;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 600px; overflow: hidden;\">\n\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\">\n\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IMG_5012_PNG_d2907344-e16b-4445-a88f-f52ad4f78b8f.jpg?v=1674114514\" />\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\">\n\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IMG_5012_PNG_d2907344-e16b-4445-a88f-f52ad4f78b8f.jpg?v=1674114514\" />\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; font-weight:bold;text-align:center;\">\n\t\t\t\t\t\t\tFULL CARBON FRAME\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; text-align:center;font-size:16px;\">\n\t\t\t\t\t\t\tBalances perfectly with any ice rod\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center;\">\n\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px; display: initial;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div></div>"
+      }
+    },
+    "16600464494e48b034": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Carbon X",
+        "title": "Say goodbye to fatigue!",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>There is no spinning reel in its class that is lighter than the Carbon X, which weighs only <strong>5.1 ounces</strong>. 【氛围场景图+产品露出】</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "166004703251314328": {
+      "type": "rich-text",
+      "blocks": {
+        "1660047032da1b846e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Big catches require reliable gear",
+            "use_h1": true
+          }
+        },
+        "1660047032da1b846e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>The professional fishing gear for focusing on ice fishing with peace of mind!</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "1660047032da1b846e-0",
+        "1660047032da1b846e-1"
+      ],
+      "custom_css": [
+        ".container {margin-top: 40px; margin-bottom: 20px;}"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "bfe4c4b1-9663-47f5-bdef-2b5d8d269b78": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https://www.youtube.com/watch?v=5SZGjMa501k",
+        "autoplay": false,
+        "placeholder_image": "shopify://shop_images/shelter-video-cover-1.jpg",
+        "subheading": "",
+        "title": "Upgraded Ice Fishing Shelter",
+        "use_h1": false,
+        "text": "<p>Roomy, Insulated, and durable with two-door design</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/for-ice-fishing/products/3-4-person-ice-fishing-shelter-pop-up-ice-fishing-tent",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "e283ac83-9ff5-4867-86db-f5ef3e4060fe": {
+      "type": "image-with-text",
+      "disabled": true,
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ice-fishing-1920-1080.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "INSULATED SHANTY WITH WINDOWS",
+        "use_h1": false,
+        "text": "<p>The 300D Oxford fabric provides durability, which is windproof, rainproof, snow-proof, and flame retardant for winter ice fishing.</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/for-ice-fishing/products/3-4-person-ice-fishing-shelter-pop-up-ice-fishing-tent",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "16600465821af15375": {
+      "type": "video-with-text",
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "video": "https://youtu.be/8UBaNxOJM4Q",
+        "autoplay": false,
+        "placeholder_image": "shopify://shop_images/rods-video-cover-1.jpg",
+        "subheading": "",
+        "title": "High-Precision Ice Fishing Combo",
+        "use_h1": false,
+        "text": "<p>Feel more in control of ice catching</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-ice-fishing-reel-rod-combo-with-icx-focus",
+        "button_style": "primary",
+        "video_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "16600467979bb6ece2": {
+      "type": "image-with-text",
+      "disabled": true,
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ice-fishing-1920-1080-2.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Pop-up Shelter for Portability",
+        "use_h1": false,
+        "text": "<p>The pop-up design enables you to set up and take down the fishing tent quickly, and portable enough to take with ease. </p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/for-ice-fishing/products/3-4-person-ice-fishing-shelter-pop-up-ice-fishing-tent",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "166004659210d91f0b": {
+      "type": "video-with-text",
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "video": "https://www.youtube.com/watch?v=nhM3Z5UZvRw",
+        "autoplay": false,
+        "placeholder_image": "shopify://shop_images/5301ce95036bdd22366e5b011a71e2cf_41d35442-17e9-4393-9f57-3d9e8a7d029a.jpg",
+        "subheading": "",
+        "title": "Ice Fishing Suit with Flotation",
+        "use_h1": false,
+        "text": "<p>Filled with the Flotation-Tech material, the insulated suits are excellent for your safety</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/products/piscifun-ice-fishing-suit-3-in-1-jacket-waterproof-fishing-bib-with-flotation-technology",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "ed50a814-e128-434f-9290-06e526d2bb6c": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/grey-video-cover-1.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Insulated Suit for your warmth",
+        "use_h1": false,
+        "text": "<p>A windproof shell with a soft inner liner could keep you warm and comfort in cold temperatures</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/for-ice-fishing/products/ice-fishing-suits-insulated-jacket-bibs-waterproof",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "166004721518f6c299": {
+      "type": "featured-product",
+      "blocks": {
+        "166004721401c9ac31-0": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "166004721401c9ac31-1": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
+          }
+        },
+        "166004721401c9ac31-2": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "166004721401c9ac31-3": {
+          "type": "divider",
+          "settings": {
+          }
+        },
+        "166004721401c9ac31-4": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "166004721401c9ac31-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true
+          }
+        },
+        "166004721401c9ac31-6": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": ""
+          }
+        }
+      },
+      "block_order": [
+        "166004721401c9ac31-0",
+        "166004721401c9ac31-1",
+        "166004721401c9ac31-2",
+        "166004721401c9ac31-3",
+        "166004721401c9ac31-4",
+        "166004721401c9ac31-5",
+        "166004721401c9ac31-6"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "",
+        "inventory_transfers_enable": true,
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "166004697002e6808c": {
+      "type": "testimonials",
+      "blocks": {
+        "1660046970a40ca606-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "1660046970a40ca606-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1660046970a40ca606-1",
+        "1660046970a40ca606-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Customer reviews",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16600468568cb85991": {
+      "type": "gallery",
+      "blocks": {
+        "16600468562f5fd51a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5013_PNG_2835e907-64a3-4e4e-85c7-73cdd9d9668f.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "Design specifically for ice anglers",
+            "title": "Ice Fishing Inline Reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-inline-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16600468562f5fd51a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5017_1_43296717-e919-4add-b3cc-5f8fc633e236.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Start ice fishing with open-water versatility",
+            "title": "Ice Fishing Spinning Reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "16600468562f5fd51a-0",
+        "16600468562f5fd51a-1"
+      ],
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "0e33a165-04a3-469f-b0b2-10ba99ea5d33": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14726145867845__0e33a165-04a3-469f-b0b2-10ba99ea5d33-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5013_PNG_cfb74e07-21a9-4afe-9f73-ceb1455111bb.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "https://www.piscifun.com/collections/ice-fishing-inline-reel",
+            "subheading": "",
+            "title": "Ice Fishing Inline Reel",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>Design specifically for ice anglers</p>",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "bottom center"
+          }
+        },
+        "09434b6f-d3bf-48e0-9fee-b5a6289ec1c9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5017_1.png",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "https://www.piscifun.com/collections/ice-fishing-spinning-reel",
+            "subheading": "",
+            "title": "Ice Fishing Inline Reel",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>Design specifically for ice anglers</p>",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "bottom center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14726145867845__0e33a165-04a3-469f-b0b2-10ba99ea5d33-image-1",
+        "09434b6f-d3bf-48e0-9fee-b5a6289ec1c9"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 540,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "6ba38f16-642c-46bd-9d47-e45acce67cc5": {
+      "type": "custom-row",
+      "blocks": {
+        "template--14726145867845__6ba38f16-642c-46bd-9d47-e45acce67cc5-text-1": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Find out why Tom chooses Piscifun!",
+            "text": "",
+            "button_label": "LEARN MORE",
+            "button_link": "https://www.piscifun.com/blogs/fishing-tips/locating-early-ice-panfish",
+            "button_style": "secondary",
+            "text_alignment": "center"
+          }
+        },
+        "template--14726145867845__6ba38f16-642c-46bd-9d47-e45acce67cc5-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "two-thirds",
+            "image": "shopify://shop_images/PROteam_817cc281-25d1-461e-ad04-f1e886d8f55c_1.jpg",
+            "image_position": "center center",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "MORE INFO",
+            "image_link": "https://youtube.com/@TomBoley",
+            "text_alignment": "bottom center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        }
+      },
+      "block_order": [
+        "template--14726145867845__6ba38f16-642c-46bd-9d47-e45acce67cc5-text-1",
+        "template--14726145867845__6ba38f16-642c-46bd-9d47-e45acce67cc5-image-1"
+      ],
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    },
+    "e5732113-9806-444b-9c14-99c14e79dca3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "ICE FISHING ESSENTIALS",
+        "collection": "for-ice-fishing",
+        "is_hide_product_block_options": false,
+        "flash_sale_mobile_switch": false,
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "b5e0779c-d4fc-49d9-be79-b60bdadfacee": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "subheading": "<p>Sign up today and receive deals and news on fishing gear. View our<a href=\"https://www.piscifun.com/pages/privacy-policy-piscifun\" target=\"_blank\" title=\"https://www.piscifun.com/pages/privacy-policy-piscifun\"> Privacy Policy </a>and<a href=\"https://www.piscifun.com/pages/terms-of-use\" target=\"_blank\" title=\"https://www.piscifun.com/pages/terms-of-use\"> Terms </a>for more information.</p>",
+        "color_bg": "#f6f6f6"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9723e794-e3aa-44d7-81ee-b8850b3782a4",
+    "4ad558c6-927c-47ad-8818-bd6f9382628e",
+    "2222ad75-6b61-497a-b335-fcac09daa3df",
+    "214c3fb7-e12b-432c-8016-3547890d6f40",
+    "16600464494e48b034",
+    "166004703251314328",
+    "bfe4c4b1-9663-47f5-bdef-2b5d8d269b78",
+    "e283ac83-9ff5-4867-86db-f5ef3e4060fe",
+    "16600465821af15375",
+    "16600467979bb6ece2",
+    "166004659210d91f0b",
+    "ed50a814-e128-434f-9290-06e526d2bb6c",
+    "166004721518f6c299",
+    "166004697002e6808c",
+    "16600468568cb85991",
+    "0e33a165-04a3-469f-b0b2-10ba99ea5d33",
+    "6ba38f16-642c-46bd-9d47-e45acce67cc5",
+    "e5732113-9806-444b-9c14-99c14e79dca3",
+    "b5e0779c-d4fc-49d9-be79-b60bdadfacee"
+  ]
+}

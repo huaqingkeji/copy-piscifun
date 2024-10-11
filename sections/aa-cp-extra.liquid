@@ -1,0 +1,72 @@
+<style>
+.aa-cp-s1 .aa-btn-play .aa-svg svg {
+  height: 100%;
+}
+.aa-section .aa-info {
+  font-weight: 400;
+}
+.aa-cp-s11 .aa-parameter table {
+  width: 100%;
+}
+.aa-cp-s11 .aa-parameter table td {
+  border-bottom: none;
+  height: 48px;
+  vertical-align: middle;
+  font-weight: 400;
+}
+.aa-cp-s11 .aa-parameter table tr:not(:last-child) td {
+  border-top: 0;
+}
+  
+@media screen and (max-width: 767px) {
+  .aa-section .aa-info {
+    font-weight: 500;
+  }
+}
+</style>
+
+<script>
+AOS.init();
+  
+(function($) {
+    
+  {% comment %}
+  if ($(window).width() < 768) {
+
+    //parallax scroll
+    $(window).on("load scroll", function() {
+      var parallaxElement = $(".aa-parallax-scroll"),
+        parallaxQuantity = parallaxElement.length;
+      window.requestAnimationFrame(function() {
+        for (var i = 0; i < parallaxQuantity; i++) {
+          var currentElement = parallaxElement.eq(i),
+            windowTop = $(window).scrollTop(),
+            elementTop = currentElement.offset().top,
+            elementHeight = currentElement.height(),
+            viewPortHeight = window.innerHeight * 0.5 - elementHeight * 0.5,
+            scrolled = windowTop - elementTop + viewPortHeight;
+          currentElement.css({
+            transform: "translate3d(0," + scrolled * -0.15 + "px, 0)"
+          });
+        }
+      });
+    });
+
+  }
+  {% endcomment %}
+
+
+})(jQuery);
+</script>
+
+{% schema %}
+  {
+    "name": "AA CP Extra",
+    "settings": [],
+    "presets": [
+      {
+        "name": "AA CP Extra"
+      }
+    ]
+  }
+{% endschema %}

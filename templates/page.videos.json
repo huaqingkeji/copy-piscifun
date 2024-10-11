@@ -1,0 +1,42 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "video_tr3kYn": {
+      "type": "video",
+      "settings": {
+        "video": "https://www.youtube.com/watch?v=uucrtTPTg5s",
+        "subheading": "Tell your story",
+        "video_title": "Featured video",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Use a video to get a customer's attention</p>",
+        "enlarge_text": true,
+        "text_alignment": "center center",
+        "image": "shopify://shop_images/self-serve-coffee-shop.jpg",
+        "image_position": "center center",
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "video_tr3kYn"
+  ]
+}

@@ -1,0 +1,80 @@
+{%- capture label_html -%}
+  {%- assign label_count = 0 -%}
+  {%- assign product_tags =  product.tags | downcase  -%}
+  {%- liquid
+    if settings.product_new_show and product_tags contains 'new'
+        assign new_label_text = 'products.labels.new_in' | t
+    endif
+  -%}
+  {%- if new_label_text -%}
+    {%- assign label_count = label_count | plus: 1 -%}
+    <div class="product-label-new product-label--new" >
+       <span>NEW</span>
+    </div> 
+  {%- endif -%}
+
+  {%- liquid
+    if label_count==0 and settings.prod_pre_sale_show and product_tags contains 'presale'
+      assign pre_sale_label_text = 'PRE-SALE' 
+    endif
+  -%}
+  {%- if pre_sale_label_text -%}
+    {%- assign label_count = label_count | plus: 1 -%}
+    <div class="product-label-new product-label--pre-sale" >
+       <span>PRE-SALE</span>
+    </div>
+  {%- endif -%}
+
+  {%- liquid
+    if label_count==0 and settings.prod_bestseller_show and product_tags contains 'bestseller'
+     assign best_seller_label_text = 'Hot Sale' 
+    endif
+  -%}
+  
+  {%- if best_seller_label_text -%}
+    {%- assign label_count = label_count | plus: 1 -%}
+    <div class="product-label-new product-label--new common-best-seller" >
+       <span>BEST SELLER</span>
+  </div> 
+  <div class="product-label-new product-label--new min-best-seller" >
+       <span>HOT</span>
+  </div> 
+  {%- endif -%}
+
+  
+  
+  {%- liquid
+    if label_count < 2 and settings.prod_discount_show and cheapest_variant.compare_at_price > cheapest_variant.price
+        assign amount = 1.0 | times: cheapest_variant.price | divided_by: cheapest_variant.compare_at_price
+        assign amount = 1.0 | minus: amount
+        assign amount = amount | times: 100.0 | round
+        assign sale_label_text = 'products.labels.percent_reduction' | t: amount: amount
+      assign label_count = label_count | plus: 1
+    endif
+  -%}
+  {%- if amount -%}
+    <div class="product-label-new product-label-new--sale" >
+            <div class="sale_amount" style="width: 50%">{{ amount }}%</div>
+            <div  style="width: 50%;padding-right:6px;">OFF </div>
+    </div>
+    
+  {%- endif -%}
+
+  {%- if label_count < 2 and settings.prod_stock_warn_show and settings.prod_stock_warn_limit_int == 0 and product.variants.size == 1 and product.variants.first.inventory_management != blank and product.variants.first.inventory_quantity > 0 -%}
+    {%- assign label_count = label_count | plus: 1 -%}
+    <span class="product-label product-label--stock">
+      <span>{{ 'products.labels.only_x_left' | t: quantity: product.variants.first.inventory_quantity }}</span>
+    </span>
+  {%- elsif label_count < 2 and settings.prod_stock_warn_show and product.variants.size == 1 and product.variants.first.inventory_management != blank and product.variants.first.inventory_quantity > 0 and product.variants.first.inventory_quantity <= settings.prod_stock_warn_limit_int -%}
+    {%- assign label_count = label_count | plus: 1 -%}
+    <span class="product-label product-label--stock">
+      <span>{{ 'products.labels.only_x_left' | t: quantity: product.variants.first.inventory_quantity }}</span>
+    </span>
+  {%- endif -%}
+{%- endcapture -%}
+
+{%- if label_html != blank -%}
+  <div class="product-label-container-new">
+    {{- label_html -}}
+  </div>
+{%- endif -%}

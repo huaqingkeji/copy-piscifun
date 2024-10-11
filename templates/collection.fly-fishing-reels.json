@@ -1,0 +1,231 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "137026d3-f261-4460-8642-57a9d0878a5c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14725291180101__137026d3-f261-4460-8642-57a9d0878a5c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "OTHER FISHING REELS",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14725291180101__137026d3-f261-4460-8642-57a9d0878a5c-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "31b9b3f9-e3fa-48fb-a345-b9eb1467577e": {
+      "type": "gallery",
+      "blocks": {
+        "template--14725291180101__31b9b3f9-e3fa-48fb-a345-b9eb1467577e-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291180101__31b9b3f9-e3fa-48fb-a345-b9eb1467577e-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291180101__31b9b3f9-e3fa-48fb-a345-b9eb1467577e-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291180101__31b9b3f9-e3fa-48fb-a345-b9eb1467577e-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14725291180101__31b9b3f9-e3fa-48fb-a345-b9eb1467577e-image-1",
+        "template--14725291180101__31b9b3f9-e3fa-48fb-a345-b9eb1467577e-image-2",
+        "template--14725291180101__31b9b3f9-e3fa-48fb-a345-b9eb1467577e-image-3",
+        "template--14725291180101__31b9b3f9-e3fa-48fb-a345-b9eb1467577e-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyer's Guide for Fly Fishing Reels",
+            "answer": "<p>You have an easier decision when looking at fly fishing reels for sale. Selecting a fly fishing reel is more straightforward than choosing a spinning reel or a baitcasting fishing reel because there are fewer characteristics to consider. For most anglers, the flyfishing reel is merely a tool to hold the line. However, even with that simple purpose, you should consider size, arbor, drag, and construction. There are three types of fly reels – single action, multiplier, and automatic. Typically, fly anglers avoid multiplier and automatic reels because the first is prone to backlash, and the second is heavy. Using an industry-standard single-action reel with a 1:1 gear ratio is best.</p><p>Before getting into the details of comparing different fly fishing reels, you must decide what type of fish you will pursue. Fishing for small brook trout on mountain streams requires a different rod, reel, and line combination than going after heavy saltwater fish. Yes, all three elements of the fly fishing setup must match! Fly fishing reel sizes are based on the size of the fly fishing line. Typically, fishing for trout only requires a 3/4 weight rod, reel, and line combination, while bass push the angler to a 5/6 weight fly fishing reel. Larger fish, musky, pike, and saltwater species move the requirement to a 7/8 weight or larger size. The numbers 5/6 and 7/8 indicate the weight of the fly line. Remember, you cast the line, not the lure. For example, manufacturers size a 5/6-weight flyfishing reel to hold the industry-standard amount of backing and a five or six-weight fly line. Likewise, fly fishing rods use the same language to describe the type of fly line optimized for use on that rod. Again, the rod, line, and reel all must match!</p><h5><strong>Size:</strong> </h5><p>Since size is directly related to the target species, there is little choice associated with this characteristic. If you are pursuing large fish, use a large fly reel made for a 7/8 weight line. Smaller fish, smaller reel – one sized for 3/4 or 5/6 weight. Thankfully, the fly line comes in standard lengths of either 90 or 100 feet. Since the lighter line is thinner, the flyfishing reel will hold the matching line length along with a decent backing. </p><h5><strong>Arbor:</strong> </h5><p>This characteristic is the first one that makes a difference in how the reel functions. Arbors come in three basic sizes, small, mid, and large. The circumference of the arbor dictates how many lines you reel in with each turn of the handle. A small arbor fly fishing reel requires many turns of the handle to retrieve the same length of the line as a large arbor reel (the gear ratio is 1:1). Additionally, a mid or large arbor fly fishing reel will hold more backing than a small one. Remember, the fly fishing line is usually either 90 or 100 feet. Therefore, if you need more lines to work a large fish, that function moves to the backing. Reels with more backing allow the fish to run farther during the fight. The best choice is to go with a mid-arbor fly fishing reel.</p><h5><strong>Drag:</strong> </h5><p>No matter what size flyfishing reel you use, it should have a sealed drag to prevent the intrusion of sand and grit. Chances are you will never use the drag when fishing for trout or bass. Smaller fish like these typically never get the line \"on the reel.\" Instead, the angler manages the tension to protect the line from breaking by manually adjusting the line versus the rod bends. The drag becomes critical when pursuing larger fish. For large pike, musky, and saltwater species, it is routine that the fish will run and require more lines to handle. Landing those fish demands a high-quality drag. Avoid any drag made from cork or felt. Those materials erode quickly and may develop hotspots – slick areas where the drag will skip and jerk. The best choice is to look for a drag that uses carbon fiber discs. These are virtually indestructible. Some older fly reels have a drag system called \"click and pawl.\" Avoid any fly fishing reel using this ancient technology. Click and pawl fly reels are not as effective as reels using a modern drag system based on carbon fiber discs. </p><h5><strong>Construction:</strong> </h5><p>Always look for CNC-machined aluminum. Avoid any fly reel made of any other material since it will either be heavy or prone to corrosion. Ideally, the reel you select should advertise \"aircraft quality aluminum.\" It is premium quality if the reel is made from 6061-T6 aircraft-grade aluminum alloy. Beyond the material, the design matters. A pretty design is not just for the aesthetic. The reel's weight becomes critical since fly fishing involves more arm movement than spin or baitcasting. Lighter reels feature larger cutout areas to minimize the overall weight. However, be sure that the design does not make the reel prone to damage when dropped, which is where aircraft-grade aluminum comes into play. It retains its strength even when extensively machined. Another very significant feature to check is the fit. Fly fishing reels separate into two halves. Verify there is no gap between the two halves when joined. If there is a gap, it is likely to catch the fly line.</p><p>Back to the earlier critical point for emphasis, the flyfishing reel setup must match the line and the rod. Manufacturers optimize fly fishing rods to the weight of the fly line! Using a 5/6 weight line on a 7/8 rod produces poor casting performance. Therefore, if you intend to pursue a wide range of fish species ranging from trout to heavy saltwater fish, you must buy the appropriate size flyfishing reel, line, and rod for each.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "Learn More About Fly Fishing Reels"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "How do fly fishing reels work?",
+            "answer": "<p>Fly fishing reels are designed specifically for fly fishing, where the weight of the fly line is used to cast lightweight flies. Unlike spinning or baitcasting reels, fly fishing reels do not play a significant role in casting distance. Instead, they serve several important functions in fly fishing: </p><h5><strong>Line Storage:</strong> </h5><p>Fly fishing reels primarily serve as a storage mechanism for the fly line. The fly line is typically wound onto the reel's spool, keeping it organized and easily accessible during fishing. </p><h5><strong>Line Retrieval: </strong></h5><p>While fly fishing reels are not essential for casting, they are used for retrieving and managing the fly line. After casting, the angler can reel in the line using the reel's handle, which helps control the line tension and enables the angler to bring the fly back in closer to them. </p><h5><strong>Line Control: </strong></h5><p>Fly fishing reels also assist in line control during the fishing process. When a fish takes the fly, the angler may need to let the line out or give it some slack. The reel's drag system, typically adjustable, allows the angler to apply pressure to the line as needed, helping to tire out and land the fish. </p><h5><strong>Backing Capacity:</strong> </h5><p>Fly fishing reels can hold additional backing lines, a strong, thin line that provides extra line length when battling larger fish. The backing is typically added to the reel before attaching the fly line. </p><h5><strong>Balance and Counterbalance: </strong></h5><p>Fly fishing reels help balance the weight of the fly rod, ensuring that it feels comfortable and well-balanced in the angler's hand during casting and fishing. It's important to note that in fly fishing, the line is primarily cast using the weight of the fly line itself, while the reel's main function is line storage and retrieval, as well as providing additional control during the fight with a fish.</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Why are fly reels so expensive?",
+            "answer": "<p>Fly fishing reels can be expensive due to several factors: </p><h5><strong>Design and Materials:</strong> </h5><p>High-quality fly fishing reels are often meticulously designed and crafted precisely. They are made from durable materials such as machined aluminum, titanium, or carbon fiber, contributing to their strength, lightweight nature, and longevity. These premium materials and intricate designs can increase the cost of manufacturing. </p><h5><strong>Engineering and Innovation:</strong> </h5><p>Reputable fly fishing reel manufacturers invest significant time and resources in research and development. They constantly strive to improve their reels' functionality, performance, and features. Innovation in drag systems, spool designs, and ergonomics can drive up the cost of production. </p><h5><strong>Handcrafted and Limited Production:</strong> </h5><p>Some fly fishing reels are handcrafted or produced in limited quantities. Skilled artisans meticulously assemble and finish each reel, resulting in high-quality craftsmanship. These reels' limited availability and labor-intensive nature contribute to their higher price tags. </p><h5><strong>Quality Components and Performance:</strong> </h5><p>Expensive fly fishing reels often feature high-quality components such as precision bearings, advanced drag systems, and smooth retrieval mechanisms. These components enhance the reel's performance, durability, and overall user experience. The use of top-notch materials and advanced technologies can increase production costs.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "8937541e-7b27-4080-b414-134f4a5b3e6c": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"How do fly fishing reels work?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Fly fishing reels are designed specifically for fly fishing, where the weight of the fly line is used to cast lightweight flies. Unlike spinning or baitcasting reels, fly fishing reels do not play a significant role in casting distance. Instead, they serve several important functions in fly fishing: \n\nLINE STORAGE: \nFly fishing reels primarily serve as a storage mechanism for the fly line. The fly line is typically wound onto the reel's spool, keeping it organized and easily accessible during fishing. \n\nLINE RETRIEVAL: \nWhile fly fishing reels are not essential for casting, they are used for retrieving and managing the fly line. After casting, the angler can reel in the line using the reel's handle, which helps control the line tension and enables the angler to bring the fly back in closer to them. \n\nLINE CONTROL: \nFly fishing reels also assist in line control during the fishing process. When a fish takes the fly, the angler may need to let the line out or give it some slack. The reel's drag system, typically adjustable, allows the angler to apply pressure to the line as needed, helping to tire out and land the fish. \n\nBACKING CAPACITY: \nFly fishing reels can hold additional backing lines, a strong, thin line that provides extra line length when battling larger fish. The backing is typically added to the reel before attaching the fly line. \n\nBALANCE AND COUNTERBALANCE: \nFly fishing reels help balance the weight of the fly rod, ensuring that it feels comfortable and well-balanced in the angler's hand during casting and fishing. It's important to note that in fly fishing, the line is primarily cast using the weight of the fly line itself, while the reel's main function is line storage and retrieval, as well as providing additional control during the fight with a fish.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"Why are fly reels so expensive?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Fly fishing reels can be expensive due to several factors: \n\nDESIGN AND MATERIALS: \nHigh-quality fly fishing reels are often meticulously designed and crafted precisely. They are made from durable materials such as machined aluminum, titanium, or carbon fiber, contributing to their strength, lightweight nature, and longevity. These premium materials and intricate designs can increase the cost of manufacturing. \n\nENGINEERING AND INNOVATION: \nReputable fly fishing reel manufacturers invest significant time and resources in research and development. They constantly strive to improve their reels' functionality, performance, and features. Innovation in drag systems, spool designs, and ergonomics can drive up the cost of production. \n\nHANDCRAFTED AND LIMITED PR ODUCTION: \nSome fly fishing reels are handcrafted or produced in limited quantities. Skilled artisans meticulously assemble and finish each reel, resulting in high-quality craftsmanship. These reels' limited availability and labor-intensive nature contribute to their higher price tags. \n\nQUALITY COMPONENTS AND PERFORMANCE: \nExpensive fly fishing reels often feature high-quality components such as precision bearings, advanced drag systems, and smooth retrieval mechanisms. These components enhance the reel's performance, durability, and overall user experience. The use of top-notch materials and advanced technologies can increase production costs.\"\n    }\n  }]\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "137026d3-f261-4460-8642-57a9d0878a5c",
+    "31b9b3f9-e3fa-48fb-a345-b9eb1467577e",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "8937541e-7b27-4080-b414-134f4a5b3e6c"
+  ]
+}

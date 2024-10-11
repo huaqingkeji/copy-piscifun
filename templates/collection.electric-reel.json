@@ -1,0 +1,224 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "2725c9d1-ca71-4930-8ef0-bc02c9fbe694": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14725291147333__2725c9d1-ca71-4930-8ef0-bc02c9fbe694-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "OTHER FISHING REELS",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14725291147333__2725c9d1-ca71-4930-8ef0-bc02c9fbe694-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "b9dceae5-87bd-4333-af98-c92cfdc86398": {
+      "type": "gallery",
+      "blocks": {
+        "template--14725291147333__b9dceae5-87bd-4333-af98-c92cfdc86398-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291147333__b9dceae5-87bd-4333-af98-c92cfdc86398-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291147333__b9dceae5-87bd-4333-af98-c92cfdc86398-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725291147333__b9dceae5-87bd-4333-af98-c92cfdc86398-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14725291147333__b9dceae5-87bd-4333-af98-c92cfdc86398-image-1",
+        "template--14725291147333__b9dceae5-87bd-4333-af98-c92cfdc86398-image-2",
+        "template--14725291147333__b9dceae5-87bd-4333-af98-c92cfdc86398-image-3",
+        "template--14725291147333__b9dceae5-87bd-4333-af98-c92cfdc86398-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Electric Reels",
+            "answer": "<p>In recent years, electric fishing reels have decreased dramatically in price and are now affordable for recreational anglers. While commercial fishermen may need an electric reel that costs over $8000, you can undoubtedly have a great day of deep-drop fishing for under $500. It all comes down to the features needed to match the fish you pursue.</p><p>Deep drop anglers typically try and catch swordfish, tuna, tilefish, barrelfish, queen snapper, halibut, rockfish, and black cod. All these species live in the ocean's depths – as far down as 300 feet or more. Think about that for a minute. Do you want to fish 300 to 1200 feet deep using a <a href=\"/collections/conventional-reel\" target=\"_blank\" title=\"Conventional Reel\">conventional fishing reel</a> where each handle turn might retrieve 12 inches of line? You would be exhausted quickly! Another issue is the weight of your terminal tackle as you grind away on the retrieve. You can use a light tackle in perfect, calm conditions with 10, 16, or 24-ounce weights. However, as soon as the wind starts blowing or the current picks up, you must upgrade to between four and 10 pounds to stay at the desired depth. Think about reeling up 10 pounds of lead a couple of times daily as you move from spot to spot. Totally exhausting! An electric reel solves the problem and makes deep-drop fishing much more enjoyable.</p><p>Here are the key features you need to look for in an electric fishing reel for deep-drop fishing:</p><p><strong>Panel:</strong> The control panel must be readable in bright sunlight. Monochrome LCD panels are preferred since you can see them clearly while wearing polarized glasses. The buttons should be well-marked and easy to push to make changes.</p><p><strong>Power:</strong> Check the voltage and wattage of the reel. The higher these ratings are, the more powerful the reel will be. Manufacturers summarize this characteristic as \"winding power\" and \"winding speed/retrieve rate.\" Winding power is specified in pounds, while speed is in feet per second. </p><p>The battery must have the capability to last all day. Some manufacturers produce different-size batteries compatible with their electric reel for cost-effective options. Look for statistics on how many times the battery can raise a weight from a specific depth. For example, the <a href=\"/products/piscifun-electric-fishing-reels\" target=\"_blank\" title=\"Piscifun® Kraken Electric Big Game Reels Heiko Recommended Fishing Reels\">Piscifun Kraken electric reel</a> can raise a 14 oz weight from 165 feet 180 times using the 5000mAh battery. Their 10000mAh offering raises the number of retrieves to 350 times. </p><p>Some reels are compatible with batteries made by multiple manufacturers, a great feature if you have a variety of electric reels. Also, good electric reels should have an adapter with a standard 12v battery.</p><p><strong>Line capacity:</strong> How deep do you intend to fish? The reel should be able to hold enough line, in the required strength, to handle the depth and the type of fish you intend to catch.</p><p><strong>Drag system:</strong> Electric reels costing thousands of dollars have electronic drag systems that adjust the pressure dynamically based on the action of the fish. That feature is beyond the need of a recreational angler. A traditional mechanical drag system will work just fine. It features carbon fiber washers and is rated powerful enough to handle the expected heavy loads. The best electric reels have a drag system with both a level load rating and a surge capacity to handle a heavy fish thrashing hundreds of feet below the surface. To assess this, look at the manufacturer's recommended weight range for the fish that matches the electric reel. </p><p><strong>Construction:</strong> All the characteristics you are familiar with from buying traditional reels come into play here. Given the usual saltwater environment of the electric fishing reel, corrosion-resistant construction is critical. Aircraft-grade aluminum is always a good choice and a one-piece CNC machined frame results in fewer joints where corrosion can begin. Forged aluminum parts indicate lesser quality construction. Given the stress the reel will be subjected to, stainless steel ball bearings and CNC-machined gears are mandatory. More bearings translate to smooth operation. </p><p><strong>Key features:</strong> At a minimum, you must be able to adjust the retrieve speed, and the display must show the amount of lines released. Reels with a high gear ratio usually have higher torque, which implies more power. Other features that add significant cost, sometimes in the thousands of dollars, are jigging, autostop at depth, and automatic cutoff when close to the end of the reel. You must decide what you need. For most, the ability to adjust the retrieve speed with a reasonably fast retrieve rate is good enough.</p><p>Electric reels do have some disadvantages. The price is one. They are more expensive than a manual, conventional reel. Given the electric motor, they are heavier and bulkier. Likewise, they require more maintenance. Be sure you clean and lubricate your electric reel after you use it to keep it operating properly.</p><p>In the end, you cannot avoid the enormous benefits of a fast-winding, powerful electric reel to make a day of deep drop fishing more flexible and less stressful. Using that singular feature; you can move several times in pursuit of fish without worrying about exhaustion!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "Learn More About Electric Reels"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "FAQ"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "2725c9d1-ca71-4930-8ef0-bc02c9fbe694",
+    "b9dceae5-87bd-4333-af98-c92cfdc86398",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00"
+  ]
+}

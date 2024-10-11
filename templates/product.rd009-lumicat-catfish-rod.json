@@ -1,0 +1,505 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
+          }
+        },
+        "a01ea733-d20d-42d7-a756-dff71c3d9d79": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "🎁Enjoy Discounts on New | Code: PIS15",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "368da27a-9490-4352-aa5c-15a21d5a4c4e": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p>🛒No Threshold 15% OFF  Code: PIS15</p>",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "78147251-1a59-4c1f-89d4-b8ab6d562221": {
+          "type": "inventory_level",
+          "settings": {
+            "show_inventory_notice": "low",
+            "show_inventory_count": "low",
+            "inventory_threshold": 10,
+            "enable_box": false,
+            "enable_pulse": true,
+            "show_in_quickbuy": true
+          }
+        },
+        "e9c4174c-9531-4ed9-b24c-3f38e2516fd3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "The earliest delivery date for the Casting Rod Alum Reel Seat 8' is September 16.",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "d2dae2bf-bbd9-4f81-b3b3-0fa5204af717": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"width: 100%; display: flex; text-align: center; font-size: 12px;\">\n  <div style=\"width: 24%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-1.png\" style=\"width: 40px;\" /><br />\n    FREE SHIPPING OVER $48.99\n  </div>\n  <div style=\"width: 25%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-2.png\" style=\"width: 40px;\" /><br />\n     3-5 WORKING DAYS <br />DELIVERY\n  </div>\n  <div style=\"width: 24%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-3.png\" style=\"width: 40px;\" /><br />\n    ONE YEAR<br />WARRANTY\n  </div>\n  <div style=\"width: 27%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-4.png\" style=\"width: 40px;\" /><br />\n    30-DAY MONEY BACK<br />GUARANTEE\n  </div>\n</div>",
+            "show_in_quickbuy": false
+          }
+        },
+        "36ddaee1-68ba-4791-bc47-c5eab96d21ce": {
+          "type": "accordion",
+          "settings": {
+            "title": "HIGHLIGHTS",
+            "icon": "",
+            "content": "<p><strong>LUMICAT CATFISH RODS HIGHLIGHTS</strong></p><ul><li> IM7 Carbon Fiber Blank</li><li>Ceramic Guide Ring & Stainless Steel Frame</li><li>Bright for Night Fishing Accessories 4 × pin-type battery</li><li>FUJI® High Strength Composite Reel Seat For Casting Rod</li><li>SEAGUIDE® Aluminum Reel Seat For Casting Rod</li></ul><p><strong>PRODUCT SPEC</strong></p><p><strong>Model               </strong>Casting Rod 7'0''/<strong> </strong>Casting Rod 8'0''</p><p><strong>Power </strong>              18kg/20kg<br/></p><p><strong>Max Drag         </strong>15-50LB</p><p><strong>Lure weight </strong>     280g</p><p><strong>Rod Weight </strong>     361g/450g</p><p><strong>Guides              </strong>9+tips/12+Tips</p><p><strong>Pieces               </strong>2</p><p>The<strong> Lumicat Catfish Casting Rod</strong> is a top-notch rod that combines quality, performance, and durability. It will become your reliable companion on fishing trips, helping you reel in exciting catfish catches. Whether you're a professional angler or a recreational fishing enthusiast, this rod is worth the investment.<br/><br/>Purchase the Lumicat Catfish Casting Rod and elevate your fishing experience with enhanced pleasure and success!</p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "b30efb9c-a8d1-47b4-b1a9-1e7937135c09": {
+          "type": "accordion",
+          "settings": {
+            "title": "DESCRIPTION",
+            "icon": "",
+            "content": "<p><strong>【LED LIGHTING SYSTEM】</strong>Illuminate your night fishing escapades with the Lumicat catfish Rod .Equipped with a powerful LED lighting system and powered by four pin-type batteries, this rod ensures optimal visibility in low-light conditions, taking your night fishing experience to new heights.</p><p><strong> </strong></p><p><strong>【IM7 CARBON FIBER BLANK】</strong>Crafted with an IM7 carbon fiber blank, offers a remarkable combination of lightness and extreme sensitivity, delivering powerful performance like never before. Its lightweight design allows for effortless casting and maneuverability, while its exceptional sensitivity enables you to detect even the subtlest of bites, increasing your chances of a successful hook-set.</p><p><strong> </strong></p><p><strong>【CERAMIC GUIDE RING】</strong>Featuring ceramic guide rings, this rod ensures smooth casting and reeling, enhancing your overall fishing experience. The specially designed guide ring minimizes friction on the line, facilitating longer and more accurate casts, as well as seamless reeling when bringing in your prized catch.</p><p> </p><p><strong>【STAINLESS STEEL FRAME】</strong>Built to withstand the test of time, the Lumicat catfish Rod boasts a stainless steel frame, ensuring durability and long-term use even in the harshest fishing conditions. You can rely on this rod to handle the toughest battles with ease, providing you with a reliable tool for your angling endeavors.</p><p> </p><p><strong>【SUPER SENSITIVE FOR QUICK RESPONSIVENESS】</strong>Experience lightning-fast responsiveness with the Lumicat catfish Rod. Designed to transmit the grip of the rod to the angler in real time, you'll feel every movement of the fish, enabling you to react instantly and secure your catch. Say goodbye to missed opportunities and hello to an unparalleled level of control and precision.</p><p> </p><p><strong>【QUALITY ASSURANCE】</strong>Featuring a FUJI® high-strength composite reel seat and a SEAGUIDE® aluminum reel seat, this rod guarantees a level of quality that is simply unparalleled. The FUJI® reel seat, known for its exceptional strength and durability, ensures a secure and reliable connection between your reel and the rod. With its high-quality construction, it can withstand the most demanding fishing conditions, providing you with peace of mind and confidence in your gear.</p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "14d788ab-0a7c-4ae4-b649-c6e4abeb2c7f": {
+          "type": "accordion",
+          "settings": {
+            "title": "RETURN POLICY",
+            "icon": "",
+            "content": "",
+            "page": "return-policy",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "e191ab84-8cd1-4ffa-a7b5-c635c0896599": {
+          "type": "sku",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "a01ea733-d20d-42d7-a756-dff71c3d9d79",
+        "368da27a-9490-4352-aa5c-15a21d5a4c4e",
+        "vendor",
+        "divider",
+        "variant_picker",
+        "78147251-1a59-4c1f-89d4-b8ab6d562221",
+        "e9c4174c-9531-4ed9-b24c-3f38e2516fd3",
+        "buy_buttons",
+        "d2dae2bf-bbd9-4f81-b3b3-0fa5204af717",
+        "36ddaee1-68ba-4791-bc47-c5eab96d21ce",
+        "b30efb9c-a8d1-47b4-b1a9-1e7937135c09",
+        "14d788ab-0a7c-4ae4-b649-c6e4abeb2c7f",
+        "e191ab84-8cd1-4ffa-a7b5-c635c0896599"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "medium",
+        "gallery_layout": "collage-1",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "811c6d54-7288-4240-845f-5cbd6368d3ef": {
+      "type": "video",
+      "settings": {
+        "video": "https://www.youtube.com/watch?app=desktop&v=YJ1PuaknxXg&feature=youtu.be",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "text_alignment": "center center",
+        "image_position": "center center",
+        "full_width": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16600435002861a735": {
+      "type": "slideshow",
+      "blocks": {
+        "04fe2f85-01c0-43cf-b59a-9e54ee80ca36": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/RD009-10.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "04fe2f85-01c0-43cf-b59a-9e54ee80ca36"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "16600395385ebd5c4f": {
+      "type": "slideshow",
+      "blocks": {
+        "1660039538ebd907b5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner_58d7f03d-dc29-484f-8db1-21628e798355_1.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1660039538ebd907b5-0"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "db1c0a71-676d-4c9d-aa8e-cc9de63163d1": {
+      "type": "slideshow",
+      "blocks": {
+        "9fd951ce-e748-4ce7-8b10-bf6ea32e0057": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner_56258afc-53e5-4f78-9b94-30fcfb8a0916.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14722265448517__db1c0a71-676d-4c9d-aa8e-cc9de63163d1-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner_afa01a69-c3e6-4c8f-a4a4-25a88199a64e.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "f3f50ae4-18c9-4d4e-9d0b-f985b7d1db51": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner_e2a7e8f4-9251-424d-9ef0-b3686c67ef8e.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14722265448517__db1c0a71-676d-4c9d-aa8e-cc9de63163d1-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner_c70ab393-0148-4fad-a9de-997d6de4dab8.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "9fd951ce-e748-4ce7-8b10-bf6ea32e0057",
+        "template--14722265448517__db1c0a71-676d-4c9d-aa8e-cc9de63163d1-image-2",
+        "f3f50ae4-18c9-4d4e-9d0b-f985b7d1db51",
+        "template--14722265448517__db1c0a71-676d-4c9d-aa8e-cc9de63163d1-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "e925f062-e95c-4ea5-8c7e-15090b8a0e9c": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14722265448517__e925f062-e95c-4ea5-8c7e-15090b8a0e9c-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner-_-_-8_6_a37f1cc9-9498-4515-8ce8-33d7c05b4f24.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14722265448517__e925f062-e95c-4ea5-8c7e-15090b8a0e9c-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14722265448517__e925f062-e95c-4ea5-8c7e-15090b8a0e9c-image-1",
+        "template--14722265448517__e925f062-e95c-4ea5-8c7e-15090b8a0e9c-image-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "1660044875b38d3539": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1660039598022e50ab": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "89a8238a-b292-4c7a-ab5a-15d1e5e17101": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "bestseller",
+        "is_hide_product_block_options": false,
+        "flash_sale_mobile_switch": false,
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "811c6d54-7288-4240-845f-5cbd6368d3ef",
+    "16600435002861a735",
+    "16600395385ebd5c4f",
+    "db1c0a71-676d-4c9d-aa8e-cc9de63163d1",
+    "e925f062-e95c-4ea5-8c7e-15090b8a0e9c",
+    "1660044875b38d3539",
+    "1660039598022e50ab",
+    "recommendations",
+    "89a8238a-b292-4c7a-ab5a-15d1e5e17101"
+  ]
+}

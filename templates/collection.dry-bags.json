@@ -1,0 +1,196 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_rods.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "fishing rods",
+            "button_label": "",
+            "link": "shopify://collections/rods",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Dry Bags",
+            "answer": "<p>While you might get wet participating in on-the-water activities, there is no reason your gear should suffer the same fate. You need a waterproof dry bag! There are four different types of dry bags. The best models combine the functions of multiple types.</p><p><strong>Rolltop:</strong> A rolltop dry bag is usually cylindrical and achieves its watertight seal by rolling material down from the opening and fastening it with a buckle.</p><p><strong>Backpack:</strong> A backpack dry bag adds shoulder straps, usually to the rolltop format.</p><p><strong>Duffle:</strong> A duffle dry bag is not the best option since it relies on a waterproof zipper for sealing, but it does allow easy access to the contents.</p><p><strong>Compression:</strong> This innovative design features a one-way valve allowing you to squeeze all the air out of the bag to achieve the smallest size possible. </p><p>We may eliminate the duffel bag option since the zipper will eventually fail. A compression dry bag is a special-purpose bag when space is at a premium, and you do not need regular access to the contents. Therefore, a rolltop or backpack dry bag is usually the best choice to meet the average user's requirements. The good news is that many options combine the best features of both. Many rolltop bag formats include removable backpack-style carrying straps. Make your choice based on material, closure, special features, and price.</p><p>Manufacturers make dry bags from waterproof nylon, PVC/vinyl, or thermoplastic polyurethane. The advantage of nylon is its flexibility and lightweight. However, it is much easier to tear than a dry bag made from PVC. When evaluating a nylon dry bag, look for material advertised as \"500D.\" Fabric meeting this standard is industrial grade and meets military specifications for water resistance, tear, and breaking strength. Likewise, good PVC material is also called \"500D.\" In this case, the 500D indicates how closely the underlying fabric is woven under the PVC coating.</p><p>After choosing the material, look at how the bag seals. The most reliable seal is the rolltop seal. Other techniques are compression and zip-lock. If you have ever had something spill out of the zip-lock bag as you put it in your refrigerator, you know how unreliable this technology can be. Compression seals may fail when the bag is overfull or improperly closed – something that cannot happen with a rolltop seal. </p><p>Next, verify the dry bag has the features you value. As mentioned earlier, many dry bags are hybrids combining the best elements of rolltop with the backpack style. Dry bags with removable, padded shoulder straps allow you to carry the bag like a suitcase or wear it on your back. Look for extra webbing and external pockets for additional storage. Some dry bags offer a different compartment for wet items, which is a nice feature to segregate your wet swimming trunks from your dry clothes after a day on the water. The bag should have reinforcements around all the stress points, especially where any backpack straps connect with the bag. Heavy-duty buckles are essential. Some bags have transparent windows and reflective strips; nice to have to see what is inside or to find your bag in low light conditions. Be sure to check the seams of the bag! Look for words like \"welded seams,\" \"wide seams,\" or \"welded seal.\"</p><p>Finally, price. Dry bags are not expensive. The key price driver is size. Manufacturers make dry bags in many different sizes, typically measured in the number of liters they will hold. Most dry bags range from 2 L to 40 L. Spending over $50 for a dry bag is unnecessary, even at the largest size. You can get all the features for less.</p><p>Once you pick the perfect dry bag for your needs, please do not make the mistake of filling it too full. The dry bag must trap a decent amount of air inside to float! </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about dry bags"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a"
+  ]
+}

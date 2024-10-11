@@ -1,0 +1,434 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
+          }
+        },
+        "368da27a-9490-4352-aa5c-15a21d5a4c4e": {
+          "type": "richtext",
+          "settings": {
+            "richtext": "<p>🎉Discounted Price From :$399.99USD. Enjoy Code: PIS15</p>",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "a5bc6cb5-5507-4077-b593-3ed349f086b9": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>The product will be shipped on November 10th.</p>",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "d2dae2bf-bbd9-4f81-b3b3-0fa5204af717": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"width: 100%; display: flex; text-align: center; font-size: 12px;\">\n  <div style=\"width: 24%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-1.png\" style=\"width: 40px;\" /><br />\n    FREE SHIPPING OVER $48.99\n  </div>\n  <div style=\"width: 25%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-2.png\" style=\"width: 40px;\" /><br />\n     3-5 WORKING DAYS <br />DELIVERY\n  </div>\n  <div style=\"width: 24%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-3.png\" style=\"width: 40px;\" /><br />\n    ONE YEAR<br />WARRANTY\n  </div>\n  <div style=\"width: 27%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-4.png\" style=\"width: 40px;\" /><br />\n    30-DAY MONEY BACK<br />GUARANTEE\n  </div>\n</div>",
+            "show_in_quickbuy": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "show_in_tab": true,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "1cf8caad-c90a-4159-9d31-81806bf8833b": {
+          "type": "accordion",
+          "settings": {
+            "title": "DESCRIPTION",
+            "icon": "",
+            "content": "<p>【Easy for Big Fish】The Piscifun electric reel inherits Piscifun’s pursuit of quality. The powerful drag system produces <strong>33lbs of max drag</strong>. 12+1 stainless steel bearings and <strong>CNC machined</strong> gear offer ultra-smooth operation. A gear ratio of 5.0:1 signifies ample torque for pulling in big fish during saltwater fishing!<br/><br/>【Stronger & More Compact】An electric motor imported from Japan drives the electric reel to deliver incredible power and performance. It comes<br/>with a rechargeable battery, the unique <strong>one-piece aluminum frame</strong> reduces the weight and increases overall sensitivity, enabling you to concentrate on the ultimate battle!<br/><br/>【User-Friendly Design】Equipped with an<strong> LCD precision electric counter</strong> and high-strength aluminum alloy handle, the electric reel is perfect for fishing. The multi-speed power function allows the angler to switch smoothly and efficiently to the best speed depending on the situation.</p><p>【Battery-Equipped】The reels can be plugged into the ship to use and you can also conveniently use a separate battery, we offering two capacity battery 5000mAh and 10000mAh, and the <strong>battery also fit on reels like  Shimano,Diawa</strong> and other brand electric reels which voltage between 12-16.8V.</p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "36ddaee1-68ba-4791-bc47-c5eab96d21ce": {
+          "type": "accordion",
+          "settings": {
+            "title": "Q&A",
+            "icon": "",
+            "content": "<h3>Frequently Asked Questions</h3><p><strong>Q: what Kind of braid line capacity does it have?</strong></p><p>A:40lb/545yds,50lb/380yds,60lb/325yds,80lb/240yds</p><p><strong>Q: Is there a power cord with electric reel that can be used to connect to the boat's power？</strong></p><p>A: Yes, there is a power cord included, When you buy our electric reel will come with a 10.3in/2.7m power cable with alligator clip battery connector</p><p><strong>Q: Can electric reels be used with 12V boat batteries？</strong></p><p>A: Yes，you can use the boat's 12V battery, but the power supply voltage of boat is unstable, so we recommended to use the special battery for electric reel</p><p><strong>Q: Battery can be used for Daiwa, Shimano's electric reel?</strong></p><p>A: Yes, all electric reel with a voltage of DC12-16.8V are suitable</p><p><strong>Q: Will this reel handle a halibut?</strong></p><p>A: Yes, it can be used for halibut, but the weight range is better within 15kg/33lb.</p><p><strong>Q: How long is the battery life？</strong></p><p>A: 5000mAh : (14oz lure,waterdepth of 165ft,about 180 times PISCIFUN Kraken X test)</p><p>    10000mAh:(14oz lure,waterdepth of 165ft,about 350 times PISCIFUN Kraken X test)</p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "14d788ab-0a7c-4ae4-b649-c6e4abeb2c7f": {
+          "type": "accordion",
+          "settings": {
+            "title": "RETURN POLICY",
+            "icon": "",
+            "content": "<p>Collapsible tab content</p>",
+            "page": "return-policy",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "e191ab84-8cd1-4ffa-a7b5-c635c0896599": {
+          "type": "sku",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "368da27a-9490-4352-aa5c-15a21d5a4c4e",
+        "vendor",
+        "divider",
+        "variant_picker",
+        "a5bc6cb5-5507-4077-b593-3ed349f086b9",
+        "buy_buttons",
+        "d2dae2bf-bbd9-4f81-b3b3-0fa5204af717",
+        "description",
+        "1cf8caad-c90a-4159-9d31-81806bf8833b",
+        "36ddaee1-68ba-4791-bc47-c5eab96d21ce",
+        "14d788ab-0a7c-4ae4-b649-c6e4abeb2c7f",
+        "e191ab84-8cd1-4ffa-a7b5-c635c0896599"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "medium",
+        "gallery_layout": "collage-1",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "811c6d54-7288-4240-845f-5cbd6368d3ef": {
+      "type": "video",
+      "settings": {
+        "video": "https://youtu.be/_vj2y9o1_08",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "text_alignment": "center center",
+        "image": "shopify://shop_images/electric-reel_saltwater_fishing_ff3f8d6a-6c4c-4a5c-b0b2-b56dfa3e0e0e.jpg",
+        "image_position": "center center",
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "38919d3d-b4ee-4838-8afc-a9cdd638fcc0": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<style>.wt-code-item-video { border-radius: 0px; }</style>\n<div class=\"wt-page-html\">\n<div style=\"margin-top: 30px; margin-bottom: 20px;\">\n\t<div class=\"wt-code-p-r container container--large container--mob-0\">\n\t\t<div class=\"collection__header-info__text rte rte--header wt-code-t-c \" style=\"margin-top: 0; margin-bottom: 0;\"> <p style=\"width: 100%; display: block;font-weight:bold;font-weight:bold;text-align:center;font-size:22px;color:#000000;white-space: pre-wrap;\">Videos for this product</p> </div>\n\t\t<div class=\"wt-code-box\">\n\t\t\t<div class=\"wt-code-box-main\" style=\"overflow: auto;\">\n\t\t\t\t<div class=\"wt-code-only-row wt-code-resize-row\" item-number=\"3\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"wt-code-item wt-code-p-10\" style=\"width: 410px !important;\">\n\t\t\t\t\t\t<div class=\"wt-code-item-video\" video-code=\"_cm4QgYwsEA\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://i.ytimg.com/vi/_cm4QgYwsEA/hqdefault.jpg\" />\n\t\t\t\t\t\t\t<div class=\"wt-code-footer\">\n\t\t\t\t\t\t\t\t<div class=\"wt-code-avatar\" style=\"display: none;\">\n\t\t\t\t\t\t\t\t\t<img src=\"\" />\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<span class=\"wt-code-title\" style=\"font-size: 14px;\">Piscifun Kraken fishing Tile Fish</span><br />\n\t\t\t\t\t\t\t\t<span class=\"wt-code-small\" style=\"font-size: 12px;\"></span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-item-video-play\">\n\t\t\t\t\t\t\t\t<img src=\"https://cdn.shopifycdn.net/s/files/1/0657/2261/3996/files/video-play_480x480.png\" />\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"wt-code-item wt-code-p-10\" style=\"width: 410px !important;\">\n\t\t\t\t\t\t<div class=\"wt-code-item-video\" video-code=\"nGFKMTec4WE\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://i.ytimg.com/vi/nGFKMTec4WE/hqdefault.jpg\" />\n\t\t\t\t\t\t\t<div class=\"wt-code-footer\">\n\t\t\t\t\t\t\t\t<div class=\"wt-code-avatar\" style=\"display: none;\">\n\t\t\t\t\t\t\t\t\t<img src=\"\" />\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<span class=\"wt-code-title\" style=\"font-size: 14px;\">Piscifun electric reel fishing big fish</span><br />\n\t\t\t\t\t\t\t\t<span class=\"wt-code-small\" style=\"font-size: 12px;\"></span>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-item-video-play\">\n\t\t\t\t\t\t\t\t<img src=\"https://cdn.shopifycdn.net/s/files/1/0657/2261/3996/files/video-play_480x480.png\" />\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</div><script>\nwindow.onload = function () {\n\t$('.wt-code-item-video').click(function () {\n\t\t\tvar videoCode = $(this).attr('video-code');\n\t\t\tif ($('.video-play-box').length == 0) {\n\t\t\t\t\tvar html = '<div class=\"wt-code-ceng\"></div><div class=\"video-play-box\"><div class=\"p-r\">';\n\t\t\t\t\thtml += '<svg class=\"video-play-box-close\" viewBox=\"0 0 1024 1024\" xmlns=\"http://www.w3.org/2000/svg\" width=\"62\" height=\"62\"><path d=\"M872.802928 755.99406 872.864326 755.99406 872.864326 755.624646Z\" fill=\"#FFFFFF\" p-id=\"2775\"></path><path d=\"M927.846568 511.997953c0-229.315756-186.567139-415.839917-415.838893-415.839917-229.329059 0-415.85322 186.524161-415.85322 415.839917 0 229.300406 186.524161 415.84094 415.85322 415.84094C741.278405 927.838893 927.846568 741.29836 927.846568 511.997953M512.007675 868.171955c-196.375529 0-356.172979-159.827125-356.172979-356.174002 0-196.374506 159.797449-356.157629 356.172979-356.157629 196.34483 0 356.144326 159.783123 356.144326 356.157629C868.152001 708.34483 708.352505 868.171955 512.007675 868.171955\" fill=\"#FFFFFF\" p-id=\"2776\"></path><path d=\"M682.378947 642.227993 553.797453 513.264806 682.261267 386.229528c11.661597-11.514241 11.749602-30.332842 0.234337-41.995463-11.514241-11.676947-30.362518-11.765975-42.026162-0.222057L511.888971 471.195665 385.223107 344.130711c-11.602246-11.603269-30.393217-11.661597-42.025139-0.059352-11.603269 11.618619-11.603269 30.407544-0.059352 42.011836l126.518508 126.887922L342.137823 639.104863c-11.662621 11.543917-11.780301 30.305213-0.23536 41.96988 5.830799 5.89015 13.429871 8.833179 21.086248 8.833179 7.53972 0 15.136745-2.8847 20.910239-8.569166l127.695311-126.311801L640.293433 684.195827c5.802146 5.8001 13.428847 8.717546 21.056572 8.717546 7.599072 0 15.165398-2.917446 20.968567-8.659217C693.922864 672.681586 693.950494 653.889591 682.378947 642.227993\" fill=\"#FFFFFF\" p-id=\"2777\"></path></svg>';\n\t\t\t\t\thtml += '<div class=\"main-search__results-spinner\" style=\"padding-top: 25%; margin: 0;\"><div class=\"loading-spinner\"></div></div> Loading...<iframe id=\"ytplayer\" type=\"text/html\" src=\"https://www.youtube.com/embed/' + videoCode + '\" allow=\"autoplay\" allowfullscreen=\"1\" style=\"width: 100%; height: 100%;\"></iframe>';\n\t\t\t\t\thtml += '</div>';\n\t\t\t\t\thtml += '</div>';\n\n\t\t\t\t\t$('body').append(html);\n\n\t\t\t\t\t$('.video-play-box-close').click(function () {\n\t\t\t\t\t\t\t$('.wt-code-ceng').remove();\n\t\t\t\t\t\t\t$('.video-play-box').remove();\n\t\t\t\t\t});\n\t\t\t}\n\t});\n}\n</script>"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1660044875b38d3539": {
+      "type": "apps",
+      "settings": {
+        "full_width": true
+      }
+    },
+    "dd368d58-f472-4917-b794-7e00b6c2cd75": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14721959985221__dd368d58-f472-4917-b794-7e00b6c2cd75-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "CARBON INNOVATION",
+            "use_h1": false
+          }
+        },
+        "template--14721959985221__dd368d58-f472-4917-b794-7e00b6c2cd75-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Carbon Prism, the next generation of our popular carbon spinning reel series got lighter and brighter, delivering both amateur and professional anglers optimal performance and enjoyment.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14721959985221__dd368d58-f472-4917-b794-7e00b6c2cd75-heading-1",
+        "template--14721959985221__dd368d58-f472-4917-b794-7e00b6c2cd75-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "39725581-817a-4fdf-a185-672ca70167bc": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/4_3_8ead5fb4-d4fd-413a-9025-6e5f83ccf1dc.jpg",
+        "image_2": "shopify://shop_images/4_3_9cdf0343-e464-4193-b2a1-6e214ab862af.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "",
+        "use_h1": false,
+        "text": "<p>Represents romance and creativity, inspiring you to explore the limits of fishing</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "16600435002861a735": {
+      "type": "slideshow",
+      "blocks": {
+        "04fe2f85-01c0-43cf-b59a-9e54ee80ca36": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/PC_d400dde9-478d-4da9-bec9-51ecbb7d55e9.jpg",
+            "mobile_image": "shopify://shop_images/M_9fd0bd4d-4a96-4252-9228-244dc4243216.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "04fe2f85-01c0-43cf-b59a-9e54ee80ca36"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "2f5c81af-eb41-4377-9fc6-f1103c05f0c1": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/16a1eaa2ae6f725c53f5215544d2defe_7e1f3d48-37d7-467d-aff3-3421f7072335.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Product story",
+        "use_h1": false,
+        "text": "<p>Having a fascination for ultralight and high strength carbon, and being inspired by nature's brightness, Carbon Prism was created. This combination of durability, silky smoothness, and feather lightness makes your fishing expedition amazing.</p>",
+        "button_label": "Read more",
+        "button_link": "shopify://pages/about-us-piscifun",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "16600395385ebd5c4f": {
+      "type": "slideshow",
+      "blocks": {
+        "1660039538ebd907b5-0": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Carbon X",
+            "title": "Say goodbye to fatigue!",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>There is no spinning reel in its class that is lighter than the Carbon X, which weighs only <strong>5.1 ounces</strong>. </p>",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "1660039538ebd907b5-1": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1660039538ebd907b5-0",
+        "1660039538ebd907b5-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "1694571816f37e1721": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1660039598022e50ab": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "89a8238a-b292-4c7a-ab5a-15d1e5e17101": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "bestseller",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "b964fcfd-bd7f-4369-bd13-c6ab08b28012": {
+      "type": "newsletter",
+      "settings": {
+        "title": "newsletter",
+        "subheading": "<p>Sign up today and receive deals and news on fishing gear. View our<a href=\"https://www.piscifun.com/pages/privacy-policy-piscifun\" target=\"_blank\" title=\"https://www.piscifun.com/pages/privacy-policy-piscifun\"> Privacy Policy </a>and<a href=\"https://www.piscifun.com/pages/terms-of-use\" target=\"_blank\" title=\"https://www.piscifun.com/pages/terms-of-use\"> Terms </a>for more information.</p>",
+        "color_bg": "#e2e2e2"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "811c6d54-7288-4240-845f-5cbd6368d3ef",
+    "38919d3d-b4ee-4838-8afc-a9cdd638fcc0",
+    "recommendations",
+    "1660044875b38d3539",
+    "dd368d58-f472-4917-b794-7e00b6c2cd75",
+    "39725581-817a-4fdf-a185-672ca70167bc",
+    "16600435002861a735",
+    "2f5c81af-eb41-4377-9fc6-f1103c05f0c1",
+    "16600395385ebd5c4f",
+    "1694571816f37e1721",
+    "1660039598022e50ab",
+    "89a8238a-b292-4c7a-ab5a-15d1e5e17101",
+    "b964fcfd-bd7f-4369-bd13-c6ab08b28012"
+  ]
+}

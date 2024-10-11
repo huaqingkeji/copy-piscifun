@@ -1,0 +1,223 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Fishing Apparel",
+            "answer": "<p>Wearing the correct fishing apparel is vital to comfort, whether fishing in the winter or the summer. Winter fishing clothing has more requirements than summer fishing clothing, given the risk of life-threatening hypothermia.<br/>The easy bottom line on summer fishing apparel is that it should offer sun protection (SPF 30 or greater), be breathable, and be made from quick-drying fabric. Given more extreme weather conditions, winter fishing clothing has to achieve a higher standard. Typically, the winter angler will use <a href=\"/collections/fishing-waders\" target=\"_blank\" title=\"Fishing Waders & Vests\">fishing waders</a> and an insulated jacket. But, anglers who pursue the sport of ice fishing must pay careful attention to several key factors that do not come into play for others.<br/>In addition to warm boots, ice anglers should wear insulated bibs and a well-insulated jacket to protect themselves during long periods of inactivity. Since ice may break, clothing must include waterproof flotation – a characteristic that saves lives. When selecting a winter fishing insulated jacket, pay attention to the sizing guidance from the manufacturer. Ice anglers will wear this over a set of insulated bibs and should size the jacket accordingly.<br/>Regardless of where they fish, winter anglers need a quality winter jacket. While the winter clothing for ice anglers will be the warmest, it may provide more warmth than required if fishing involves strenuous exercise. In that case, the flexibility of using a heated jacket, customizable for the level of exertion, may be the right choice. A quality heated jacket will have multiple heat settings to provide warmth for an extended duration. Avoid sweat buildup on the inside, and winter fishing clothing must be breathable as well as windproof and waterproof. Quality indicators include a windproof shell, inner liner, fully taped and sealed seams, durable fabric, hood, and a robust, high-quality zipper.<br/>Anglers use waders in all seasons. There are two choices of waders – boot foot and stocking foot. Both have advantages and disadvantages. Boot foot waders include the boot! They do not require separate wading boots and are easier to put on and take off. Since the boot's surface is smooth, it is less likely that the fishing line will become tangled. Fly anglers know all about fly lines moving randomly in the stream, wrapping around their legs, and catching on wading boots. Given the boot's additional insulation, the angler's feet and legs stay warmer since air will circulate down to the toes. However, the bottom of boot foot waders may not grip well on the slick rocks in and around streams.<br/>Stocking foot waders allow the angler to pick the wading boot best for where they fish. For example, anglers who hike to reach a stream will want a hybrid hiking/wading boot. Anglers who fish in streams want anti-slip characteristics – cleats or felt. A stocking foot wader fits better around the foot since the boot is laced tightly over the top of the neoprene shell.<br/>The tip is to consider where and when you will fish before buying fishing apparel. Make the right choices, be comfortable regardless of the weather, and you will have a wonderful time fishing!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about fishing apparel"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What colors to wear when fishing?",
+            "answer": "<p>Sun Protection: Fishing often involves spending long hours exposed to the sun, so it's crucial to prioritize sun protection. Opt for clothing in light colors like white, light blue, or pastels, as they reflect sunlight and help keep you cooler. Additionally, consider wearing clothing with UPF (Ultraviolet Protection Factor) rating for added sun protection.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "95ad1e63-f198-4f13-a3ce-e0f3fab7d2bb": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": {\n    \"@type\": \"Question\",\n    \"name\": \"What colors to wear when fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Sun Protection: Fishing often involves spending long hours exposed to the sun, so it's crucial to prioritize sun protection. Opt for clothing in light colors like white, light blue, or pastels, as they reflect sunlight and help keep you cooler. Additionally, consider wearing clothing with UPF (Ultraviolet Protection Factor) rating for added sun protection.\"\n    }\n  }\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "95ad1e63-f198-4f13-a3ce-e0f3fab7d2bb"
+  ]
+}

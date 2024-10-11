@@ -1,0 +1,105 @@
+{%- assign aa_section_id = section.id | split: '__' -%}
+{%- assign aa_section_id = aa_section_id[1] -%}
+{%- assign aa_section_id = aa_section_id | replace: '-', '_' -%}
+
+<style>
+  #shopify-section-{{ section.id }} .aa-cp-banner {
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    overflow: hidden;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-banner .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-banner .swiper-slide {
+    text-align: center;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+   }
+   #shopify-section-{{ section.id }} .aa-cp-banner .swiper-slide imgAA {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  @media screen and (min-width: 768px) {
+  }
+
+  @media screen and (max-width: 767px) {
+  }
+</style>
+
+<div class="aa-section aa-cp-banner">
+  <div class="swiper">
+      <div class="swiper-wrapper">
+        {%- for block in section.blocks -%}
+          <div class="swiper-slide">
+            <div class="aa-item">
+                <div class="aa-image">
+                  {%- if block.settings.image != blank -%}
+                    <img class="aa-desktop" src="{{ block.settings.image | img_url: 'master' }}">
+                  {%- endif -%}
+                  {%- if block.settings.image_mobile != blank -%}
+                    <img class="aa-mobile" src="{{ block.settings.image_mobile | img_url: 'master' }}">
+                  {%- endif -%}
+                </div>
+              </div>
+          </div>
+        {%- endfor -%}
+      </div>
+    </div>
+</div>
+
+<script>
+var swiper_{{ aa_section_id }} = new Swiper("#shopify-section-{{ section.id }} .swiper", {
+  autoplay: {
+    delay: 2000,
+    stopOnLastSlide: false,
+    disableOnInteraction: true,
+  },
+});
+</script>
+
+    
+{% schema %}
+{
+  "name": "AA CP Banner",
+  "limit": 2,
+  "blocks": [
+    {
+      "type": "block",
+      "name": "Block",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "image_picker",
+          "id": "image_mobile",
+          "label": "Image (mobile)"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "AA CP Banner"
+    }
+  ]
+}
+{% endschema %}

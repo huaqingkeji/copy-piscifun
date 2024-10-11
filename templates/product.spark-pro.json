@@ -1,0 +1,490 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "183f9b56-1f0f-4e8e-bec8-73edc85581fd": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "🎁Enjoy Discounts on New | Code: PIS15",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "5111cf02-0d5a-41f9-8c96-19acf660c302": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>🎉Buy 3 Get 4th 70% OFF  Code:MC70<br/>🎉Buy 2 Get 3rd 50% OFF  Code: MC50<br/>🎉Buy 1 Get 2nd 30% OFF  Code: MC30<br/>🛒No Threshold 15% OFF  Code: PIS15</p>",
+            "icon": "",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "bc1638b0-eb83-4200-9c7b-c783ac40aa5f": {
+          "type": "inventory_level",
+          "settings": {
+            "show_inventory_notice": "low",
+            "show_inventory_count": "low",
+            "inventory_threshold": 10,
+            "enable_box": false,
+            "enable_pulse": true,
+            "show_in_quickbuy": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "3dab4ab1-8a3d-4e71-804a-1b5cba0b4b70": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"width: 100%; display: flex; text-align: center; font-size: 12px;\">\n  <div style=\"width: 24%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-1.png\" style=\"width: 40px;\" /><br />\n    FREE SHIPPING OVER $48.99\n  </div>\n  <div style=\"width: 25%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-2.png\" style=\"width: 40px;\" /><br />\n     3-5 WORKING DAYS <br />DELIVERY\n  </div>\n  <div style=\"width: 24%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-3.png\" style=\"width: 40px;\" /><br />\n    ONE YEAR<br />WARRANTY\n  </div>\n  <div style=\"width: 27%;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0138/3956/4858/files/icon-4.png\" style=\"width: 40px;\" /><br />\n    30-DAY MONEY BACK<br />GUARANTEE\n  </div>\n</div>",
+            "show_in_quickbuy": false
+          }
+        },
+        "9748e379-84bd-4045-9fdf-721b126fca16": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": true,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "07a5d9aa-8ffc-43c8-9652-8d8e9b2adc8a": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "title": "DESCRIPTION",
+            "icon": "",
+            "content": "<p><strong>Vibrant Exterior:</strong>Adopting colorful chameleon paint, combined with compact exterior shape and two-color oxidized wire cups, it shows a variety of changing colors from different angles, giving people a sense of science and technology and a sense of mystery. </p><p><strong>Excellent stability：</strong>Double shaft support line device, stability increased by 40%, durability increased by 35%, at the same time to ensure the smoothness of reeling in and out of the line; Secondly, double bearing support pinion can effectively enhance the strength and smoothness of the gears in the force, and even with the fight with the big fish can be maintained in good condition.</p><p><strong>Compact styling：</strong>Low-profile, ergonomic frame design fits comfortably in the hand, and the body is made of lightweight, durable graphite that is lightweight so you won't get tired even after a full day of fishing; the rocker arm design brings the pinch handle closer to the center of the rod, which reduces the wobbling of the reel and rod in the hand, reducing wasted energy and allowing for a stronger retrieve.</p><p> </p><p><strong>High Strength:</strong>Precision CNC machining hard oxidized 7075 aluminum gears, in order to ensure the strength and abrasion resistance at the same time, the weight reduction of 10%; double-sided anodic oxidation process to effectively enhance the corrosion resistance of gears.</p><p><strong>Precision control:</strong>Equipped with a magnetic braking system with 8 magnetic beans that provide very effective braking variations in every fine adjustment while greatly minimizing blown lines.</p><p> </p><p><strong>Smooth and Unhindered:</strong>The use of double-shielded stainless steel bearings provides excellent abrasion and corrosion resistance, and can withstand the erosion of gravel and salt water for smooth operation.</p><p> <strong>Great fishing power:</strong>Carbon brake pads ensure smoothness while providing up to 16.5lb/ 7.5kg of pulling power.</p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "c24701bd-67c6-4bd1-9d04-fc9d73e9600a": {
+          "type": "accordion",
+          "settings": {
+            "title": "RETURN POLICY",
+            "icon": "",
+            "content": "",
+            "page": "return-policy",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "88b9d524-001e-4f63-b9a7-2f427f190458": {
+          "type": "sku",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "183f9b56-1f0f-4e8e-bec8-73edc85581fd",
+        "5111cf02-0d5a-41f9-8c96-19acf660c302",
+        "vendor",
+        "divider",
+        "variant_picker",
+        "bc1638b0-eb83-4200-9c7b-c783ac40aa5f",
+        "buy_buttons",
+        "3dab4ab1-8a3d-4e71-804a-1b5cba0b4b70",
+        "9748e379-84bd-4045-9fdf-721b126fca16",
+        "07a5d9aa-8ffc-43c8-9652-8d8e9b2adc8a",
+        "c24701bd-67c6-4bd1-9d04-fc9d73e9600a",
+        "88b9d524-001e-4f63-b9a7-2f427f190458"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "medium",
+        "gallery_layout": "collage-1",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "1660044638fda83525": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Carbon X",
+        "title": "only 5.1 ounces",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Cast as much as you want without feeling anything.</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16600395385ebd5c4f": {
+      "type": "slideshow",
+      "blocks": {
+        "1660039538ebd907b5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner-2_a1594175-f1bf-471e-8dee-b8dd792ff72b.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1660039538ebd907b5-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "166004249651f3d917": {
+      "type": "video-with-text",
+      "disabled": true,
+      "settings": {
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "autoplay": false,
+        "subheading": "",
+        "title": "High-Speed Retrieve",
+        "use_h1": false,
+        "text": "<p>Pair text with a video to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "1660043620f37b8ca6": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subheading": "",
+        "title": "权威证书",
+        "use_h1": false,
+        "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "16600435002861a735": {
+      "type": "slideshow",
+      "blocks": {
+        "08036f02-cccc-4498-96ee-bf645a8cc60a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner-3_bbc0f9ac-96b1-4558-94d3-2565a90dbb6e.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "08036f02-cccc-4498-96ee-bf645a8cc60a"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "1660044596545e5544": {
+      "type": "testimonials",
+      "blocks": {
+        "166004459655530447-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "166004459655530447-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166004459655530447-0",
+        "166004459655530447-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Customer reviews",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "166004387497316987": {
+      "type": "gallery",
+      "blocks": {
+        "166004387443a57275-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "top left",
+            "enlarge_image": true,
+            "subheading": "Gallery",
+            "title": "网红图1",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "166004387443a57275-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "top center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "网红图2",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "166004387443a57275-2": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "网红图3",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "166004387443a57275-3": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "Gallery",
+            "title": "网红图4",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "166004387443a57275-0",
+        "166004387443a57275-1",
+        "166004387443a57275-2",
+        "166004387443a57275-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "1660039598022e50ab": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "1660044875b38d3539": {
+      "type": "apps",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "0eeca3ff-eed2-4051-84ae-6b1459a1b6bc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "bestseller",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "68137895-2642-4279-af71-d6b6776716a9": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "subheading": "<p>Sign up today and receive deals and news on fishing gear. View our<a href=\"https://www.piscifun.com/pages/privacy-policy-piscifun\" target=\"_blank\" title=\"https://www.piscifun.com/pages/privacy-policy-piscifun\"> Privacy Policy</a>and<a href=\"https://www.piscifun.com/pages/terms-of-use\" target=\"_blank\" title=\"https://www.piscifun.com/pages/terms-of-use\"> Terms</a>for more information.</p>",
+        "color_bg": "#fafafa"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "recommendations",
+    "1660044638fda83525",
+    "16600395385ebd5c4f",
+    "166004249651f3d917",
+    "1660043620f37b8ca6",
+    "16600435002861a735",
+    "1660044596545e5544",
+    "166004387497316987",
+    "1660039598022e50ab",
+    "1660044875b38d3539",
+    "0eeca3ff-eed2-4051-84ae-6b1459a1b6bc",
+    "68137895-2642-4279-af71-d6b6776716a9"
+  ]
+}

@@ -1,0 +1,104 @@
+<style>
+  #shopify-section-{{ section.id }} {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+    text-align: center;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-ads {
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-ads .aa-link {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-ads .aa-toggle {
+    position: absolute;
+    top: -34px;
+    right: 0;
+    z-index: 5;
+    background-color: #fff;
+    line-height: 0;
+    padding: 5px;
+    cursor: pointer;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-ads .aa-toggle svg {
+    width: 24px;
+    transition: transform 0.2s;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-ads.aa-expanded .aa-toggle svg {
+    transform: rotate(180deg);
+  }
+
+  @media screen and (min-width: 768px) {
+  }
+
+  @media screen and (max-width: 767px) {
+  }
+</style>
+
+<div class="aa-section aa-cp-ads">
+  <div class="aa-toggle">
+    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.29289 8.29289C4.68342 7.90237 5.31658 7.90237 5.70711 8.29289L12 14.5858L18.2929 8.29289C18.6834 7.90237 19.3166 7.90237 19.7071 8.29289C20.0976 8.68342 20.0976 9.31658 19.7071 9.70711L12.7071 16.7071C12.3166 17.0976 11.6834 17.0976 11.2929 16.7071L4.29289 9.70711C3.90237 9.31658 3.90237 8.68342 4.29289 8.29289Z" fill="currentColor"/>
+</svg>
+  </div>
+  {%- if section.settings.link != blank -%}
+    <a class="aa-link" href="{{ section.settings.link }}"></a>
+  {%- endif -%}
+  <div class="aa-image">
+    {%- if section.settings.image != blank -%}
+      <img class="aa-desktop" src="{{ section.settings.image | img_url: 'master' }}">
+    {%- endif -%}
+    {%- if section.settings.image_mobile != blank -%}
+      <img class="aa-mobile" src="{{ section.settings.image_mobile | img_url: 'master' }}">
+    {%- endif -%}
+  </div>
+</div>
+
+<script>
+  (function($) {
+    $(document).on('click', '#shopify-section-{{ section.id }} .aa-cp-ads .aa-toggle', function() {
+      $('#shopify-section-{{ section.id }} .aa-cp-ads').toggleClass('aa-expanded');
+      $('#shopify-section-{{ section.id }} .aa-cp-ads .aa-image').slideToggle();
+    });
+  })(jQuery);
+</script>
+  
+{% schema %}
+{
+  "name": "AA CP Ads",
+  "limit": 1,
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_mobile",
+      "label": "Image (mobile)"
+    },
+    {
+      "type": "text",
+      "id": "link",
+      "label": "Link",
+      "default": "/products/carbon-prism-spinning-reels-ultralight-seafoam-violet"
+    }
+  ],
+  "presets": [
+    {
+      "name": "AA CP Ads"
+    }
+  ]
+}
+{% endschema %}

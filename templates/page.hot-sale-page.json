@@ -1,0 +1,569 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "6f00e5aa-07bd-4934-a9f2-03a30106f8ad": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14724412342341__6f00e5aa-07bd-4934-a9f2-03a30106f8ad-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/carbon-prism_6976addc-72e1-4b0e-92ce-d72b270ea023.jpg",
+            "mobile_image": "shopify://shop_images/prism-960.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify://products/carbon-prism-spinning-reels-ultralight-seafoam-violet",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "8d322423-06fc-4ade-be7e-fc7207d2cabc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/carbonx-2_1065f83a-c0a1-476d-96ff-a84f5c5c5362.jpg",
+            "mobile_image": "shopify://shop_images/carbon-x-960-2.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify://products/piscifun-carbon-x-lightest-carbon-spinning-reel",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "2aae08dc-d05d-484a-96ca-4bb65d18c0a1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/chaos-xs-2.jpg",
+            "mobile_image": "shopify://shop_images/chaos-960-2.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify://products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "fc893855-a9ec-4d47-9d6e-850cd87c7a47": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/01-Top-ICX_Frost-PC_bac65488-1585-48d8-b413-7e25de65c261.jpg",
+            "mobile_image": "shopify://shop_images/01-Top-ICX_Frost-M_cda810e2-00a1-4a0c-b8e0-6030f8152d01.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify://collections/50-off-deals",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "79c79c56-e39a-4ded-8cfc-dc0f0c3e6f2b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/carbon-x_0c5e5f75-79ea-4bb2-913c-c34cef8a7ba0.jpg",
+            "mobile_image": "shopify://shop_images/carbon-x-960_403cb647-eb26-4f03-93b0-74f04c43417f.jpg",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "shopify://products/piscifun-sword-fly-fishing-reel-fly-reel",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "",
+            "button_url_1": "",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14724412342341__6f00e5aa-07bd-4934-a9f2-03a30106f8ad-image-1",
+        "8d322423-06fc-4ade-be7e-fc7207d2cabc",
+        "2aae08dc-d05d-484a-96ca-4bb65d18c0a1",
+        "fc893855-a9ec-4d47-9d6e-850cd87c7a47",
+        "79c79c56-e39a-4ded-8cfc-dc0f0c3e6f2b"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 3
+      }
+    },
+    "ed47fd43-c9f9-4e3c-85ff-f3f3c402fe73": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": false,
+        "code": "<div class=\"wt-page-html\">\n<div style=\"margin-top: 30px; margin-bottom: 20px;\">\n\t<div class=\"wt-code-p-r \">\n\t\t<div class=\"section__title section__title--desc section__title--center home-rich-text__title \" style=\"margin-top: 0; margin-bottom: 0;\"> <h2 class=\"section__title-text\" style=\"width: 100%; display: block;margin-top:50px;margin-bottom:30px;text-align:center;font-size:30px;white-space: pre-wrap;\">CARBON X SERIES-LIGHTEST EVER</h2> </div>\n\t\t<div class=\"wt-code-box-2 wt-code-m-t\">\n\t\t\t<div class=\"wt-code-box\">\n\t\t\t\t<div class=\"wt-code-row-2\">\n\t\t\t\t\t<div class=\"wt-code-row-list-no wt-code-row-list-2 wt-code-row-first-no-big\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 500px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/spinning-reel/products/piscifun-carbon-x-lightest-carbon-spinning-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/02-Detail-CarbonX-Feather_13903eb0-a9e7-4537-a44e-72a3422e46ad.jpg?v=1701412955\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/spinning-reel/products/piscifun-carbon-x-lightest-carbon-spinning-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/02-Detail-CarbonX-Feather_13903eb0-a9e7-4537-a44e-72a3422e46ad.jpg?v=1701412955\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tCARBON X 500/1000/2000/3000/4000\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tFeather light to 5.1 OZ. Excellent for open-water and ice fishing.\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/spinning-reel/products/piscifun-carbon-x-lightest-carbon-spinning-reel\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 500px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/bestseller/products/piscifun-carbon-x-ii-spinning-reels\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/02-Detail-CarbonX-Full_99f40a12-5ba9-4969-82c3-b6009ecb508a.jpg?v=1701412984\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/bestseller/products/piscifun-carbon-x-ii-spinning-reels\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/02-Detail-CarbonX-Full_99f40a12-5ba9-4969-82c3-b6009ecb508a.jpg?v=1701412984\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tCARBON X II 1000/2000/3000\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; undefined\">\n\t\t\t\t\t\t\t\tFull carbon structure. Steady & powerful for freshwater actions.\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: center; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/bestseller/products/piscifun-carbon-x-ii-spinning-reels\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</div>"
+      }
+    },
+    "bfc2e362-984b-420c-9b2c-c8fd6c861f03": {
+      "type": "video-with-text",
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "video": "https://youtu.be/gaP5HcwMC1w",
+        "autoplay": false,
+        "placeholder_image": "shopify://shop_images/IMG_4507_881d07de-d72b-477a-bcb0-7b2be29b45da_1.jpg",
+        "subheading": "",
+        "title": "Lighter Stronger Smoother",
+        "use_h1": false,
+        "text": "<p>One of the lightest in the carbon class, and up to 22LBS max drag with the silky smooth.</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "23f22015-707f-4efd-9e34-2700864f51dd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14724412342341__23f22015-707f-4efd-9e34-2700864f51dd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Chaos XS - The BIG FISH Crusher",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14724412342341__23f22015-707f-4efd-9e34-2700864f51dd-heading-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "cc9df205-ecf2-40b9-a855-b08c7914f4bc": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<style> html.sr body[data-anim-load=true] .load-hidden, html.sr body[data-anim-load=true] .newsletter, html.sr body[data-anim-load=true] .product-card-top, html.sr body[data-anim-load=true] .collection-list__item, html.sr body[data-anim-load=true] .section__title, html.sr body[data-anim-load=true] .section__link, html.sr body[data-anim-load=true] .cart__content, html.sr body[data-anim-load=true] .account, html.sr body[data-anim-load=true] .password-content .section__title-desc, html.sr body[data-anim-load=true] .search-page__form, html.sr body[data-anim-load=true] .search-page__info, html.sr body[data-anim-load=true] .search-grid-item, html.sr body[data-anim-load=true] .search-page-pagination, html.sr body[data-anim-load=true] .blog, html.sr body[data-anim-load=true] .blog-page__tags, html.sr body[data-anim-load=true] .blog-pagination, html.sr body[data-anim-load=true] .article__featured-media, html.sr body[data-anim-load=true] .article__date, html.sr body[data-anim-load=true] .article__content, html.sr body[data-anim-load=true] .article__meta, html.sr body[data-anim-load=true] .article-paginate, html.sr body[data-anim-load=true] .collection__header-info__title, html.sr body[data-anim-load=true] .collection__header-media, html.sr body[data-anim-load=true] .collection__header-info__text, html.sr body[data-anim-load=true] .collection-pagination, html.sr body[data-anim-load=true] .collection-empty, html.sr body[data-anim-load=true] .collection__filters-active, html.sr body[data-anim-load=true] .breadcrumb, html.sr body[data-anim-load=true] .product-single__title-desc, html.sr body[data-anim-load=true] .product-single__title-text, html.sr body[data-anim-load=true] .product-single__photos, html.sr body[data-anim-load=true] .product-single__content, html.sr body[data-anim-load=true] .product-single--minimal .product-single__content-text, html.sr body[data-anim-load=true] .faq__search, html.sr body[data-anim-load=true] .faq__accordion, html.sr body[data-anim-load=true] .faq__cta, html.sr body[data-anim-load=true] .page__contact-form, html.sr body[data-anim-load=true] .home-image-grid__item, html.sr body[data-anim-load=true] .home-promo__box, html.sr body[data-anim-load=true] .home-intro, html.sr body[data-anim-load=true] .home-intro__media, html.sr body[data-anim-load=true] .home-intro__text, html.sr body[data-anim-load=true] .home-intro__video, html.sr body[data-anim-load=true] .home-intro__link-wrap, html.sr body[data-anim-load=true] .home-logo-list__items, html.sr body[data-anim-load=true] .home-testimonials, html.sr body[data-anim-load=true] .product-featured__photo-wrapper, html.sr body[data-anim-load=true] .home-event__item, html.sr body[data-anim-load=true] .home-delivery, html.sr body[data-anim-load=true] .home-delivery__content, html.sr body[data-anim-load=true] .home-map__items, html.sr body[data-anim-load=true] .home-rich-text__content, html.sr body[data-anim-load=true] .home-inline__item, html.sr body[data-anim-load=true] .home-video__stage, html.sr body[data-anim-load=true] .home-video__items, html.sr body[data-anim-load=true] .home-custom__items { visibility: inherit; } </style>\n<div class=\"wt-page-html\">\n<div style=\"margin-top: undefinedpx; margin-bottom: undefinedpx;\">\n\t<div class=\"wt-code-p-r \">\n\t\t<div class=\"section__title section__title--desc section__title--center home-rich-text__title \" style=\"margin-top: 0; margin-bottom: 0;\"> <h2 class=\"section__title-text\" style=\"width: 100%; display: block;margin-top:50px;margin-bottom:30px;text-align:center;font-size:30px;white-space: pre-wrap;\">CHAOS XS - THE BIG FISH CRUSHER</h2> </div>\n\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\">\n\t\t\t<img class=\"wt-code-w100 wt-code-show-pc\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/4-chaos-xs-1920-2.jpg?v=1700104922\" />\n\t\t</a>\n\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\">\n\t\t\t<img class=\"wt-code-w100 wt-code-show-moble\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/4-chaos-xs-960-2_05f2a699-b638-4d25-bb38-4f3fbdcef342.jpg?v=1700127900\" />\n\t\t</a>\n\t\t<div style=\"line-height: 30px;\" class=\"wt-code-p-a wt-code-bottom-center\">\n\t\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\">\n\t\t\t\t<div class=\"section__title section__title--desc section__title--center home-rich-text__title js-sr-loaded\" data-sr-id=\"2\" style=\"visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.6s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.6s cubic-bezier(0.5, 0, 0, 1) 0s;\">\n\t\t\t\t\t<h2 class=\"section__title-text\" style=\"{{__TITLE_STYLE__}}\">{{__TITLE__}}</h2>\n\t\t\t\t</div>\n\t\t\t</a>\n\t\t\t<div class=\"home-rich-text__content u-text-center js-sr-loaded\" data-sr-id=\"30\" style=\"visibility: visible; opacity: 1; transition: opacity 0.6s cubic-bezier(0.5, 0, 0, 1) 0.1s; color: #fff;\">\n\t\t\t\t<p><a class=\"small-feature-link\" href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\" style=\"{{__SUB_TITLE_STYLE__}}\">{{__SUB_TITLE__}}</a></p>\n\t\t\t</div>\n\t\t\t<div style=\"margin-top: 10px;\">\n\t\t\t\t<a class=\"btn btn--primary click-video\" video-url=\"https://cdn.shopify.com/videos/c/o/v/a0a89945cc8e4fa482cd9c0fa21f0b50.mp4\" video-url-web=\"https://cdn.shopify.com/videos/c/o/v/a0a89945cc8e4fa482cd9c0fa21f0b50.mp4\" style=\"color: #FFF!important;background: #a90000!important;border-color:#a90000!important;display: inline-block; {{__IS_LINK_BTN__}}; margin: 0 10px;\">\n\t\t\t\t\tWATCH VIDEO\n\t\t\t\t</a>\n\t\t\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\" class=\"btn btn--primary\" style=\"color: #FFF!important;background: #a90000!important;border-color:#a90000!important;display: inline-block; {{__IS_LINK_BTN__}}; margin: 0 10px;\">\n\t\t\t\t\tSHOP NOW\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</div><script>\nsetTimeout(function () {\n\t$('.click-video').click(function () { \n\t\tvar videoUrl = $(this).attr('video-url');\n\t\tif ($(document).width() <= 750) {\n\t\t\tvideoUrl = $(this).attr('video-url-web');\n\t\t}\n\t\tvar html = '<div class=\"wt-code-p-a wt-code-box-video\" style=\"width: 100%; height: 100%; top: 0; left: 0; overflow: hidden; text-align: center;\">';\n\t\thtml += '<video controls autoplay style=\"max-height: 100%; max-width: 100%; margin: 0 auto; height: 80%; margin-top: 6%;\">';\n\t\thtml += '<source src=\"' + videoUrl + '\" type=\"video/mp4\">';\n\t\thtml += '</video>';\n\t\thtml += '<svg class=\"wt-code-p-a wt-code-box-video-remove\" style=\"top: 6%; right: 10%; cursor: pointer;\" viewBox=\"0 0 1024 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\"><path d=\"M0 0h1024v1024H0z\" fill=\"#ffffff\" fill-opacity=\"0\" p-id=\"3408\"></path><path d=\"M240.448 168l2.346667 2.154667 289.92 289.941333 279.253333-279.253333a42.666667 42.666667 0 0 1 62.506667 58.026666l-2.133334 2.346667-279.296 279.210667 279.274667 279.253333a42.666667 42.666667 0 0 1-58.005333 62.528l-2.346667-2.176-279.253333-279.253333-289.92 289.962666a42.666667 42.666667 0 0 1-62.506667-58.005333l2.154667-2.346667 289.941333-289.962666-289.92-289.92a42.666667 42.666667 0 0 1 57.984-62.506667z\" fill=\"#ffffff\" p-id=\"3409\"></path></svg>';\n\t\thtml += '<div>';\n\t\thtml += $('.click-video').parent().html();\n\t\thtml += '</div>';\n\t\thtml += '</div>';\n\t\t$(this).parent().parent().parent().append(html);\n\t\tsetTimeout(function () {\n\t\t\t$('.wt-code-box-video-remove').find('.click-video').remove();\n\t\t}, 1);\n\t\t$('.wt-code-box-video').click(function() {\n\t\t\t$(this).remove();\n\t\t});\n\t});\n}, 300);\n</script>"
+      }
+    },
+    "16600467979bb6ece2": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/alijoz300-960-540.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "ALIJOZ-INCREDIBLE 33LBS of MAX DRAG",
+        "use_h1": false,
+        "text": "<p>Featuring powerful drag and HUGE Hamai cut hardened brass gearing, the reel is perfect for handling fish out of its league.</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "ba2e2996-d745-4b6c-8ece-59222d371fb6": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_6092_PNG_a4bdc89f-5b13-41da-b3e7-69ac35833fe5.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Powerful for inshore Fishing",
+        "use_h1": false,
+        "text": "<p>Superior performance and rock-solid durability ensure a smoother & longer casting distance to chase big trophy fish.</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/baitcasting-reel",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "bd4020d3-7915-4e12-8f12-a4c1f23a8594": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<style> html.sr body[data-anim-load=true] .load-hidden, html.sr body[data-anim-load=true] .newsletter, html.sr body[data-anim-load=true] .product-card-top, html.sr body[data-anim-load=true] .collection-list__item, html.sr body[data-anim-load=true] .section__title, html.sr body[data-anim-load=true] .section__link, html.sr body[data-anim-load=true] .cart__content, html.sr body[data-anim-load=true] .account, html.sr body[data-anim-load=true] .password-content .section__title-desc, html.sr body[data-anim-load=true] .search-page__form, html.sr body[data-anim-load=true] .search-page__info, html.sr body[data-anim-load=true] .search-grid-item, html.sr body[data-anim-load=true] .search-page-pagination, html.sr body[data-anim-load=true] .blog, html.sr body[data-anim-load=true] .blog-page__tags, html.sr body[data-anim-load=true] .blog-pagination, html.sr body[data-anim-load=true] .article__featured-media, html.sr body[data-anim-load=true] .article__date, html.sr body[data-anim-load=true] .article__content, html.sr body[data-anim-load=true] .article__meta, html.sr body[data-anim-load=true] .article-paginate, html.sr body[data-anim-load=true] .collection__header-info__title, html.sr body[data-anim-load=true] .collection__header-media, html.sr body[data-anim-load=true] .collection__header-info__text, html.sr body[data-anim-load=true] .collection-pagination, html.sr body[data-anim-load=true] .collection-empty, html.sr body[data-anim-load=true] .collection__filters-active, html.sr body[data-anim-load=true] .breadcrumb, html.sr body[data-anim-load=true] .product-single__title-desc, html.sr body[data-anim-load=true] .product-single__title-text, html.sr body[data-anim-load=true] .product-single__photos, html.sr body[data-anim-load=true] .product-single__content, html.sr body[data-anim-load=true] .product-single--minimal .product-single__content-text, html.sr body[data-anim-load=true] .faq__search, html.sr body[data-anim-load=true] .faq__accordion, html.sr body[data-anim-load=true] .faq__cta, html.sr body[data-anim-load=true] .page__contact-form, html.sr body[data-anim-load=true] .home-image-grid__item, html.sr body[data-anim-load=true] .home-promo__box, html.sr body[data-anim-load=true] .home-intro, html.sr body[data-anim-load=true] .home-intro__media, html.sr body[data-anim-load=true] .home-intro__text, html.sr body[data-anim-load=true] .home-intro__video, html.sr body[data-anim-load=true] .home-intro__link-wrap, html.sr body[data-anim-load=true] .home-logo-list__items, html.sr body[data-anim-load=true] .home-testimonials, html.sr body[data-anim-load=true] .product-featured__photo-wrapper, html.sr body[data-anim-load=true] .home-event__item, html.sr body[data-anim-load=true] .home-delivery, html.sr body[data-anim-load=true] .home-delivery__content, html.sr body[data-anim-load=true] .home-map__items, html.sr body[data-anim-load=true] .home-rich-text__content, html.sr body[data-anim-load=true] .home-inline__item, html.sr body[data-anim-load=true] .home-video__stage, html.sr body[data-anim-load=true] .home-video__items, html.sr body[data-anim-load=true] .home-custom__items { visibility: inherit; } </style>\n<div class=\"wt-page-html\">\n<div style=\"margin-top: undefinedpx; margin-bottom: undefinedpx;\">\n\t<div class=\"wt-code-p-r \">\n\t\t<div class=\"section__title section__title--desc section__title--center home-rich-text__title \" style=\"margin-top: 0; margin-bottom: 0;\"> <h2 class=\"section__title-text\" style=\"width: 100%; display: block;margin-top:50px;margin-bottom:30px;text-align:center;font-size:30px;white-space: pre-wrap;\">ICX FROST CARBON-PRECISE ICE FISHING</h2> </div>\n\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195934789\">\n\t\t\t<img class=\"wt-code-w100 wt-code-show-pc\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/6-ICX-FROST-1920_aa12d62e-09f2-40f0-bf1c-38306e3700a4.jpg?v=1673590176\" />\n\t\t</a>\n\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195934789\">\n\t\t\t<img class=\"wt-code-w100 wt-code-show-moble\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/6-ICX-FROST-1920_0ce710fc-6583-45b8-b60a-276b6f0772de.jpg?v=1673578283\" />\n\t\t</a>\n\t\t<div style=\"line-height: 30px;\" class=\"wt-code-p-a wt-code-bottom-center\">\n\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195934789\">\n\t\t\t\t<div class=\"section__title section__title--desc section__title--center home-rich-text__title js-sr-loaded\" data-sr-id=\"2\" style=\"visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 0.6s cubic-bezier(0.5, 0, 0, 1) 0s, transform 0.6s cubic-bezier(0.5, 0, 0, 1) 0s;\">\n\t\t\t\t\t<h2 class=\"section__title-text\" style=\"{{__TITLE_STYLE__}}\">{{__TITLE__}}</h2>\n\t\t\t\t</div>\n\t\t\t</a>\n\t\t\t<div class=\"home-rich-text__content u-text-center js-sr-loaded\" data-sr-id=\"30\" style=\"visibility: visible; opacity: 1; transition: opacity 0.6s cubic-bezier(0.5, 0, 0, 1) 0.1s; color: #fff;\">\n\t\t\t\t<p><a class=\"small-feature-link\" href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195934789\" style=\"{{__SUB_TITLE_STYLE__}}\">{{__SUB_TITLE__}}</a></p>\n\t\t\t</div>\n\t\t\t<div style=\"margin-top: 10px;\">\n\t\t\t\t<a class=\"btn btn--primary click-video\" video-url=\"https://cdn.shopify.com/videos/c/o/v/c151dd322eed41fcbad056612d5f70b7.mp4\" video-url-web=\"https://cdn.shopify.com/videos/c/o/v/c151dd322eed41fcbad056612d5f70b7.mp4\" style=\"color: #FFF!important;background: #a90000!important;border-color:#a90000!important;display: inline-block; {{__IS_LINK_BTN__}}; margin: 0 10px;\">\n\t\t\t\t\tWATCH VIDEO\n\t\t\t\t</a>\n\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel?variant=40487195934789\" class=\"btn btn--primary\" style=\"color: #FFF!important;background: #a90000!important;border-color:#a90000!important;display: inline-block; {{__IS_LINK_BTN__}}; margin: 0 10px;\">\n\t\t\t\t\tSHOP NOW\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</div><script>\nsetTimeout(function () {\n\t$('.click-video').click(function () { \n\t\tvar videoUrl = $(this).attr('video-url');\n\t\tif ($(document).width() <= 750) {\n\t\t\tvideoUrl = $(this).attr('video-url-web');\n\t\t}\n\t\tvar html = '<div class=\"wt-code-p-a wt-code-box-video\" style=\"width: 100%; height: 100%; top: 0; left: 0; overflow: hidden; text-align: center;\">';\n\t\thtml += '<video controls autoplay style=\"max-height: 100%; max-width: 100%; margin: 0 auto; height: 80%; margin-top: 6%;\">';\n\t\thtml += '<source src=\"' + videoUrl + '\" type=\"video/mp4\">';\n\t\thtml += '</video>';\n\t\thtml += '<svg class=\"wt-code-p-a wt-code-box-video-remove\" style=\"top: 6%; right: 10%; cursor: pointer;\" viewBox=\"0 0 1024 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\"><path d=\"M0 0h1024v1024H0z\" fill=\"#ffffff\" fill-opacity=\"0\" p-id=\"3408\"></path><path d=\"M240.448 168l2.346667 2.154667 289.92 289.941333 279.253333-279.253333a42.666667 42.666667 0 0 1 62.506667 58.026666l-2.133334 2.346667-279.296 279.210667 279.274667 279.253333a42.666667 42.666667 0 0 1-58.005333 62.528l-2.346667-2.176-279.253333-279.253333-289.92 289.962666a42.666667 42.666667 0 0 1-62.506667-58.005333l2.154667-2.346667 289.941333-289.962666-289.92-289.92a42.666667 42.666667 0 0 1 57.984-62.506667z\" fill=\"#ffffff\" p-id=\"3409\"></path></svg>';\n\t\thtml += '<div>';\n\t\thtml += $('.click-video').parent().html();\n\t\thtml += '</div>';\n\t\thtml += '</div>';\n\t\t$(this).parent().parent().parent().append(html);\n\t\tsetTimeout(function () {\n\t\t\t$('.wt-code-box-video-remove').find('.click-video').remove();\n\t\t}, 1);\n\t\t$('.wt-code-box-video').click(function() {\n\t\t\t$(this).remove();\n\t\t});\n\t});\n}, 300);\n</script>"
+      }
+    },
+    "8e675fc4-bf60-458c-b132-53e4f13f4191": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ice-fishing-1920-1080-5.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Game Changer for Ice Fishing",
+        "use_h1": false,
+        "text": "<p>Housed in an ultra-light carbon frame, the anodized spool with the handle on the same side creates ultra-smooth operation through the ice.</p>",
+        "button_label": "SHOP NOW",
+        "button_link": "https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-icx-carbon-ii-ice-fishing-reel",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "3a9f07aa-51fd-43da-8c6a-62794ed58c41": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<div class=\"wt-page-html\">\n<div style=\"margin-top: 50pxpx; margin-bottom: 40px;\">\n\t<div class=\"wt-code-p-r container container--large\">\n\t\t<div class=\"section__title section__title--desc section__title--center home-rich-text__title \" style=\"margin-top: 0; margin-bottom: 0;\"> <h2 class=\"section__title-text\" style=\"width: 100%; display: block;margin-top:50px;margin-bottom:30px;text-align:center;font-size:30px;white-space: pre-wrap;\">SWORD GUNMETAL-HARDY ULTRALIGHT</h2> </div>\n\t\t<div class=\"wt-code-box-2 wt-code-m-t\">\n\t\t\t<div class=\"wt-code-box\">\n\t\t\t\t<div class=\"wt-code-row-2\">\n\t\t\t\t\t<div class=\"wt-code-row-list-no wt-code-row-list-2 wt-code-row-first-no-big\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 500px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/fly-fishing-reels/products/piscifun-sword-fly-fishing-reel-fly-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Fly_fishing.jpg?v=1673591242\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/fly-fishing-reels/products/piscifun-sword-fly-fishing-reel-fly-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Fly_fishing.jpg?v=1673591242\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; font-weight:bold;text-align:left;\">\n\t\t\t\t\t\t\t\tAnodizing Treatment\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; text-align:left;font-size:16px;\">\n\t\t\t\t\t\t\t\tIncreases 30% abrasion resistance & weather fastness.\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: left; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/fly-fishing-reels/products/piscifun-sword-fly-fishing-reel-fly-reel\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"wt-code-item-p-15\">\n\t\t\t\t\t\t\t<div class=\"wt-code-show-pc\" style=\"font-size: 14px; font-weight: 400; height: 500px; overflow: hidden;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/fly-fishing-reels/products/piscifun-sword-fly-fishing-reel-fly-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/DSCF5512_c50967ad-264b-400a-84f1-3501e29f8f36.jpg?v=1673591287\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-show-moble\" style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/fly-fishing-reels/products/piscifun-sword-fly-fishing-reel-fly-reel\">\n\t\t\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/DSCF5512_c50967ad-264b-400a-84f1-3501e29f8f36.jpg?v=1673591287\" />\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 18px; line-height: 28px; font-weight:bold;text-align:left;\">\n\t\t\t\t\t\t\t\tPrecise CNC Machined\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t\" style=\"font-size: 14px; line-height: 28px; text-align:left;font-size:16px;\">\n\t\t\t\t\t\t\t\tLarger CNC hollow design makes the reel lighter & smoother.\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"wt-code-m-t wt-code-m-b\" style=\"text-align: left; display: initial;\">\n\t\t\t\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/fly-fishing-reels/products/piscifun-sword-fly-fishing-reel-fly-reel\" class=\"btn btn--primary\">\n\t\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n</div>"
+      }
+    },
+    "16600465821af15375": {
+      "type": "video-with-text",
+      "custom_css": [
+        ".container {margin-top: 40px;}"
+      ],
+      "settings": {
+        "video": "https://www.youtube.com/watch?v=Gubq8ykfnrs&t=7s",
+        "autoplay": false,
+        "placeholder_image": "shopify://shop_images/IMG_0110_dfb87ee6-8c74-4a41-b169-87f6df7fcc7b.jpg",
+        "subheading": "",
+        "title": "Versatile fly fishing",
+        "use_h1": false,
+        "text": "<p>CNC-machined 6061-T6 aluminum alloy construction with a hard anodized finish makes it excellent for a wide range of waters, like lakes, streams, rivers, or ponds.</p>",
+        "button_label": "Shop Now",
+        "button_link": "https://www.piscifun.com/collections/fly-fishing-reels/products/piscifun-sword-fly-fishing-reel-fly-reel",
+        "button_style": "primary",
+        "video_position": "right",
+        "text_alignment": "center",
+        "use_alt_bg": false
+      }
+    },
+    "ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53": {
+      "type": "gallery",
+      "blocks": {
+        "template--14724412342341__ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/31_edit-86_c798ecef-6f2b-4148-8f0d-ca24004f25db.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "SPINNING REEL",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14724412342341__ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Carbon_XCS_1_ad9179ca-6b5b-4403-92d8-e4a44bd70f1a.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reel",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14724412342341__ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/320003814_555548439325087_8047806888039203960_n_d0a2071f-8e83-4115-b79e-56c388ced60f.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "ICE FISHING REEL",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14724412342341__ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PS001-4_34697e47-c0cb-4b12-8504-dd9a80f49cd6.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "FLY FISHING REEL",
+            "button_label": "",
+            "link": "shopify://collections/fly-fishing-reels",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14724412342341__ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53-image-1",
+        "template--14724412342341__ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53-image-2",
+        "template--14724412342341__ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53-image-3",
+        "template--14724412342341__ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 260,
+        "mobile_image_height": 400,
+        "title_size": 22,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "611cb361-2923-428c-b4b0-a4a44d579a49": {
+      "type": "collection-list",
+      "blocks": {
+        "6f899d5d-34bd-4e7a-b2b6-6a65582266fc": {
+          "type": "collection",
+          "settings": {
+            "collection": "spinning-reel",
+            "image": "shopify://shop_images/31_edit-86_1dd7f610-1c47-40a9-990b-ccc471d000ba.jpg"
+          }
+        },
+        "d1bfcc13-ed7e-4ee7-89a5-4a64e2becd88": {
+          "type": "collection",
+          "settings": {
+            "collection": "baitcasting-reel",
+            "image": "shopify://shop_images/Carbon_XCS_1_af9593c4-4461-49ea-b088-c4cea4e9ee14.jpg"
+          }
+        },
+        "97fa8ab6-6796-4938-9a08-9a11ceed47b0": {
+          "type": "collection",
+          "settings": {
+            "collection": "ice-fishing-reel",
+            "image": "shopify://shop_images/320003814_555548439325087_8047806888039203960_n_4764c23d-9b94-4175-ab2a-6fd1774211ba.jpg"
+          }
+        },
+        "c86db2bf-8c82-407a-bbeb-6c815e4d7b0d": {
+          "type": "collection",
+          "settings": {
+            "collection": "fly-fishing-reels",
+            "image": "shopify://shop_images/PS001-4_24906852-fe57-41bd-87f3-1d7dc9cbc7b0.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "6f899d5d-34bd-4e7a-b2b6-6a65582266fc",
+        "d1bfcc13-ed7e-4ee7-89a5-4a64e2becd88",
+        "97fa8ab6-6796-4938-9a08-9a11ceed47b0",
+        "c86db2bf-8c82-407a-bbeb-6c815e4d7b0d"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "SHOP BY CATEGORY",
+        "enable_carousel": true,
+        "grid": 4,
+        "use_alt_bg": false,
+        "full_width": false
+      }
+    },
+    "4b9248ac-ef33-4a3b-8146-c701782aa89f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Spinning reels",
+        "collection": "spinning-reel",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 2,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "0f11bbb9-1552-46da-a8c2-25c3e48af5ec": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Casting reels",
+        "collection": "baitcasting-reel",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 2,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "1f739f42-3f3a-4a67-b64e-bfa42aebe238": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "ICE FISHING REELS",
+        "collection": "ice-fishing-reel",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 2,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "e6bf4660-4b7e-4471-afee-8607c2f3b4ae": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Fly Fishing reels",
+        "collection": "fly-fishing-reels",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 2,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "f0f9dd1e-0f9d-47a9-af87-685d9a92f11f": {
+      "type": "custom-row",
+      "blocks": {
+        "template--14724412342341__f0f9dd1e-0f9d-47a9-af87-685d9a92f11f-text-1": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "Piscifun Pro Caleb Kuphall",
+            "text": "<p>Over the years Caleb has worked hard to be able to compete at the highest level in Bass Fishing with his Piscifun Phantom and Alloy M casting reels , earning his shot at the Elites by way of the BassMaster Opens and Qualifying for the BassMaster Classic! </p>",
+            "button_label": "",
+            "button_link": "https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-alloy-m-baitcasting-reel-low-profile-saltwater-casting-reel-22lbs-max-drag-aluminum-frame-fishing-baitcaster",
+            "button_style": "secondary",
+            "text_alignment": "center"
+          }
+        },
+        "template--14724412342341__f0f9dd1e-0f9d-47a9-af87-685d9a92f11f-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "two-thirds",
+            "image": "shopify://shop_images/Blog_1080x_29f71947-de8d-456c-9d24-d93893afbc2b.webp",
+            "image_position": "bottom center",
+            "height": "adapt",
+            "height_desktop": 600,
+            "height_mobile": 500,
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "enlarge_text": false,
+            "button_label": "MORE INFO",
+            "image_link": "https://www.piscifun.com/blogs/fishing-tips/piscifun-pro-staff-caleb-kuphall-conquers-guntersville",
+            "text_alignment": "bottom center",
+            "mobile_overlay_under": false,
+            "overlay_style": "shadow"
+          }
+        }
+      },
+      "block_order": [
+        "template--14724412342341__f0f9dd1e-0f9d-47a9-af87-685d9a92f11f-text-1",
+        "template--14724412342341__f0f9dd1e-0f9d-47a9-af87-685d9a92f11f-image-1"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    },
+    "965aeff9-fe56-4420-b5ab-383134cf2466": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<style>.wt-code-m-t { margin-top: 10px; }\n.custom-html { margin-top: 20px; }\n.wt-code-m-t-lg { margin-top: 20px; }\n.wt-code-m-t-30 { margin-top: 30px; }\n.wt-code-m-t-40 { margin-top: 40px; }\n.wt-code-m-t-50 { margin-top: 50px; }\n.wt-code-m-b-none { margin-bottom: 0px !important; }\n.wt-code-m-b-xs { margin-bottom: 5px; }\n.wt-code-m-b { margin-bottom: 10px; }\n.wt-code-m-b-lg { margin-bottom: 20px; }\n.wt-code-m-b-30 { margin-bottom: 30px; }\n.wt-code-m-b-40 { margin-bottom: 40px; }\n.wt-code-m-b-50 { margin-bottom: 50px; }\n.wt-code-p-r { position: relative; }\n.wt-code-p-a { position: absolute; }\n.wt-code-w100 { width: 100%; }\n.wt-code-container { max-width: 1400px; margin-left: auto; margin-right: auto; padding-left: 0px; padding-right: 0px; }\n.wt-code-p-5 { padding: 5px; }\n.wt-code-p-10 { padding: 10px; }\n.wt-code-p-20 { padding: 20px; }\n.wt-code-box { width: 100%; }\n.wt-code-box-left { float: left; display: flow-root; width: 100px; }\n.wt-code-box-right { float: right; display: flow-root; width: 100px; }\n.wt-code-box-main { display: flow-root; grid-area: main; max-width: 100%; min-width: 0; height: 100%; }\n.wt-code-row { display: flex; margin-left: -5px; margin-right: -5px; }\n.wt-code-row-2 { display: flex; margin-left: -15px; margin-right: -15px; overflow: auto; }\n.wt-code-only-row { width: max-content; display: flow-root; overflow: auto; }\n.wt-code-row-item { width: 100%; padding: 5px; }\n.wt-code-row-item-b .wt-code-row-item { position: relative; }\n.wt-code-row-item-b .wt-code-row-item::after { content: ' '; position: absolute; border-right: 1px solid #000001; height: 50px; right: 0; top: 30px; }\n.wt-code-row-item-b .wt-code-row-item:last-child::after { display: none; }\n.wt-code-slide-table { position: relative; }\n.wt-code-item { float: left; }\n.wt-code-item-p-15 { float: left; }\n.wt-code-t-c { text-align: center; }\n.wt-a-td-underline { text-decoration: underline; }\n.wt-a-td-none { text-decoration: none; display: inline-block; }\n.wt-hover-hui:hover { background: rgb(137 137 137 / 33%); }\n.wt-middle-box { padding: 0 100px; }\n.wt-large-title { line-height: 75px; font-size: 68px; font-weight: 500; }\n.wt-title { line-height: 65px; font-size: 58px; font-weight: 500; }\n.wt-small-title { line-height: 55px; font-size: 48px; font-weight: 500; }\n.wt-large-txt { line-height: 22px; font-size: 20px; font-weight: 500; }\n.wt-txt { line-height: 20px; font-size: 18px; font-weight: 500; }\n.wt-small-txt { line-height: 18px; font-size: 16px; font-weight: 500; }\n.wt-code-column-box { width: 100%; margin-left: -5px; margin-right: -5px; }\n.wt-code-column-list { width: 33%; float: left; padding: 5px; }\n.wt-code-column-item { width: 100%; margin-bottom: 5px;}\n.wt-code-column-list .wt-code-column-item:nth-child(n+4){ display: none; }\n.wt-a-btn { margin: 0 auto; cursor: pointer; font-weight: 500; font-size: 22px; width: fit-content; color: #000; border-bottom: 3px solid #000; }\n.wt-code-row-list-no { width: initial; display: flex; }\n.wt-code-row-list-2 .wt-code-item-p-15 { width: 50%; padding: 5px 15px; }\n.wt-code-row-list-3 .wt-code-item-p-15 { width: 33.333%; padding: 5px 15px; }\n.wt-code-row-list-4 .wt-code-item-p-15 { width: 25%; padding: 5px 15px; }\n.wt-code-row-list-5 .wt-code-item-p-15 { width: 20%; padding: 5px 15px; }\n.wt-code-row-list-2.wt-code-row-first-big .wt-code-item-p-15 { width: 34%; padding: 5px 15px; }\n.wt-code-row-list-2.wt-code-row-first-big .wt-code-item-p-15:first-child { width: 66%; padding: 5px 15px; }\n.wt-code-row-list-3.wt-code-row-first-big .wt-code-item-p-15 { width: 25%; padding: 5px 15px; }\n.wt-code-row-list-3.wt-code-row-first-big .wt-code-item-p-15:first-child { width: 50%; padding: 5px 15px; }\n.wt-code-row-list-4.wt-code-row-first-big .wt-code-item-p-15 { width: 20%; padding: 5px 15px; }\n.wt-code-row-list-4.wt-code-row-first-big .wt-code-item-p-15:first-child { width: 40%; padding: 5px 15px; }\n.wt-code-show-pc { display: block; }\n.wt-code-show-moble { display: none; }\n.wt-code-hide { display: none; }\n.wt-code-hide-pbl { top: 0; left: 0; width: 100%; height: 100%; transition: all 1s linear; background: linear-gradient(to bottom right, #000000, #000000); opacity: 0.8; }\n.wt-code-body { top: 0; left: 0; width: 100%; height: 100%; padding-top: 45%; text-align: center; font-size: 14px; color: #fff; line-height: 22px; }\n.wt-code-hover-hide:hover .wt-code-hide { display: block; }\n.wt-code-hover-hide a:hover { opacity: 1; }\n.wt-code-top-left { top: 50px; left: 50px; }\n.wt-code-top-center { top: 50px; left: 25%; width: 50%; text-align: center; }\n.wt-code-top-rigth { top: 50px; right: 50px; }\n.wt-code-middle-left { top: 40%; left: 50px; }\n.wt-code-middle-center { top: 40%; left: 25%; width: 50%; text-align: center; }\n.wt-code-middle-rigth { top: 40%; right: 50px; }\n.wt-code-bottom-left { bottom: 50px; left: 50px; }\n.wt-code-bottom-center { bottom: 50px; left: 25%; width: 50%; text-align: center; }\n.wt-code-bottom-rigth { bottom: 50px; right: 50px; }\n@media (max-width: 1199) {\n  .wt-middle-box { padding: 0 70px; }\n  .wt-large-title { line-height: 68px; font-size: 60px; font-weight: 500; }\n  .wt-title { line-height: 58px; font-size: 50px; font-weight: 500; }\n  .wt-small-title { line-height: 48px; font-size: 40px; font-weight: 500; }\n}\n@media (max-width: 991px) {\n  .wt-middle-box { padding: 0 30px; }\n  .wt-large-title { line-height: 55px; font-size: 52px; font-weight: 500; }\n  .wt-title { line-height: 45px; font-size: 42px; font-weight: 500; }\n  .wt-small-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n}\n@media (max-width: 767px) {\n  .wt-middle-box { padding: 0 10px; }\n  .wt-large-title { line-height: 45px; font-size: 42px; font-weight: 500; }\n  .wt-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n  .wt-small-title { line-height: 25px; font-size: 22px; font-weight: 500; }\n  .wt-code-min-line { display: grid !important; }\n  .wt-large-txt { line-height: 18px; font-size: 16px; font-weight: 500; }\n  .wt-txt { line-height: 16px; font-size: 14px; font-weight: 500; }\n  .wt-small-txt { line-height: 14px; font-size: 12px; font-weight: 500; }\n  .wt-code-box-2 { padding: 0 3px; }\n  .wt-code-row-2 { display: flex; margin-left: -5px; margin-right: -5px; overflow: auto; }\n  .wt-code-item-p-15 { width: 80vw !important; padding: 5px 10px !important; }\n  .wt-code-show-pc { display: none; }\n  .wt-code-show-moble { display: block; }\n  .wt-code-top-center { top: 10px; left: 5%; width: 90%; text-align: center; }\n  .wt-code-middle-center { top: 40%; left: 5%; width: 90%; text-align: center; }\n  .wt-code-bottom-center { bottom: 10px; left: 5%; width: 90%; text-align: center; }\n\n  .wt-code-column-box { width: 100%; margin-left: -3px; margin-right: -3px; }\n  .wt-code-column-list { width: 50%; float: left; padding: 3px; }\n  .wt-code-column-item { width: 100%; margin-bottom: 3px;}\n  .wt-code-column-list .wt-code-column-item:nth-child(n+6){ display: none; }\n  .wt-code-body { font-size: 12px; }\n}\n@media (max-width: 480px) {\n  .wt-middle-box { padding: 0 10px; }\n  .wt-large-title { line-height: 35px; font-size: 32px; font-weight: 500; }\n  .wt-title { line-height: 30px; font-size: 27px; font-weight: 500; }\n  .wt-small-title { line-height: 25px; font-size: 22px; font-weight: 500; }\n  .wt-code-min-line { display: grid !important; }\n  .wt-large-txt { line-height: 16px; font-size: 14px; font-weight: 500; }\n  .wt-txt { line-height: 14px; font-size: 12px; font-weight: 500; }\n  .wt-small-txt { line-height: 12px; font-size: 10px; font-weight: 500; }\n  .wt-code-row { display: block; }\n  .wt-code-row-item-b { display: flex; }\n  .wt-code-box-2 { padding: 0 3px; }\n  .wt-code-row-2 { display: flex; margin-left: -5px; margin-right: -5px; overflow: auto; }\n  .wt-code-item-p-15 { width: 80vw !important; padding: 5px 10px !important; }\n  .wt-code-show-pc { display: none; }\n  .wt-code-show-moble { display: block; }\n  .wt-code-top-center { top: 10px; left: 5%; width: 90%; text-align: center; }\n  .wt-code-middle-center { top: 40%; left: 5%; width: 90%; text-align: center; }\n  .wt-code-bottom-center { bottom: 10px; left: 5%; width: 90%; text-align: center; }\n\n  .wt-code-column-box { width: 100%; margin-left: -3px; margin-right: -3px; }\n  .wt-code-column-list { width: 50%; float: left; padding: 3px; }\n  .wt-code-column-item { width: 100%; margin-bottom: 3px;}\n  .wt-code-column-list .wt-code-column-item:nth-child(n+6){ display: none; }\n  .wt-code-body { font-size: 12px; }\n}\n@media (max-width: 420px) {\n  .wt-code-body { font-size: 10px; }\n}</style>\n<div id=\"wt-page-html\">\n<div class=\"wt-code-p-r container container--large container--not-mobile wt-code-m-b\">\n\t<a href=\"https://www.tiktok.com/@piscifunfishing\">\n\t\t<div class=\"hometitle h4-style align-center has-paging cc-animate-init -in cc-animate-complete wt-code-m-b-none\" style=\"font-weight:bold;text-align:center;\">\n\t\t\t<h2 class=\"section__title-text\">GO SHARE</h2>\n\t\t</div>\n\t</a>\n\t<div class=\"home-rich-text__content u-text-center rte js-sr-loaded wt-code-m-b\" data-sr-id=\"30\" style=\"visibility: visible; opacity: 1; transition: opacity 0.6s cubic-bezier(0.5, 0, 0, 1) 0.1s; undefined\">\n\t\t\t<p style=\"text-align:center;\"><a class=\"small-feature-link\" href=\"https://www.tiktok.com/@piscifunfishing\">@Piscifun_Fishing</a></p>\n\t</div>\n\t<div class=\"wt-code-box wt-code-show-pc\">\n\t\t<div class=\"wt-code-box-main wt-code-column-box\" style=\"overflow: auto;\">\n      <div class=\"wt-code-column-list\">\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-alloy-m-baitcasting-reel-low-profile-saltwater-casting-reel-22lbs-max-drag-aluminum-frame-fishing-baitcaster\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/1_22c88901-ef72-4178-aafc-51fce941d8cf.jpg?v=1671699509\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t\t<span class=\"wt-code-title\">ALLOY M BAITCASTING REEL</span>\n\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-alloy-m-baitcasting-reel-low-profile-saltwater-casting-reel-22lbs-max-drag-aluminum-frame-fishing-baitcaster\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/3-2-1.jpg?v=1671699660\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t\t<span class=\"wt-code-title\">CHAOS XS BAITCASTING REEL</span>\n\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-flame-spinning-reel-size-500-1000-for-ice-fishing\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/49619243_10217684923133245_2082175801226166272_n.jpg?v=1671699831\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t\t<span class=\"wt-code-title\">FLAME SPINNING REEL</span>\n\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-flame-spinning-reel-size-500-1000-for-ice-fishing\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/280484391_410985223911765_5151371367697827618_n.jpg?v=1671699930\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t\t<span class=\"wt-code-title\">VIPER X SPINNING REEL</span>\n\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Alijoz-1.jpg?v=1671700341\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t\t<span class=\"wt-code-title\">ALIJOZ BAITCASTING REEL</span>\n\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-icx-carbon-ice-fishing-reel-3-2-1-inline-freespool-ice-reel-magnetic-drop-system-8-1-shielded-bb\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IRL001.jpg?v=1671700398\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t\t<span class=\"wt-code-title\">ICX CARBON ICE FISHING REEL</span>\n\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-icx-carbon-ice-fishing-reel-3-2-1-inline-freespool-ice-reel-magnetic-drop-system-8-1-shielded-bb\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopifycdn.net/s/files/1/1515/7758/files/IMG_5012_PNG.jpg?v=1672415091\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X 500 1000</span>\n\t\t\t\t\t\t\t<br />\n\t\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"wt-code-column-list\">\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/products/piscifun-spark-pro-baitcasting-reel-12-bearings-low-profile-baitcaster-fishing-reels?_pos=2&_sid=6896134ab&_ss=r\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/107833937_3576670865695055_8172522300783287859_n.jpg?v=1671699889\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">SPARK PRO BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/products/piscifun-spark-pro-baitcasting-reel-12-bearings-low-profile-baitcaster-fishing-reels?_pos=2&_sid=6896134ab&_ss=r\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-ii-spinning-reels\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/31_edit-48.jpg?v=1671699712\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X II SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-ii-spinning-reels\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/65462444_10210934823805386_2266174592483590144_o.jpg?v=1671699857\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/281537364_139507391996353_8251417371565266602_n.jpg?v=1671699952\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">VIPER X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IMG_5356_JPG.jpg?v=1671700356\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">VIPER X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/products/piscifun-serpent-spinning-rod-fuji-guides-two-pieces-only-delivered-within-the-us?_pos=2&_sid=9257f2154&_ss=r\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Serpent.jpg?v=1671700460\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">SERPENT SPINNING ROD</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/products/piscifun-serpent-spinning-rod-fuji-guides-two-pieces-only-delivered-within-the-us?_pos=2&_sid=9257f2154&_ss=r\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\t<div class=\"wt-a-btn wt-more-column\">MORE</div>\n\t\t\t</div>\n\t\t\t<div class=\"wt-code-column-list\">\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-phantom-lightest-carbon-baitcasting-reel-1\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/31_edit-80.jpg?v=1671699755\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">PHANTOM BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-phantom-lightest-carbon-baitcasting-reel-1\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-flame-spinning-reel-size-500-1000-for-ice-fishing\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/48275455_2081059281931589_3399397607544455168_n.jpg?v=1671699794\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">FLAME SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-flame-spinning-reel-size-500-1000-for-ice-fishing\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IMG_2957.jpg?v=1672823233\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/284226561_1173378596769075_691414441690319728_n.jpg?v=1671699971\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">ALIJOZ BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-lightest-carbon-spinning-reel\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IMG_5377_JPG.jpg?v=1671700377\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-lightest-carbon-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-icx-5-ice-fishing-reel-6-bearings-spinning-reel-5-2-1-gear-ratio\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Piscifun_ICX_5_ice_fishing_reel.jpg?v=1671700431\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">ICX 5 ICE FISHING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-icx-5-ice-fishing-reel-6-bearings-spinning-reel-5-2-1-gear-ratio\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 7px 12px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\t\n\t<div class=\"wt-code-box wt-code-show-moble\">\n\t\t<div class=\"wt-code-box-main wt-code-column-box\" style=\"overflow: auto;\">\n      <div class=\"wt-code-column-list\">\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-alloy-m-baitcasting-reel-low-profile-saltwater-casting-reel-22lbs-max-drag-aluminum-frame-fishing-baitcaster\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/1_22c88901-ef72-4178-aafc-51fce941d8cf.jpg?v=1671699509\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">ALLOY M BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-alloy-m-baitcasting-reel-low-profile-saltwater-casting-reel-22lbs-max-drag-aluminum-frame-fishing-baitcaster\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-phantom-lightest-carbon-baitcasting-reel-1\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/31_edit-80.jpg?v=1671699755\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">PHANTOM BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-phantom-lightest-carbon-baitcasting-reel-1\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-ii-spinning-reels\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/31_edit-48.jpg?v=1671699712\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X II SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-ii-spinning-reels\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-flame-spinning-reel-size-500-1000-for-ice-fishing\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/49619243_10217684923133245_2082175801226166272_n.jpg?v=1671699831\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">FLAME SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-flame-spinning-reel-size-500-1000-for-ice-fishing\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IMG_2957.jpg?v=1672823233\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/281537364_139507391996353_8251417371565266602_n.jpg?v=1671699952\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">VIPER X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Alijoz-1.jpg?v=1671700341\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">ALIJOZ BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-lightest-carbon-spinning-reel\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IMG_5377_JPG.jpg?v=1671700377\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-carbon-x-lightest-carbon-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/products/piscifun-serpent-spinning-rod-fuji-guides-two-pieces-only-delivered-within-the-us?_pos=2&_sid=9257f2154&_ss=r\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Serpent.jpg?v=1671700460\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">SERPENT SPINNING ROD</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/products/piscifun-serpent-spinning-rod-fuji-guides-two-pieces-only-delivered-within-the-us?_pos=2&_sid=9257f2154&_ss=r\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopifycdn.net/s/files/1/1515/7758/files/IMG_5012_PNG.jpg?v=1672415091\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X 500 1000</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/for-ice-fishing/products/piscifun-carbon-x-ice-fishing-reel-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"wt-code-column-list\">\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/products/piscifun-spark-pro-baitcasting-reel-12-bearings-low-profile-baitcaster-fishing-reels?_pos=2&_sid=6896134ab&_ss=r\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/107833937_3576670865695055_8172522300783287859_n.jpg?v=1671699889\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">SPARK PRO BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/products/piscifun-spark-pro-baitcasting-reel-12-bearings-low-profile-baitcaster-fishing-reels?_pos=2&_sid=6896134ab&_ss=r\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/3-2-1.jpg?v=1671699660\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CHAOS XS BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/baitcasting-reel/products/piscifun-chaos-xs-round-baitcasting-reel-saltwater-fishing-reels-for-catfish-musky-bass-and-inshore-surf-fishing\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-flame-spinning-reel-size-500-1000-for-ice-fishing\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/48275455_2081059281931589_3399397607544455168_n.jpg?v=1671699794\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">FLAME SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-flame-spinning-reel-size-500-1000-for-ice-fishing\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/65462444_10210934823805386_2266174592483590144_o.jpg?v=1671699857\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">CARBON X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/spinning-reel-1/products/piscifun-carbon-x-lightest-carbon-spinning-reel\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/280484391_410985223911765_5151371367697827618_n.jpg?v=1671699930\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">VIPER X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/284226561_1173378596769075_691414441690319728_n.jpg?v=1671699971\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">ALIJOZ BAITCASTING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-alijos-size-300-low-profile-baitcasting-reel-aluminum-frame-casting-reels\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IMG_5356_JPG.jpg?v=1671700356\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">VIPER X SPINNING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/reels/products/piscifun-viper-x-spinning-reel-gear-ratio-5-2-1-6-2-1-high-speed-fishing-reel-10-1bb-lightweight-carbon-fiber-33-lb-max-drag-size-500-5000\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-icx-carbon-ice-fishing-reel-3-2-1-inline-freespool-ice-reel-magnetic-drop-system-8-1-shielded-bb\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/IRL001.jpg?v=1671700398\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">ICX CARBON ICE FISHING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-icx-carbon-ice-fishing-reel-3-2-1-inline-freespool-ice-reel-magnetic-drop-system-8-1-shielded-bb\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n    \t\t<div class=\"wt-code-column-item wt-code-hover-hide wt-code-p-r\">\n\t\t\t\t\t<a href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-icx-5-ice-fishing-reel-6-bearings-spinning-reel-5-2-1-gear-ratio\">\n\t\t\t\t\t\t<div style=\"font-size: 14px; font-weight: 400;\">\n\t\t\t\t\t\t\t<img class=\"wt-code-w100\" src=\"https://cdn.shopify.com/s/files/1/1515/7758/files/Piscifun_ICX_5_ice_fishing_reel.jpg?v=1671700431\" />\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-hide-pbl\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"wt-code-p-a wt-code-hide wt-code-body\">\n\t\t\t\t\t\t<span class=\"wt-code-title\">ICX 5 ICE FISHING REEL</span>\n\t\t\t\t\t\t<br />\n\t\t\t\t\t\t<span href=\"https://www.piscifun.com/collections/ice-fishing-reel/products/piscifun-icx-5-ice-fishing-reel-6-bearings-spinning-reel-5-2-1-gear-ratio\" class=\"wt-a-td-none\" style=\"border-radius: 4px; text-decoration: none; border: 1px solid #a90000; background: #a90000; color: #FFF; padding: 3px 9px; font-size: 10px;\">\n\t\t\t\t\t\t\tSHOP NOW\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"wt-a-btn wt-more-column\">MORE</div>\n\t\t</div>\n\t</div>\n</div></div><script>\nfunction doTop(div) {\n\tvar img = new Image();\n\timg.src = $(div).find('img').attr('src');\n\timg.onload = function () {\n\t\tvar _title = $(div).find('.wt-code-title').html();\n\t\tif ($('body').width() < 500) {\n\t\t\tif (_title === '') {\n\t\t\t\tvar heigth = img.height / (img.width / $(div).parent().width()) / 2 - 10;\n\t\t\t\t$(div).find('.wt-code-body').css('paddingTop', heigth + 'px');\n\t\t\t} else {\n\t\t\t\tvar heigth = img.height / (img.width / $(div).parent().width()) / 2 - 30;\n\t\t\t\t$(div).find('.wt-code-body').css('paddingTop', heigth + 'px');\n\t\t\t}\n\t\t} else {\n\t\t\tif (_title === '') {\n\t\t\t\tvar heigth = img.height / (img.width / $(div).parent().width()) / 2 - 20;\n\t\t\t\t$(div).find('.wt-code-body').css('paddingTop', heigth + 'px');\n\t\t\t} else {\n\t\t\t\tvar heigth = img.height / (img.width / $(div).parent().width()) / 2 - 60;\n\t\t\t\t$(div).find('.wt-code-body').css('paddingTop', heigth + 'px');\n\t\t\t}\n\t\t}\n\t}\n}\nfunction doEach() {\n\t$('.wt-code-column-item').each(function () {\n\t\tdoTop(this);\n\t});\n}\nsetTimeout(function () {\n\tdoEach();\n}, 100);\nsetTimeout(function () {\n\tdoEach();\n}, 200);\nsetTimeout(function () {\n\tdoEach();\n\t\n\t$('.wt-more-column').click(function () {\n\t\t$(this).eq(0).parents('.wt-code-column-box').find('.wt-code-column-item').show();\n\t\t$(this).hide();\n\t});\n}, 300);\n\n</script>"
+      }
+    },
+    "6dc04d57-f38b-4b0e-a0ac-a903e4872cd6": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "subheading": "<p>Sign up today and receive deals and news on fishing gear. View our<a href=\"https://www.piscifun.com/pages/privacy-policy-piscifun\" target=\"_blank\" title=\"https://www.piscifun.com/pages/privacy-policy-piscifun\"> Privacy Policy </a>and<a href=\"https://www.piscifun.com/pages/terms-of-use\" target=\"_blank\" title=\"https://www.piscifun.com/pages/terms-of-use\"> Terms </a>for more information.</p>",
+        "color_bg": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6f00e5aa-07bd-4934-a9f2-03a30106f8ad",
+    "ed47fd43-c9f9-4e3c-85ff-f3f3c402fe73",
+    "bfc2e362-984b-420c-9b2c-c8fd6c861f03",
+    "23f22015-707f-4efd-9e34-2700864f51dd",
+    "cc9df205-ecf2-40b9-a855-b08c7914f4bc",
+    "16600467979bb6ece2",
+    "ba2e2996-d745-4b6c-8ece-59222d371fb6",
+    "bd4020d3-7915-4e12-8f12-a4c1f23a8594",
+    "8e675fc4-bf60-458c-b132-53e4f13f4191",
+    "3a9f07aa-51fd-43da-8c6a-62794ed58c41",
+    "16600465821af15375",
+    "ba46d39d-4c5e-4f8e-bf8c-3d54c4984c53",
+    "611cb361-2923-428c-b4b0-a4a44d579a49",
+    "4b9248ac-ef33-4a3b-8146-c701782aa89f",
+    "0f11bbb9-1552-46da-a8c2-25c3e48af5ec",
+    "1f739f42-3f3a-4a67-b64e-bfa42aebe238",
+    "e6bf4660-4b7e-4471-afee-8607c2f3b4ae",
+    "f0f9dd1e-0f9d-47a9-af87-685d9a92f11f",
+    "965aeff9-fe56-4420-b5ab-383134cf2466",
+    "6dc04d57-f38b-4b0e-a0ac-a903e4872cd6"
+  ]
+}

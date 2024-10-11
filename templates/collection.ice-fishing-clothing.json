@@ -1,0 +1,223 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": false,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_rod_aabfa6d8-a083-4d88-9461-b6efd393b77b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing rod",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-rod",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_tent.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "ice fishing tent",
+            "button_label": "",
+            "link": "shopify://products/3-4-person-ice-fishing-shelter-pop-up-ice-fishing-tent",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Ice Fishing Clothes",
+            "answer": "<p>Do you need clothing specifically designed for ice fishing? Why not just layer your existing winter clothing and head out to enjoy a day of ice fishing? Not a good idea. Ice fishing is a winter activity with unique environmental conditions and significant safety concerns requiring specialized ice fishing clothing. <br/>A quick search on the Internet reveals numerous sad stories of ice-related drowning deaths. Many could have been avoided if the individual had taken the necessary safety precautions before venturing onto the ice. After all, even if you avoid drowning and claw your way out of the hole, hypothermia can set in quickly and be just as deadly. Therefore, manufacturers design ice fishing clothing to mitigate both risks.<br/>A key aspect of well-designed ice fishing bibs and jackets is flotation. Without built-in flotation, experts recommend ice anglers wear a personal flotation device. Wearing a PFD on top of layered and potentially bulky winter clothing interferes with movement and restricts access to pockets. The best-designed ice fishing bibs double as a float suit, incorporating floatable material with thermal insulation, like Thinsulate, to provide safety and warmth. But, you should pay attention to other critical features of an ice fishing suit before making a purchase. Check the top-level features, construction, zipper, and padding.</p><h5><strong>Features</strong>: </h5><p>Quality indicators include a durable shell, inner liner, fully taped and sealed seams, long-wearing fabric, hood, and a robust, high-quality zipper. The best ice fishing jacket incorporates layers. It should have a waterproof/windproof outer shell with a soft inner fleece liner. Look for a well-designed, removable hood and a high collar to protect the neck from cold. To avoid sweat buildup, winter fishing clothing must be breathable. <br/>The ice fishing bibs and jacket should have plenty of pockets to store small items. At least two pockets must be specifically designed with a material like fleece to warm your hands quickly between tying on lures.<br/>When selecting ice fishing clothing, pay attention to the sizing guidance from the manufacturer. Ice anglers wear bibs over other clothing and the jacket over the bibs. Size the jacket and bibs accordingly. </p><h5><strong>Construction</strong>: </h5><p>The fabric should be both tough and breathable. Clothing advertised as “DWR” combined with taped and sealed seams is ideal. DWR stands for “durable water repellent” and is manufactured using a polymer-based coating to resist liquid. The fabric must be robust enough to handle constant scraping on rough, sharp ice. Some of the best ice fishing pants use 1680D reinforced Oxford fabric at the knees to provide extra protection. Fabrics rated at this level are thick and sturdy with excellent tear resistance. You may see lesser grades rated at 900D polyester, which provides inadequate protection.<br/>As the core of a float suit, ice fishing bibs should include an interior mesh hem design that quickly drains water if you fall through the ice. Although this does not protect you entirely from hypothermia, it extends the time to move to a warm place to change into the extra dry clothes you brought.<br/>Finally, look at the ice fishing jacket. It needs reflective safety strips, a muted design or color to avoid spooking fish through the hole in the ice, zipper pockets, and a quick draining, adjustable hem to seal in body heat when needed.</p><h5><strong>Zipper</strong>:</h5><p>Zippers are essential. The ice fishing jacket should include a YKK zipper. These high-quality zippers open in two directions – from the top and bottom. Opening from both ends allows you to adjust the jacket for comfort when seated or kneeling, release heat buildup, and prevent sweating. The zippers on your ice fishing bibs should extend along the entire leg, making it easier to put them on.</p><h5><strong>Padding</strong>: </h5><p>Undoubtedly, you will kneel on the ice during the day. The most comfortable ice fishing pants have EVA removable padding at the knees.</p><p>The bottom line of ice fishing clothing is that to be comfortable and safe, you need to use cold weather fishing gear specifically designed for the unique cold weather environment. Buy carefully, buy safe, buy warm!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about ice fishing clothing"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What do I wear ice fishing?",
+            "answer": "<p>When you are Ice Fishing, wearing an insulated Ice Suit is vital to keep you warm and dry. It is also crucial that this suit has flotation properties to keep you afloat should you fall in. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "ca00ccb1-a173-4cc0-834d-e3102a94a53a": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": {\n    \"@type\": \"Question\",\n    \"name\": \"What do I wear ice fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"When you are Ice Fishing, wearing an insulated Ice Suit is vital to keep you warm and dry. It is also crucial that this suit has flotation properties to keep you afloat should you fall in.\"\n    }\n  }\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "ca00ccb1-a173-4cc0-834d-e3102a94a53a"
+  ]
+}

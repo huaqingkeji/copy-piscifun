@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page_title }}</title>
+    {{ content_for_header }}
+    {{ content_for_index }}
+</head>
+<body>
+    <header>
+        <h1>My New Layout</h1>
+    </header>
+    <main>
+        {{ content_for_layout }}
+    </main>
+    <footer>
+        <p>Footer content</p>
+    </footer>
+    <script>
+      var aa = `{{ content_for_layout }}`
+    </script>
+</body>
+</html>

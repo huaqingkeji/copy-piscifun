@@ -1,0 +1,172 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": true,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "ec7a42d0-b7dc-42ff-b900-a4e7666932ba": {
+      "type": "collection-list",
+      "blocks": {
+        "62a516a6-0fa2-4d92-810f-1fcc4c77a8eb": {
+          "type": "collection",
+          "settings": {
+            "collection": "reels",
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg"
+          }
+        },
+        "c48d6c8b-610c-4651-9062-a9ddc150ffc1": {
+          "type": "collection",
+          "settings": {
+            "collection": "spinning-reel",
+            "image": "shopify://shop_images/spinning_reels.jpg"
+          }
+        },
+        "ca4ff9ee-7f4f-4445-884a-4eaf72f9be2a": {
+          "type": "collection",
+          "settings": {
+            "collection": "baitcasting-reel",
+            "image": "shopify://shop_images/casting_reels.jpg"
+          }
+        },
+        "429019bd-e371-4bc6-bfff-ee76f6a93fda": {
+          "type": "collection",
+          "settings": {
+            "collection": "ice-fishing-reel",
+            "image": "shopify://shop_images/ice_fishing_reels.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "62a516a6-0fa2-4d92-810f-1fcc4c77a8eb",
+        "c48d6c8b-610c-4651-9062-a9ddc150ffc1",
+        "ca4ff9ee-7f4f-4445-884a-4eaf72f9be2a",
+        "429019bd-e371-4bc6-bfff-ee76f6a93fda"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "other fishing gear",
+        "enable_carousel": true,
+        "grid": 4,
+        "use_alt_bg": false,
+        "full_width": true
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Collapsible tabs"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Question",
+            "answer": "<p>Answer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "FAQ"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "ec7a42d0-b7dc-42ff-b900-a4e7666932ba",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00"
+  ]
+}

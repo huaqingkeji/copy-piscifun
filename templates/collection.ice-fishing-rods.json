@@ -1,0 +1,223 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": false,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_clothing.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "ice fishing clothing",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-apparel",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_tent.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "ice fishing tent",
+            "button_label": "",
+            "link": "shopify://products/3-4-person-ice-fishing-shelter-pop-up-ice-fishing-tent",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What to Consider When Buying an Ice Fishing Rod",
+            "answer": "<p>The last thing you want to do when ice fishing is to use your regular freshwater rods. Manufacturers recognize the unique environmental conditions of ice fishing and build ice fishing rods to account for the differences between traditional fishing and ice fishing. </p><p>A freshwater fishing rod is made to optimize casting. They come in different lengths and styles, such as spinning rods or casting rods. Given that focus, a freshwater rod has a long handle and widely spaced guides to facilitate low line resistance, accuracy, and distance. On the other hand, an ice fishing rod has small guides closely spaced together for greater sensitivity. An ice fishing pole is short, given the likely use inside an ice fishing tent or semi-permanent structure. Typically, ice fishing poles range between 24 and 36 inches long, although some models extend to 42 inches.</p><p>Before choosing an ice fishing rod, understand how power, action, length, characteristics, and components apply. </p><h6><strong>Power:</strong> </h6><p>Measures how much force it takes to bend the rod. High-power fishing rods are stiffer and stronger. Conversely, a light power fishing rod is very flexible. The most popular ice fishing rods come with power ratings ranging from ultralight to medium-heavy. You should match the power rating to the size of your target fish. A medium-heavy ice fishing pole provides the backbone to haul a large walleye or lake trout vertically from the depths, while you only need an ultralight or light for panfish or perch.</p><h6><strong>Action:</strong> </h6><p>Measures how much and where the rod bends. Standard action ratings are extra fast, fast, moderate, and slow. A fast-action fishing rod bends at the tip; slow action bends closer to the reel. Fast-action ice fishing rods are more sensitive; slow action provides more leverage and cushioning against a substantial hit. When ice fishing, sensitivity is vital. Since fish are lethargic, you may not receive an aggressive, rod-bending hit. Instead, you focus on the tip to see the slightest movement as the indicator to set the hook. Therefore, sensitivity to that light “take” is significant. For most situations, extra fast or fast actions are a good choice.</p><h6><strong>Length:</strong> </h6><p>A longer ice fishing rod provides more leverage and can handle a brutal hit when targeting large fish. Short ice fishing poles put you closer to the hole, are more sensitive, and make it easier to secure the fish as it reaches the surface. In addition, if you are fishing inside a structure such as an ice fishing tent, a short ice fishing rod is less awkward and allows you to sit closer to the hole to monitor your fish finder. Unsure? Use an ice fishing rod between 24 and 32 inches.</p><h6><strong>Characteristics:</strong> </h6><p>Ice fishing rods are generally light, with no appreciable difference between most 26-inch rods and longer ones. Think twice before buying an ice fishing rod heavier than two ounces – you will be jigging it constantly! Given the harsh winter environment, durability is a critical factor to examine. There are three primary rod materials – fiberglass, graphite, and a composite mix of the two. While fiberglass is almost indestructible, it is heavier. Look for carbon fiber rod blanks made explicitly for ice fishing. Their unique wrapping styles provide additional strength while not sacrificing sensitivity - the most crucial characteristic of any ice fishing pole. As mentioned already, you may not feel an aggressive strike when jigging a small lure. Instead, the tip tells the story! Composites try to optimize the best characteristics of fiberglass and graphite. However, they lack the sensitivity of graphite. Avoid any ice fishing rod that does not advertise its sensitivity. When the tip moves slightly, set the hook!</p><h6><strong>Components:</strong> </h6><p>This is where the devil is in the details. The most critical component of an ice fishing pole is the tip. Look for a tip with a high visibility color to offset the glaring, white background of the typical ice fishing environment. Again, the slightest movement of the tip indicates a strike. You may not be able to feel a light strike while wearing heavy gloves or with numbed fingers. Some ice fishing rods have a “bobber” at the end, making it easier to see movement. Trust your eyes! </p><h6>Rod Guides</h6><p>Next, check the rod guides. They should be smaller and closer together than on your freshwater rod. The guide closest to the reel should be less than 10mm in diameter, with subsequent guides getting small. This minimizes ice buildup and improves sensitivity. The tiny guides on an ultralight rod would ice up sooner than the slightly larger guides on a medium power rod. Pay attention when fishing to keep them clear. Fishing rod guides made from aluminum oxide, stainless steel, silicon carbide, or titanium with ceramic inserts are the most durable. Of these choices, titanium and silicon are lighter, more rigid, and more sensitive.</p><p>The handle must be comfortable. An ice fishing pole handle usually varies between four and eight inches long. Longer handles provide better leverage when landing larger fish. Like on a regular rod, handles come in cork, EVA, or rubber. Cork and EVA are both light, while rubber tends to be heavy. Handles made with cork tend to absorb water and dirt. For that reason, an EVA handle is usually a better option. Ensure that the reel lockup provides security for the ice fishing reel and that the rod has a hook keeper.</p><h6>Recommendation:</h6><p>Use an ultralight or light-power ice fishing rod for panfish, perch, and small to medium-sized trout. Once you move to larger trout, walleye, and pike, you need a medium power rod. If you add muskellunge to the mix, you will need a medium-heavy power rod. If you can only buy one ice fishing rod, select medium power.</p><p>In conclusion, it is a lot to think about. Ultimately, the type of fish you target and where you target them are the most significant decision variables. Large fish and deep water? Use a medium power rod that is longer. Smaller fish like panfish and perch in twenty feet or less? A short ultralight or light power rod with a sensitive tip will work perfectly.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about ice fishing rods"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What type of rod is best for ice fishing?",
+            "answer": "<p>The best rod type for Ice Fishing offers sensitivity, strength, and an excellent visual strike indicator. Another essential feature is a comfortable handle. The <a href=\"/products/icx-focus-ice-fishing-rod\" target=\"_blank\" title=\"Piscifun® Icx Focus Ice Fishing Rod Lightweight\">Piscifun ICX Focus</a> is perfect for Ice Anglers. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "1eef7807-dc09-4eca-b27a-f75007e464b2": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": {\n    \"@type\": \"Question\",\n    \"name\": \"What type of rod is best for ice fishing?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"The best rod type for Ice Fishing offers sensitivity, strength, and an excellent visual strike indicator. Another essential feature is a comfortable handle. The Piscifun ICX Focus is perfect for Ice Anglers.\"\n    }\n  }\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00",
+    "1eef7807-dc09-4eca-b27a-f75007e464b2"
+  ]
+}

@@ -1,0 +1,239 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": false,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "8b479eec-2679-4338-a451-eb21d4a06fa2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14725265948741__8b479eec-2679-4338-a451-eb21d4a06fa2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "OTHER FISHING REELS",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14725265948741__8b479eec-2679-4338-a451-eb21d4a06fa2-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "a4760cf1-7680-4691-8047-afcb3edf36a7": {
+      "type": "gallery",
+      "blocks": {
+        "template--14725265948741__a4760cf1-7680-4691-8047-afcb3edf36a7-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725265948741__a4760cf1-7680-4691-8047-afcb3edf36a7-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725265948741__a4760cf1-7680-4691-8047-afcb3edf36a7-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/electric_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "electric reels",
+            "button_label": "",
+            "link": "shopify://collections/electric-reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14725265948741__a4760cf1-7680-4691-8047-afcb3edf36a7-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14725265948741__a4760cf1-7680-4691-8047-afcb3edf36a7-image-1",
+        "template--14725265948741__a4760cf1-7680-4691-8047-afcb3edf36a7-image-2",
+        "template--14725265948741__a4760cf1-7680-4691-8047-afcb3edf36a7-image-3",
+        "template--14725265948741__a4760cf1-7680-4691-8047-afcb3edf36a7-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Casting Reels",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "Learn More About Casting Reels"
+      }
+    },
+    "a579779a-a1ee-48b9-8376-ba360cf06364": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14725265948741__a579779a-a1ee-48b9-8376-ba360cf06364-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "How to use a bait casting reel?",
+            "answer": "<h4><strong>Familiarize yourself with the reel: </strong></h4><p>Take some time to understand the different components of the baitcasting reel, such as the spool, handle, drag adjustment, brake system, and thumb bar. Spool the reel: Attach the fishing line to the spool. Thread the line through the rod guides and tie it securely to the spool using an appropriate knot. </p><h4><strong>Adjust the brake system:</strong> </h4><p>Baitcasting reels have a brake system that helps control the spool's rotation and prevent backlash. Adjust the brake settings based on your casting ability and the weight of the lure you're using. Start with a higher setting and gradually decrease it as you gain more experience. </p><h4><strong>Adjust the drag:</strong> </h4><p>Locate the drag adjustment knob on the reel. This allows you to set the resistance when a fish pulls on the line. Adjust it according to the fishing conditions and the size of the fish you expect to catch. </p><h4><strong>Hold the rod and reel:</strong> </h4><p>Grasp the fishing rod handle with one hand, ensuring a comfortable and secure grip. Place your thumb lightly on the spool's thumb bar, which is used to release the spool during casting. </p><h4><strong>Cast the line:</strong> </h4><p>With your thumb holding the spool, bring the rod back over your shoulder, then swiftly bring it forward while releasing your thumb from the spool. The spool will rotate, releasing the line and propelling the bait or lure forward. Practice casting to improve accuracy and minimize backlash. </p><h4><strong>Adjust the spool tension:</strong> </h4><p>The spool tension knob, usually located on the side of the reel, controls the spool's rotation speed. Adjust it to prevent the spool from spinning too freely or creating backlash. Start with a slightly tighter setting and make adjustments as needed. </p><h4><strong>Retrieve the line:</strong> </h4><p>Turn the handle of the baitcasting reel to retrieve the line. Adjust the speed and rhythm of retrieval based on your fishing technique and the behavior of the fish. </p><p>Remember, using a baitcasting reel requires practice and patience. Start with lighter lures and gradually move to heavier ones as you gain confidence and improve your casting skills. Pay attention to the brake system and spool tension to avoid backlash. Practice different casting techniques and adapt to different fishing conditions. Always follow local fishing regulations and guidelines.</p>"
+          }
+        },
+        "template--14725265948741__a579779a-a1ee-48b9-8376-ba360cf06364-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "What's the difference between a spinning reel and a casting reel?",
+            "answer": "<p>The main difference between a spinning reel and a casting reel lies in its design and function. </p><h4><a href=\"https://www.piscifun.com/collections/spinning-reel\" target=\"_blank\" title=\"Spinning Reels\">Spinning Reel</a>: </h4><p><strong>Design:</strong> A spinning reel has a fixed, stationary spool parallel to the rod. The line is released from the spool by a rotating bail, which wraps the line around the spool during retrieval. </p><p><strong>Line Release:</strong> The bail releases the line during casting, allowing it to flow freely off the spool without resistance. </p><p><strong>Casting Technique:</strong> Spinning reels are generally easier for beginners because they are more forgiving and less prone to backlash. They are well-suited for casting lighter lures or baits. </p><p><strong>Line Twist:</strong> Spinning reels have a reduced tendency for line twists due to the line coming off the spool in a controlled manner. </p><p><strong>Retrieval:</strong> Spinning reels are designed for smooth and efficient retrieval, wounding the line evenly onto the spool.</p><h4>Casting Reel (Baitcasting or Conventional Reel): </h4><p><strong>Design:</strong> A casting reel has a revolving spool that sits perpendicular to the rod. The spool rotates during both casting and retrieval. </p><p><strong>Line Release:</strong> Casting reels employ a braking system to control the rotation of the spool during casting, preventing backlash. The line is released by thumb pressure on the spool. </p><p><strong>Casting Technique:</strong> Baitcasting reels require more skill and practice to master. They are generally preferred for heavier lures or baits and offer greater accuracy and casting distance once proficiency is attained. </p><p><strong>Line Twist:</strong> Casting reels have a higher potential for line twists, especially if the spool rotates too fast or if backlash occurs. </p><p><strong>Retrieval:</strong> Casting reels provide more power and control during retrieval, making them suitable for handling larger fish or situations that require strong drag settings. </p><p>In summary, spinning reels are generally easier to use, offer smoother retrieval, and are well-suited for beginners or lighter fishing applications. On the other hand, casting reels provide greater casting accuracy and distance, increased power during retrieval, and are preferred for heavier lures or targeting larger fish. The choice between the two depends on personal preference, fishing style, and the specific requirements of the fishing situation.</p>"
+          }
+        },
+        "6b120a1e-f79a-4c2d-b489-21d7d943c82d": {
+          "type": "question",
+          "settings": {
+            "title": "What are the pros and cons of a baitcaster?",
+            "answer": "<p>Baitcasting reels, also known as baitcasters or casting reels, offer several advantages and disadvantages compared to other types of fishing reels. Here are the pros and cons of using a bait caster: </p><h4><strong>Pros: </strong></h4><p><strong>Casting Accuracy:</strong> Baitcasters provide greater casting accuracy, allowing anglers to precisely target specific areas, which makes them ideal for fishing in tight spaces or around structures. </p><p><strong>Casting Distance: </strong>Baitcasters can cast long distances, making them suitable for covering a larger area, such as fishing in open water or targeting distant targets. </p><p><strong>Line Strength and Control:</strong> Baitcasting reels can handle heavier lines and offer better control over the line, which makes them suitable for fishing with heavier lures or when targeting larger fish species that require more strength. </p><p><strong>Power and Drag:</strong> Baitcasters generally offer more power and stronger drag systems, allowing anglers to exert greater control over hooked fish during fights and landing. </p><p><strong>Versatility:</strong> Baitcasters can handle various fishing techniques, including flipping, pitching, and vertical jigging. They are commonly used for techniques such as bass fishing, trolling, and heavy-duty saltwater fishing. </p><h4><strong>Cons: </strong></h4><p><strong>Learning Curve:</strong> Baitcasters have a steeper learning curve compared to spinning reels. They require practice and skill to cast effectively and avoid backlash, which is tangling the line on the spool. </p><p><strong>Backlash Potential:</strong> Baitcasters are more prone to backlash, especially when not properly adjusted or casting with improper technique. Backlash occurs when the spool rotates faster than the line being released, resulting in a tangled mess that requires manual untangling. </p><p><strong>Line Twist:</strong> Baitcasting reels can cause line twists if the line is not properly managed. Line twists can lead to tangles, reduced casting distance, and increased chances of breakage. </p><p><strong>Heavier and Bulkier</strong>: Baitcasting reels are generally heavier and bulkier than spinning reels, which can cause fatigue during long hours of casting and can be less comfortable for some anglers. </p><p><strong>Cost: </strong>Baitcasters are more expensive than spinning reels, especially for high-quality models, which can deter anglers on a tight budget. Overall, baitcasting reels offer greater control, accuracy, and power but require more skill and practice to use effectively. They are well-suited for anglers who prioritize precision casting, use heavier lines or lures, and are willing to invest time in mastering the technique.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14725265948741__a579779a-a1ee-48b9-8376-ba360cf06364-question-1",
+        "template--14725265948741__a579779a-a1ee-48b9-8376-ba360cf06364-question-2",
+        "6b120a1e-f79a-4c2d-b489-21d7d943c82d"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "c2484173-e5e6-49de-b1fd-59b7d04738cf": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [{\n    \"@type\": \"Question\",\n    \"name\": \"How to use a bait casting reel?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"FAMILIARIZE YOURSELF WITH THE REEL: \nTake some time to understand the different components of the baitcasting reel, such as the spool, handle, drag adjustment, brake system, and thumb bar. Spool the reel: Attach the fishing line to the spool. Thread the line through the rod guides and tie it securely to the spool using an appropriate knot. \n\nADJUST THE BRAKE SYSTEM: \nBaitcasting reels have a brake system that helps control the spool's rotation and prevent backlash. Adjust the brake settings based on your casting ability and the weight of the lure you're using. Start with a higher setting and gradually decrease it as you gain more experience. \n\nADJUST THE DRAG: \nLocate the drag adjustment knob on the reel. This allows you to set the resistance when a fish pulls on the line. Adjust it according to the fishing conditions and the size of the fish you expect to catch. \n\nHOLD THE ROD AND REEL: \nGrasp the fishing rod handle with one hand, ensuring a comfortable and secure grip. Place your thumb lightly on the spool's thumb bar, which is used to release the spool during casting. \n\nCAST THE LINE: \nWith your thumb holding the spool, bring the rod back over your shoulder, then swiftly bring it forward while releasing your thumb from the spool. The spool will rotate, releasing the line and propelling the bait or lure forward. Practice casting to improve accuracy and minimize backlash. \n\nADJUST THE SPOOL TENSION: \nThe spool tension knob, usually located on the side of the reel, controls the spool's rotation speed. Adjust it to prevent the spool from spinning too freely or creating backlash. Start with a slightly tighter setting and make adjustments as needed. \n\nRETRIEVE THE LINE: \nTurn the handle of the baitcasting reel to retrieve the line. Adjust the speed and rhythm of retrieval based on your fishing technique and the behavior of the fish. \n\nRemember, using a baitcasting reel requires practice and patience. Start with lighter lures and gradually move to heavier ones as you gain confidence and improve your casting skills. Pay attention to the brake system and spool tension to avoid backlash. Practice different casting techniques and adapt to different fishing conditions. Always follow local fishing regulations and guidelines.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What's the difference between a spinning reel and a casting reel?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"The main difference between a spinning reel and a casting reel lies in its design and function. \n\nSPINNING REEL: \nDesign: A spinning reel has a fixed, stationary spool parallel to the rod. The line is released from the spool by a rotating bail, which wraps the line aroun d the spool during retrieval. \n\nLine Release: The bail releases the line during casting, allowing it to flow freely off the spool without resistance. \n\nCasting Technique: Spinning reels are generally easier for beginners because they are more forgiving and less prone to backlash. They are well-suited for casting lighter lures or baits. \n\nLine Twist: Spinning reels have a reduced tendency for line twists due to the line coming off the spool in a controlled manner. \n\nRetrieval: Spinning reels are designed for smooth and efficient retrieval, wounding the line evenly onto the spool.\n\nCASTING REEL (BAITCASTING OR CONVENTIONAL REEL): \nDesign: A casting reel has a revolving spool that sits perpendicular to the rod. The spool rotates during both casting and retrieval. \n\nLine Release: Casting reels employ a braking system to control the rotation of the spool during casting, preventing backlash. The line is released by thumb pressure on the spool. \n\nCasting Technique: Baitcasting reels require more skill and practice to master. They are generally preferred for heavier lures or baits and offer greater accuracy and casting distance once proficiency is attained. \n\nLine Twist: Casting reels have a higher potential for line twists, especially if the spool rotates too fast or if backlash occurs. \n\nRetrieval: Casting reels provide more power and control during retrieval, making them suitable for handling larger fish or situations that require strong drag settings. \n\nIn summary, spinning reels are generally easier to use, offer smoother retrieval, and are well-suited for beginners or lighter fishing applications. On the other hand, casting reels provide greater casting accuracy and distance, increased power during retrieval, and are preferred for heavier lures or targeting larger fish. The choice between the two depends on personal preference, fishing style, and the specific requirements of the fishing situation.\"\n    }\n  },{\n    \"@type\": \"Question\",\n    \"name\": \"What are the pros and cons of a baitcaster?\",\n    \"acceptedAnswer\": {\n      \"@type\": \"Answer\",\n      \"text\": \"Baitcasting reels, also known as baitcasters or casting reels, offer several advantages and disadvantages compared to other types of fishing reels. Here are the pros and cons of using a bait caster: \n\nPROS: \nCasting Accuracy: Baitcasters provide greater casting accuracy, allowing anglers to precisely target specific areas, which makes them ideal for fishing in tight spaces or around structures. \n\nCasting Distance: Baitcasters can cast long distances, making them suitable for covering a larger area, such as fishing in open water or targeting distant targets. \n\nLine Strength and Control: Baitcasting reels can handle heavier lines and offer better control over the line, which makes them suitable for fishing with heavier lures or when targeting larger fish species that require more strength. \n\nPower and Drag: Baitcasters generally offer more power and stronger drag systems, allowing anglers to exert greater control over hooked fish during fights and landing. \n\nVersatility: Baitcasters can handle various fishing techniques, including flipping, pitching, and vertical jigging. They are commonly used for techniques such as bass fishing, trolling, and heavy-duty saltwater fishing. \n\nCONS: \nLearning Curve: Baitcasters have a steeper learning curve compared to spinning reels. They require practice and skill to cast effectively and avoid backlash, which is tangling the line on the spool. \n\nBacklash Potential: Baitcasters are more prone to backlash, especially when not properly adjusted or casting with improper technique. Backlash occurs when the spool rotates faster than the line being released, resulting in a tangled mess that requires manual untangling. \n\nLine Twist: Baitcasting reels can cause line twists if the line is not properly managed. Line twists can lead to tangles, reduced casting distance, and increased chances of breakage. \n\nHeavier and Bulkier: Baitcasting reels are generally heavier and bulkier than spinning reels, which can cause fatigue during long hours of casting and can be less comfortable for some anglers. \n\nCost: Baitcasters are more expensive than spinning reels, especially for high-quality models, which can deter anglers on a tight budget. Overall, baitcasting reels offer greater control, accuracy, and power but require more skill and practice to use effectively. They are well-suited for anglers who prioritize precision casting, use heavier lines or lures, and are willing to invest time in mastering the technique.\"\n    }\n  }]\n}\n</script>"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "8b479eec-2679-4338-a451-eb21d4a06fa2",
+    "a4760cf1-7680-4691-8047-afcb3edf36a7",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "a579779a-a1ee-48b9-8376-ba360cf06364",
+    "c2484173-e5e6-49de-b1fd-59b7d04738cf"
+  ]
+}

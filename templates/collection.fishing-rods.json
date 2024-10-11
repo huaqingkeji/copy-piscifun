@@ -1,0 +1,239 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1660047482ae847c78": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 400,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "Fish with family",
+        "title": "Spinning reels",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p>Special offer: pc10</p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_image_behind_heading": true,
+        "heading_image_height": "medium",
+        "overlay_style": "shadow",
+        "coll_num_per_page_int": 24,
+        "grid": 4,
+        "show_vendor": false,
+        "show_total": false,
+        "coll_desc_pos": "above",
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": false,
+        "collapse_filters_method": "over-12",
+        "show_filter_counts": false,
+        "show_disabled_filters": true,
+        "ajax_products": true,
+        "enable_sticky_filter": true,
+        "filter_two_columns": false,
+        "coll_show_sort": true,
+        "coll_show_feat": false,
+        "enable_subcoll": true,
+        "subcoll_menu": "main-menu",
+        "subcoll_style": "buttons",
+        "subcoll_gall_shape": "sq",
+        "image_position": "center center",
+        "subcoll_gall_enable_margin": true,
+        "subcoll_gall_full_width": false,
+        "subcoll_gall_overlay_style": "shadow",
+        "subcoll_gall_text_alignment": "center center",
+        "subcoll_gall_mobile_layout": "2"
+      }
+    },
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "other fishing gear",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__22ffaa84-c48d-41bd-a7c5-5b26ee84d414-heading-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264": {
+      "type": "gallery",
+      "blocks": {
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/fishing_reels_ec37af3b-fe82-49b6-b687-00bae38a1c3b.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "fishing reels",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/spinning_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "spinning reels",
+            "button_label": "",
+            "link": "shopify://collections/spinning-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/casting_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "casting reels",
+            "button_label": "",
+            "link": "shopify://collections/baitcasting-reel",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ice_fishing_reels.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ice fishing reel",
+            "button_label": "",
+            "link": "shopify://collections/ice-fishing-reel",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-1",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-2",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-3",
+        "template--14444643319877__ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 260,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Buyers Guide for Fishing Rods",
+            "answer": "<p>Consider power, action, length, composition, and construction when evaluating a fishing pole. You can measure casting, spinning, or <a href=\"https://www.piscifun.com/collections/fly-rods\" target=\"_blank\" title=\"Fly Fishing Rods\">fly fishing rods</a> against the same criteria.</p><h5><strong>Power:</strong> </h5><p>The power of the rod indicates how strong it is. A heavy power rod will cast heavier lures or bait and has the backbone to stand up to large fish. Therefore, the angler must match the rod's power to the size of the lures, pound test of the fishing line, and species. Many anglers prefer medium-light or medium-power rods for trout fishing rods. The best bass fishing rods tend to be medium power or medium heavy if you throw heavy swim baits. For small fish, use a light or ultralight power rod. At the other extreme, <a href=\"https://www.piscifun.com/collections/saltwater-rods\" target=\"_blank\" title=\"Saltwater Rods\">saltwater fishing rods</a> are typically medium heavy or heavy given the size of the lures, bait, and the large fish commonly targeted. Lighter power rods are also more sensitive, allowing the angler to detect a light bite. Cheap fishing rods typically tend to be less sensitive. When in doubt, select a medium-power fishing rod since it is the most versatile choice.</p><h5><strong>Action:</strong> </h5><p>The action of a fishing pole measures where the rod bends. A slow-action fishing rod bends near the reel, while a fast action bends near the tip. Fast action rods are more sensitive than slow action and should be used when the angler expects a light take. </p><h5><strong>Length:</strong> </h5><p>A longer rod will cast farther, but shorter rods are more accurate. Go short if fishing around a complex structure where a precise cast will produce the most fish (logs, brush, rocks in a small stream). If the fish are skittish and could scatter if you get too close, go with a long rod. In addition, an extended cast will keep the lure in the water longer, potentially exposing it to more fish.</p><h5><strong>Composition:</strong> </h5><p>Rod materials include fiberglass, graphite, carbon fiber, and composite mixes like graphite and fiberglass. Each has a different behavior characteristic. For example, fiberglass is almost indestructible, while graphite is light and sensitive. Blended combinations of graphite and fiberglass try to strike a balance. A carbon fiber fishing pole is more lightweight than graphite and more durable. Fiberglass rods tend to be heavy, with the extra weight demanding the angler's wrist and arm. Higher modulus ratings for graphite and carbon fiber indicate a lighter and more sensitive rod. The minimum modulus for a quality carbon fiber blank is IM6 (24 tons). IM7 (30 tons) is better. Cheap fishing rods do not use carbon fiber!</p><h5><strong>Construction:</strong> </h5><p>Once you pick your fishing rod – whether it is a bass fishing rod, catfish fishing rod, or fly fishing rod - look at the other details! The fishing pole should have a reinforced reel lockup and high-quality rod guides – one for every foot of length. The guides should be stainless steel with either zirconium or titanium oxide inserts. Given their reputation for quality, select rods with Fuji components, especially Fuji \"O\" style inserts. Make sure the rod has a hook keeper! </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__af7d6f58-dee2-433a-b5fa-689d10353a1a-question-1"
+      ],
+      "settings": {
+        "title": "learn more about FISHING RODS"
+      }
+    },
+    "40381929-a311-47da-9077-863038fbef00": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What are the best fishing rod types for beginners?",
+            "answer": "<p>The best fishing rod type for beginner anglers is usually a Two Piece <a href=\"https://www.piscifun.com/collections/spinning-rods\" target=\"_blank\" title=\"Spinning Rods\">Spinning Style Rod</a>. This rod style allows for versatility and ease of transportation and will not be so expensive that a new user is worried about ruining their investment. As you gain more experience and feel comfortable, you can expand into One Piece and <a href=\"https://www.piscifun.com/collections/casting-rods\" target=\"_blank\" title=\"Casting Rods\">Casting Rods</a>.</p>"
+          }
+        },
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Does the rod matter when fishing?",
+            "answer": "<p>Yes, when fishing, your rod is critical in helping you catch more fish. You want a rod that matches the style of fishing that you are doing. Some rods offer a heavier action, which is meant for bigger species of fish, while others are lighter action designed for smaller species of fish. The best thing is to research the species you are after and select the rod that best fits your fishing scenario.</p>"
+          }
+        },
+        "c720830f-7ab2-4c7e-a583-50ac80acb57e": {
+          "type": "question",
+          "settings": {
+            "title": "What is the average cost of a fishing rod?",
+            "answer": "<p>The cost of a fishing rod can vary significantly depending on various factors such as brand, materials used, length, quality, and intended use. This is a wide range of fishing rods available on the market to suit different budgets and preferences.</p><p>At the lower end of the spectrum, you can find basic fishing rods priced around $20 to $50. These are typically entry-level rods made from affordable materials like fiberglass or low-grade graphite. They may offer a different level of sensitivity, durability, or performance than higher-end options but can still be suitable for casual or occasional fishing.</p><p>In the mid-range, fishing rods can cost anywhere from $50 to $200. These rods often offer a better balance between affordability and quality. They are constructed with better materials, such as higher-grade graphite or composite blends, which provide improved sensitivity and strength. They may also have features specific to certain fishing techniques or target species.</p><p>High-end fishing rods can range from $200 to several hundred or even thousands of dollars. These premium rods are typically made from high-quality materials like carbon fiber or advanced composites. They are designed with advanced technology, precision engineering, and superior craftsmanship, resulting in excellent performance, sensitivity, and durability. High-end rods are often favored by professional anglers or those who demand the best performance and are willing to invest in top-of-the-line equipment.</p>"
+          }
+        },
+        "6ed71705-ebaf-484e-88ec-66c5a3c740e2": {
+          "type": "question",
+          "settings": {
+            "title": "What are the best rods for lure fishing?",
+            "answer": "<h5><a href=\"https://www.piscifun.com/collections/spinning-rods\" target=\"_blank\" title=\"Spinning Rods\">Spinning Rods</a>: </h5><p>Spinning rods are commonly used for fishing with lightweight lures and finesse techniques. They are versatile and suitable for a wide range of lures, including soft plastics, spinners, spoons, and small crankbaits.</p><h5><br/><a href=\"https://www.piscifun.com/collections/casting-rods\" target=\"_blank\" title=\"Casting Rods\">Baitcasting Rods</a>: </h5><p>Baitcasting rods are popular for casting heavier lures and targeting larger fish. They offer greater accuracy and control, especially when using techniques like flipping, pitching, or working with heavier jigs, crankbaits, and topwater lures.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-1",
+        "template--14444643319877__40381929-a311-47da-9077-863038fbef00-question-2",
+        "c720830f-7ab2-4c7e-a583-50ac80acb57e",
+        "6ed71705-ebaf-484e-88ec-66c5a3c740e2"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    }
+  },
+  "order": [
+    "1660047482ae847c78",
+    "main",
+    "22ffaa84-c48d-41bd-a7c5-5b26ee84d414",
+    "ec3f0e83-bdcf-4cdb-8d67-3dc8c4502264",
+    "af7d6f58-dee2-433a-b5fa-689d10353a1a",
+    "40381929-a311-47da-9077-863038fbef00"
+  ]
+}

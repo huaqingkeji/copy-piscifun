@@ -1,0 +1,296 @@
+{%- assign aa_section_id = section.id | split: '__' -%}
+{%- assign aa_section_id = aa_section_id[1] -%}
+{%- assign aa_section_id = aa_section_id | replace: '-', '_' -%}
+
+<style>
+  #shopify-section-{{ section.id }} .aa-cp-s11 {
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    background-color: #000;
+    overflow: hidden;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-image {
+    margin-bottom: 30px;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-title,
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-price {
+    font-weight: 600;
+    text-wrap: nowrap;
+    padding: 10px 0 10px 10px;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-title {
+    font-size: {{ section.settings.model_size }};
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-price {
+    font-size: {{ section.settings.price_size }};
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-parameter {
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-parameter table {
+    border-collapse: collapse;
+    margin: 0;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-parameter table td {
+    padding: 5px 0 5px 10px;
+    font-size: {{ section.settings.parameter_size }};
+    color: #ccc;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-parameter table tr:not(:last-child) td {
+    border-bottom: 1px solid #333;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-image img {
+    max-width: 80%;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-button {
+    text-align: left;
+  }
+  #shopify-section-{{ section.id }} .aa-cp-s11 .aa-button a {
+    display: inline-block;
+    padding: 5px 30px;
+    margin-top: 15px;
+    font-size: {{ section.settings.button_size }};
+    font-weight: 700;
+    color: inherit;
+    background-color: #9921CF;
+    text-decoration: none;
+  }
+
+  @media screen and (min-width: 768px) {
+    #shopify-section-{{ section.id }} .aa-cp-s11 {
+      padding: 100px;
+    }
+    #shopify-section-{{ section.id }} .hover-1 tr:nth-child(1) td,
+    #shopify-section-{{ section.id }} .hover-2 tr:nth-child(2) td,
+    #shopify-section-{{ section.id }} .hover-3 tr:nth-child(3) td,
+    #shopify-section-{{ section.id }} .hover-4 tr:nth-child(4) td,
+    #shopify-section-{{ section.id }} .hover-5 tr:nth-child(5) td,
+    #shopify-section-{{ section.id }} .hover-6 tr:nth-child(6) td,
+    #shopify-section-{{ section.id }} .hover-7 tr:nth-child(7) td,
+    #shopify-section-{{ section.id }} .hover-8 tr:nth-child(8) td,
+    #shopify-section-{{ section.id }} .hover-9 tr:nth-child(9) td,
+    #shopify-section-{{ section.id }} .hover-10 tr:nth-child(10) td,
+    #shopify-section-{{ section.id }} .hover-11 tr:nth-child(11) td,
+    #shopify-section-{{ section.id }} .hover-12 tr:nth-child(12) td
+    {
+      color: #000;
+      background-color: #fff;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s11 .aa-parameter table tr:last-child {
+      line-height: 1;
+      height: 65px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    #shopify-section-{{ section.id }} .aa-cp-s11 {
+      padding: 60px 0 30px 0;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s11 .swiper {
+      padding: 0 10px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-image {
+      margin-left: 10px;
+      margin-bottom: 10px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-title {
+      font-size: {{ section.settings.model_size_mobile }};
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s11 .aa-item .aa-price {
+      font-size: {{ section.settings.price_size_mobile }};
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s11 .aa-parameter table td {
+      font-size: {{ section.settings.parameter_size_mobile }};
+      padding: 0 30px 0 10px;
+      line-height: 1;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s11 .aa-parameter tr:last-child td {
+      padding: 2px 30px 2px 10px;
+    }
+    #shopify-section-{{ section.id }} .aa-cp-s11 .aa-button a {
+      font-size: {{ section.settings.button_size_mobile }};
+    }
+  }
+</style>
+
+<div class="aa-section aa-cp-s11">
+  <div class="swiper">
+    <div class="swiper-wrapper">
+      {%- for block in section.blocks -%}
+        <div class="swiper-slide">
+          <div class="aa-item" {{ settings.item_animate }}>
+            {%- if block.settings.image != blank -%}
+              <div class="aa-image">
+                {%- if block.settings.link != blank -%}<a href="{{ block.settings.link }}">{%- endif -%}
+                <img src="{{ block.settings.image | img_url: 'master' }}">
+                {%- if block.settings.link != blank -%}</a>{%- endif -%}
+              </div>
+            {%- endif -%}
+            {%- if block.settings.model != blank -%}
+              <div class="aa-title">{{ block.settings.model | escape }}</div>
+            {%- endif -%}
+            {%- if block.settings.parameter != blank -%}
+              <div class="aa-parameter">{{ block.settings.parameter }}</div>
+            {%- endif -%}
+            {%- if block.settings.price != blank -%}
+              <div class="aa-price">{{ block.settings.price | escape }}</div>
+            {%- endif -%}
+            {%- if section.settings.show_button and section.settings.button != blank and block.settings.link != blank -%}
+              <div class="aa-button" {{ settings.item_animate }}>
+                <a href="{{ block.settings.link }}">{{ section.settings.button | escape }}</a>
+              </div>
+            {%- endif -%}
+          </div>
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</div>
+
+<script>
+  var swiper_{{ aa_section_id }} = new Swiper("#shopify-section-{{ section.id }} .swiper", {
+    slidesPerView: 4,
+    spaceBetween: 0,
+    breakpoints: { 
+      270: {
+        slidesPerView: 1.5,
+        spaceBetween: 0
+      },
+      768: {
+        slidesPerView: 4,
+        spaceBetween: 0
+      }
+    }
+  });
+
+  (function($) {
+   
+    {% comment %}
+    $('#shopify-section-{{ section.id }} .aa-parameter tr').hover(function() {
+      var index = $(this).index() + 1;
+      $('#shopify-section-{{ section.id }} .aa-cp-s11').addClass('hover-' + index);
+    }, function() {
+      var index = $(this).index() + 1;
+      $('#shopify-section-{{ section.id }} .aa-cp-s11').removeClass('hover-' + index);
+    });
+    {% endcomment %}
+    
+  })(jQuery);
+</script>
+
+{% schema %}
+{
+  "name": "AA CP S11",
+  "limit": 1,
+  "settings": [
+    {
+      "type": "text",
+      "id": "model_size",
+      "label": "Model size",
+      "default": "16px"
+    },
+    {
+      "type": "text",
+      "id": "model_size_mobile",
+      "label": "Model size (mobile)",
+      "default": "16px"
+    },
+    {
+      "type": "text",
+      "id": "price_size",
+      "label": "Price size",
+      "default": "16px"
+    },
+    {
+      "type": "text",
+      "id": "price_size_mobile",
+      "label": "Price size (mobile)",
+      "default": "16px"
+    },
+    {
+      "type": "text",
+      "id": "parameter_size",
+      "label": "Parameter size",
+      "default": "14px"
+    },
+    {
+      "type": "text",
+      "id": "parameter_size_mobile",
+      "label": "Parameter size (mobile)",
+      "default": "14px"
+    },
+        {
+          "type": "checkbox",
+          "id": "show_button",
+          "label": "Show button",
+          "default": false
+        },
+        {
+          "type": "text",
+          "id": "button",
+          "label": "Button",
+          "default": "SHOP NOW"
+        },
+        {
+          "type": "text",
+          "id": "button_size",
+          "label": "Button size",
+          "default": "26px"
+        },
+        {
+          "type": "text",
+          "id": "button_size_mobile",
+          "label": "Button size (mobile)",
+          "default": "14px"
+        }
+  ],
+  "blocks": [
+    {
+      "type": "block",
+      "name": "Block",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "model",
+          "label": "Model",
+          "default": "Carbon X II"
+        },
+        {
+          "type": "html",
+          "id": "parameter",
+          "label": "Parameter",
+          "info": "Parameter table generator tool: https://tableconvert.com/zh-cn/html-generator"
+        },
+        {
+          "type": "text",
+          "id": "price",
+          "label": "Price",
+          "default": "$79.99"
+        },
+        {
+          "type": "text",
+          "id": "link",
+          "label": "Link",
+          "default": "/"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "AA CP S11"
+    }
+  ]
+}
+{% endschema %}

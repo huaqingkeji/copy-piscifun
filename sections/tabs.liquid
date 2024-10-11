@@ -1,0 +1,39 @@
+<div>
+  {% for block in section.blocks %}
+    {{ block.settings.page.content }}
+  {% endfor %}
+</div>
+
+
+{% schema %}
+  {
+    "name": "Section name",
+    "blocks": [
+      {
+        "type": "page",
+        "name": "Page",
+        "settings": [
+          {
+            "type": "page",
+            "id": "page",
+            "label": "Page"
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Page Tabs",
+        "settings": {
+        },
+        "blocks": [
+        ]
+      }
+    ]
+  }
+{% endschema %}

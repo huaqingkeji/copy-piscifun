@@ -1,0 +1,585 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "cefdd277-8bdc-4b2e-9df7-baa524118c94": {
+      "type": "aa-cp-s12",
+      "blocks": {
+        "42fbc25f-d612-4f8a-889d-6c13ccef69ec": {
+          "type": "block",
+          "settings": {
+            "img": "shopify://shop_images/1920x1190_3f836b8d-4a8d-4e34-b8b4-d4abc415f596.jpg",
+            "img_m": "shopify://shop_images/0f5ba9fc23a945908e9007bd79ced183_152db900-f64d-4f51-9596-e7cc48e235c3.jpg",
+            "link": "https://www.piscifun.com/collections/all"
+          }
+        },
+        "ebc91260-f660-4e09-9c0d-6a8e52f6e289": {
+          "type": "block",
+          "settings": {
+            "img": "shopify://shop_images/930x379_748d9663-f480-4834-b7e9-ba8ac985ae24.jpg",
+            "img_m": "shopify://shop_images/930x379_748d9663-f480-4834-b7e9-ba8ac985ae24.jpg",
+            "link": "https://www.piscifun.com/collections/for-ice-fishing"
+          }
+        },
+        "039e57f9-4861-45d6-9d8d-afa1abf4d644": {
+          "type": "block",
+          "settings": {
+            "img": "shopify://shop_images/620x253_da41aa26-92cb-4242-ab59-af79eef4ec73.jpg",
+            "img_m": "shopify://shop_images/620x253_da41aa26-92cb-4242-ab59-af79eef4ec73.jpg",
+            "link": "https://www.piscifun.com/collections/clearance-promo"
+          }
+        },
+        "e2c9dc74-890c-4f50-aabb-2ac6580283a6": {
+          "type": "block",
+          "settings": {
+            "img": "shopify://shop_images/620x253_24d8ff21-f30b-43bb-84f7-41402ae51a8c.jpg",
+            "img_m": "shopify://shop_images/620x253_24d8ff21-f30b-43bb-84f7-41402ae51a8c.jpg",
+            "link": "https://www.piscifun.com/collections/up-to-9-99"
+          }
+        }
+      },
+      "block_order": [
+        "42fbc25f-d612-4f8a-889d-6c13ccef69ec",
+        "ebc91260-f660-4e09-9c0d-6a8e52f6e289",
+        "039e57f9-4861-45d6-9d8d-afa1abf4d644",
+        "e2c9dc74-890c-4f50-aabb-2ac6580283a6"
+      ],
+      "settings": {
+        "heading": "Easy-on & Easy-off"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "7511b3c0-3562-4404-8228-e48bce8fb23f": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Flash Sale",
+        "collection": "flash-sale-online",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "a6af4fed-ebc1-4c00-83df-842739657419": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BEST-SELLING FISHING GEAR",
+        "collection": "best-top-product",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": false
+      }
+    },
+    "76a40ff4-566c-4634-add3-4f7bc60e039f": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14822713688133__76a40ff4-566c-4634-add3-4f7bc60e039f-image-1": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14822713688133__76a40ff4-566c-4634-add3-4f7bc60e039f-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Two line\nslide heading",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14822713688133__76a40ff4-566c-4634-add3-4f7bc60e039f-image-1",
+        "template--14822713688133__76a40ff4-566c-4634-add3-4f7bc60e039f-image-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "f3312aba-31a9-4ed8-bc75-17f1f5604870": {
+      "type": "gallery",
+      "blocks": {
+        "template--14822713688133__f3312aba-31a9-4ed8-bc75-17f1f5604870-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_7a8fece6-c382-4e22-93df-7a011d662c66.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "Freshwater Fishing",
+            "button_label": "",
+            "link": "shopify://collections/freshwater-fishing-gear",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14822713688133__f3312aba-31a9-4ed8-bc75-17f1f5604870-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2_beceab1c-2fc4-405f-b191-6ff0b87e9597.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "Saltwater Fishing",
+            "button_label": "",
+            "link": "shopify://collections/saltwater-fishing-gear",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14822713688133__f3312aba-31a9-4ed8-bc75-17f1f5604870-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3_1568ecec-cb40-41c4-ab47-116407a38e3d.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "Ice Fishing",
+            "button_label": "",
+            "link": "shopify://collections/for-ice-fishing",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14822713688133__f3312aba-31a9-4ed8-bc75-17f1f5604870-image-1",
+        "template--14822713688133__f3312aba-31a9-4ed8-bc75-17f1f5604870-image-2",
+        "template--14822713688133__f3312aba-31a9-4ed8-bc75-17f1f5604870-image-3"
+      ],
+      "settings": {
+        "grid": 3,
+        "desktop_image_height": 200,
+        "mobile_image_height": 140,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "5e713101-20c1-4457-92ad-0f1b655b180d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14822713688133__5e713101-20c1-4457-92ad-0f1b655b180d-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/0303-Piscifun-Carbon_X-1cc-V1.1.gif",
+            "mobile_image": "shopify://shop_images/Piscifun-Carbon_X_Spinning_Reel-M_6.gif",
+            "image_position": "center center",
+            "mobile_image_position": "center center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "",
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "SHOP NOW",
+            "button_url_1": "https://www.piscifun.com/products/piscifun-carbon-x-lightest-carbon-spinning-reel",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "bottom center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14822713688133__5e713101-20c1-4457-92ad-0f1b655b180d-image-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow",
+        "slide_transition": "fade",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "a2a12009-be78-494b-afc7-f008c65f2545": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14822713688133__a2a12009-be78-494b-afc7-f008c65f2545-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "SHOP BY CATEGORY",
+            "use_h1": false
+          }
+        },
+        "template--14822713688133__a2a12009-be78-494b-afc7-f008c65f2545-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14822713688133__a2a12009-be78-494b-afc7-f008c65f2545-heading-1",
+        "template--14822713688133__a2a12009-be78-494b-afc7-f008c65f2545-text-1"
+      ],
+      "custom_css": [
+        ".container {margin-top: 20px;}"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "d26a2ba4-09e1-42fe-a904-b972e0758e1f": {
+      "type": "gallery",
+      "blocks": {
+        "template--14822713688133__d26a2ba4-09e1-42fe-a904-b972e0758e1f-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Fishing_Reels_9c3242e0-a870-4a40-abbd-d8d29a1b6448.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "FISHING REELS",
+            "button_label": "",
+            "link": "shopify://collections/reels",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14822713688133__d26a2ba4-09e1-42fe-a904-b972e0758e1f-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/800-1020_cafeecfd-fce1-4ed2-83be-b48705ea6faa.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "FISHING RODS",
+            "button_label": "",
+            "link": "shopify://collections/rods",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14822713688133__d26a2ba4-09e1-42fe-a904-b972e0758e1f-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Fishing_Tools_caac3831-5ff5-48d4-b676-001ebd06b30a.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "FISHING TOOLS",
+            "button_label": "",
+            "link": "shopify://collections/tools",
+            "text_alignment": "center center"
+          }
+        },
+        "template--14822713688133__d26a2ba4-09e1-42fe-a904-b972e0758e1f-image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/800-1020-2_c1df03b5-0205-4fe0-b2cd-4c0dadc29ef5.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "ALL BAGS",
+            "button_label": "",
+            "link": "shopify://collections/tackle-bag",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14822713688133__d26a2ba4-09e1-42fe-a904-b972e0758e1f-image-1",
+        "template--14822713688133__d26a2ba4-09e1-42fe-a904-b972e0758e1f-image-2",
+        "template--14822713688133__d26a2ba4-09e1-42fe-a904-b972e0758e1f-image-3",
+        "template--14822713688133__d26a2ba4-09e1-42fe-a904-b972e0758e1f-image-4"
+      ],
+      "settings": {
+        "grid": 4,
+        "desktop_image_height": 240,
+        "mobile_image_height": 240,
+        "title_size": 24,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "d693d3ec-c296-4b77-a0b2-b13276d4ced0": {
+      "type": "video",
+      "settings": {
+        "video": "https://youtu.be/BDBoYnJB3ws",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 76,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "text_alignment": "center center",
+        "image": "shopify://shop_images/Piscifun-Brand_story-_-3_af926f58-6e5b-4a86-9185-6e3eb8654e85_1.jpg",
+        "image_position": "center center",
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "58eecfdf-f3ed-4dc9-aade-049aa8711acf": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".container {margin-top: 20px;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/fish_with_family_c8465333-a5a8-4e60-84fb-52be0c77bd44.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "WHO IS PISCIFUN",
+        "use_h1": false,
+        "text": "<p>Pisci means fish in Latin. Piscifun means Fishing is Fun. We want customers to know that Piscifun is here to make fishing fun and affordable again so that the average angler can afford high-quality gear.</p><h6><strong>“Fish with Family”</strong></h6>",
+        "button_label": "Learn More",
+        "button_link": "https://www.piscifun.com/pages/about-us-piscifun",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "left",
+        "use_alt_bg": false
+      }
+    },
+    "57701604-4d36-4012-b121-0d0b3e4e468c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14822713688133__57701604-4d36-4012-b121-0d0b3e4e468c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "PISCIFUN PRO ANGLERS",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14822713688133__57701604-4d36-4012-b121-0d0b3e4e468c-heading-1"
+      ],
+      "custom_css": [
+        ".container {margin-top: 50px; margin-bottom: -30px;}"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "e44d8fe7-3096-4c9b-9735-11af2a4b298c": {
+      "type": "gallery",
+      "blocks": {
+        "template--14822713688133__e44d8fe7-3096-4c9b-9735-11af2a4b298c-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Max_Wilson_3dbb1129-69e1-4eea-8216-e66db2da09e3.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Max Wilson is a full time professional fishing guide and touring professional walleye angler.",
+            "title": "Max Wilson",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "template--14822713688133__e44d8fe7-3096-4c9b-9735-11af2a4b298c-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Caleb_Kuphall_8ca47420-1d2c-4e7c-abd6-26708fc27792.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Life for Caleb revolves around fishing. When not competing, he works as a fishing guide covering 30 lakes.",
+            "title": "Caleb kuphall",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14822713688133__e44d8fe7-3096-4c9b-9735-11af2a4b298c-image-1",
+        "template--14822713688133__e44d8fe7-3096-4c9b-9735-11af2a4b298c-image-2"
+      ],
+      "settings": {
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "01f1ddb6-e834-4a77-85e3-487906aef358": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Blog posts",
+        "blog": "fishing-tips",
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": false,
+        "show_excerpts": true,
+        "crop_ratio": "1.78"
+      }
+    },
+    "90318129-ff6e-4f8a-8543-345369e95359": {
+      "type": "testimonials",
+      "blocks": {
+        "template--14822713688133__90318129-ff6e-4f8a-8543-345369e95359-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I was looking for a new reel to pair with a rod I recently purchased. I have ordered piscifun reels before and have had a great experience with them....",
+            "author": "",
+            "image": "shopify://shop_images/1_d3197afd-4618-4da4-9b94-1de4ef579875.jpg",
+            "image_alignment": "top left",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "template--14822713688133__90318129-ff6e-4f8a-8543-345369e95359-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I am some what of a reel snob as my others are Pflueger Presidentials, but decided to try one of these Piscifun reels due to reviews on both Piscifun & Youtube. After a couple months of use, I can say that the value is outstanding.",
+            "author": "",
+            "image": "shopify://shop_images/3_1e3200a4-7e38-4d30-90dc-2f7aecd4d0ac.jpg",
+            "image_alignment": "top left",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "a412a07f-371a-471d-959c-adab07e8d67b": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "I have a few piscifun reels, couple alloy M bait casters, phantom x, etc. Very pleased with the Alloy Ms. As long as you stay with their \"higher end\" models, I don't think you'll be disappointed.",
+            "author": "",
+            "image": "shopify://shop_images/2_7b240a8f-f97d-43ed-8fe6-8c7d67ff45aa.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14822713688133__90318129-ff6e-4f8a-8543-345369e95359-testimonial-1",
+        "template--14822713688133__90318129-ff6e-4f8a-8543-345369e95359-testimonial-2",
+        "a412a07f-371a-471d-959c-adab07e8d67b"
+      ],
+      "custom_css": [
+        ".container {margin-top: 20px;}"
+      ],
+      "settings": {
+        "title": "Customer reviews",
+        "layout": "image-left",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "beb0e699-667f-4236-a2a6-c2b03e62549c": {
+      "type": "newsletter",
+      "custom_css": [
+        ".container {margin-top: 20px;}"
+      ],
+      "settings": {
+        "title": "Subscribe to our newsletter",
+        "subheading": "<p>Promotions, new products and sales. Directly to your inbox.</p>",
+        "color_bg": "#000000"
+      }
+    }
+  },
+  "order": [
+    "cefdd277-8bdc-4b2e-9df7-baa524118c94",
+    "main",
+    "7511b3c0-3562-4404-8228-e48bce8fb23f",
+    "a6af4fed-ebc1-4c00-83df-842739657419",
+    "76a40ff4-566c-4634-add3-4f7bc60e039f",
+    "f3312aba-31a9-4ed8-bc75-17f1f5604870",
+    "5e713101-20c1-4457-92ad-0f1b655b180d",
+    "a2a12009-be78-494b-afc7-f008c65f2545",
+    "d26a2ba4-09e1-42fe-a904-b972e0758e1f",
+    "d693d3ec-c296-4b77-a0b2-b13276d4ced0",
+    "58eecfdf-f3ed-4dc9-aade-049aa8711acf",
+    "57701604-4d36-4012-b121-0d0b3e4e468c",
+    "e44d8fe7-3096-4c9b-9735-11af2a4b298c",
+    "01f1ddb6-e834-4a77-85e3-487906aef358",
+    "90318129-ff6e-4f8a-8543-345369e95359",
+    "beb0e699-667f-4236-a2a6-c2b03e62549c"
+  ]
+}
