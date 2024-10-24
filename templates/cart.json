@@ -109,12 +109,29 @@
       "settings": {
         "full_width": false
       }
+    },
+    "172976957767088ff4": {
+      "type": "apps",
+      "blocks": {
+        "weebe_cart_upsell_YR4fUt": {
+          "type": "shopify://apps/weebe/blocks/cart_upsell/45af0729-9c15-413f-8564-1f6c8c567954",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "weebe_cart_upsell_YR4fUt"
+      ],
+      "settings": {
+        "full_width": false
+      }
     }
   },
   "order": [
     "main",
     "1729754062a5f163df",
     "17297607426417a402",
-    "1729762903caeab346"
+    "1729762903caeab346",
+    "172976957767088ff4"
   ]
 }

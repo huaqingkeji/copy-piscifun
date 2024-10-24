@@ -1379,12 +1379,6 @@
           "icu-ajax-cart-refresh-code": ""
         }
       },
-      "13672250894428551832": {
-        "type": "shopify://apps/qikify-slide-cart/blocks/app-embed/39da5d6e-3e04-4687-bc69-e23fafb93294",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "10112818894266855621": {
         "type": "shopify://apps/ufe-cross-sell-upsell-bundle/blocks/app-embed/588d2ac5-62f3-4ccd-8638-da98ec61fa90",
         "disabled": false,
