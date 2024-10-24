@@ -444,22 +444,6 @@
     },
     "172610539727d028c0": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_VNzCm9": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_VNzCm9"
-      ],
       "settings": {
         "full_width": false
       }
@@ -469,6 +453,22 @@
       "settings": {
         "full_width": true,
         "code": "<script data-lyvecom async src=\"https://dashboard.lyvecom.com/widget/widget.js\"></script>\n        <script>\n        (() => {\n            const scriptElement = document.querySelector('script[data-lyvecom]');\n            scriptElement.addEventListener('load', () => {\n                LyveComWidget.mount({\n                    account: '66f134f790fe3f14bae349ff',\n                    lng: 'en',\n                    position: 'left',\n                    positionLeft: '0',\n                    positionBottom: '0'\n                });\n        })})()\n        </script>"
+      }
+    },
+    "17297540259e302c5c": {
+      "type": "apps",
+      "blocks": {
+        "wiser_product_recommendations_wiser_fbt_4jNezm": {
+          "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_fbt/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "wiser_product_recommendations_wiser_fbt_4jNezm"
+      ],
+      "settings": {
+        "full_width": false
       }
     }
   },
@@ -487,6 +487,7 @@
     "0eeca3ff-eed2-4051-84ae-6b1459a1b6bc",
     "1726103707502078b1",
     "172610539727d028c0",
-    "custom_liquid_YMJF7H"
+    "custom_liquid_YMJF7H",
+    "17297540259e302c5c"
   ]
 }

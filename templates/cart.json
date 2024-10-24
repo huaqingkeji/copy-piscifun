@@ -12,10 +12,65 @@
     "main": {
       "type": "main-cart",
       "settings": {
+        "show_page_title": true,
+        "enable_cart_notes": true,
+        "show_tax_and_shipping": true,
+        "cart_terms_page": "",
+        "show_additional_checkout_buttons": true,
+        "show_backorder_text": true,
+        "show_shipping_calculator": false,
+        "shipping_calculator_default_country": "United States"
+      }
+    },
+    "1729754062a5f163df": {
+      "type": "apps",
+      "blocks": {
+        "wiser_product_recommendations_wiser_featured_KPMaCw": {
+          "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_featured/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "settings": {
+          }
+        },
+        "wiser_product_recommendations_wiser_fbt_RcBfXe": {
+          "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_fbt/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "settings": {
+          }
+        },
+        "wiser_product_recommendations_wiser_recent_purchased_recom_JCCxbn": {
+          "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_recent_purchased_recom/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "settings": {
+          }
+        },
+        "wiser_product_recommendations_wiser_recommended_8wWPFk": {
+          "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_recommended/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "settings": {
+          }
+        },
+        "wiser_product_recommendations_wiser_related_a39WNj": {
+          "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_related/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "settings": {
+          }
+        },
+        "wiser_product_recommendations_wiser_topselling_JpE6ND": {
+          "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_topselling/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "wiser_product_recommendations_wiser_featured_KPMaCw",
+        "wiser_product_recommendations_wiser_fbt_RcBfXe",
+        "wiser_product_recommendations_wiser_recent_purchased_recom_JCCxbn",
+        "wiser_product_recommendations_wiser_recommended_8wWPFk",
+        "wiser_product_recommendations_wiser_related_a39WNj",
+        "wiser_product_recommendations_wiser_topselling_JpE6ND"
+      ],
+      "settings": {
+        "full_width": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1729754062a5f163df"
   ]
 }
