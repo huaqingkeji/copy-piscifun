@@ -97,15 +97,14 @@
     "1729762903caeab346": {
       "type": "apps",
       "blocks": {
-        "monk_embedded_cart_page_any_ax39Ez": {
-          "type": "shopify://apps/monk/blocks/embedded-cart-page-any/e949adb6-87ca-4b97-8f31-0e51bf507f2d",
+        "qikify_upsell_gift_cart_widget_piA8ft": {
+          "type": "shopify://apps/qikify-upsell-gift/blocks/cart_widget/2e94b962-8172-4839-8ad9-7837eb8b017a",
           "settings": {
-            "widget_id": ""
           }
         }
       },
       "block_order": [
-        "monk_embedded_cart_page_any_ax39Ez"
+        "qikify_upsell_gift_cart_widget_piA8ft"
       ],
       "settings": {
         "full_width": false
