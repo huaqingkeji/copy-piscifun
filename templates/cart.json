@@ -67,10 +67,30 @@
       "settings": {
         "full_width": false
       }
+    },
+    "17297607426417a402": {
+      "type": "apps",
+      "blocks": {
+        "in_cart_upsell_cart_app_block_chDRWy": {
+          "type": "shopify://apps/in-cart-upsell/blocks/cart_app_block/6a252f23-8726-4893-8b3b-1ae15957efc3",
+          "settings": {
+            "icu-cart-selector": "",
+            "icu-cart-action": "before",
+            "icu-cart-refresh-code": ""
+          }
+        }
+      },
+      "block_order": [
+        "in_cart_upsell_cart_app_block_chDRWy"
+      ],
+      "settings": {
+        "full_width": false
+      }
     }
   },
   "order": [
     "main",
-    "1729754062a5f163df"
+    "1729754062a5f163df",
+    "17297607426417a402"
   ]
 }
