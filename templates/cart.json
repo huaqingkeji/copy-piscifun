@@ -79,6 +79,7 @@
       "blocks": {
         "in_cart_upsell_cart_app_block_chDRWy": {
           "type": "shopify://apps/in-cart-upsell/blocks/cart_app_block/6a252f23-8726-4893-8b3b-1ae15957efc3",
+          "disabled": true,
           "settings": {
             "icu-cart-selector": "",
             "icu-cart-action": "before",
@@ -92,11 +93,29 @@
       "settings": {
         "full_width": false
       }
+    },
+    "1729762903caeab346": {
+      "type": "apps",
+      "blocks": {
+        "monk_embedded_cart_page_any_ax39Ez": {
+          "type": "shopify://apps/monk/blocks/embedded-cart-page-any/e949adb6-87ca-4b97-8f31-0e51bf507f2d",
+          "settings": {
+            "widget_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "monk_embedded_cart_page_any_ax39Ez"
+      ],
+      "settings": {
+        "full_width": false
+      }
     }
   },
   "order": [
     "main",
     "1729754062a5f163df",
-    "17297607426417a402"
+    "17297607426417a402",
+    "1729762903caeab346"
   ]
 }
