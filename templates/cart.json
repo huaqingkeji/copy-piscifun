@@ -27,31 +27,37 @@
       "blocks": {
         "wiser_product_recommendations_wiser_featured_KPMaCw": {
           "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_featured/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "disabled": true,
           "settings": {
           }
         },
         "wiser_product_recommendations_wiser_fbt_RcBfXe": {
           "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_fbt/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "disabled": true,
           "settings": {
           }
         },
         "wiser_product_recommendations_wiser_recent_purchased_recom_JCCxbn": {
           "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_recent_purchased_recom/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "disabled": true,
           "settings": {
           }
         },
         "wiser_product_recommendations_wiser_recommended_8wWPFk": {
           "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_recommended/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "disabled": true,
           "settings": {
           }
         },
         "wiser_product_recommendations_wiser_related_a39WNj": {
           "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_related/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "disabled": true,
           "settings": {
           }
         },
         "wiser_product_recommendations_wiser_topselling_JpE6ND": {
           "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_topselling/3f966edc-9a4a-465c-a4df-436d2a39160d",
+          "disabled": true,
           "settings": {
           }
         }
