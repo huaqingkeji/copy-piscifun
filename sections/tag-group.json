@@ -8,8 +8,8 @@
  * ------------------------------------------------------------
  */
 {
-  "type": "header",
-  "name": "Group name",
+  "type": "custom.tabs",
+  "name": "Group Tabs",
   "sections": {},
   "order": []
 }
