@@ -1303,39 +1303,32 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "9468172321995857178": {
         "type": "shopify://apps/qikify-upsell-bundle/blocks/app-embed/2e94b962-8172-4839-8ad9-7837eb8b017a",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "7609861849053656801": {
         "type": "shopify://apps/orichi-bundle/blocks/volume_discount/831adfc0-6cab-4c9a-9951-63aaa6f4e791",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "10003540932433742857": {
         "type": "shopify://apps/addly-bundle-upsell/blocks/addly-embed/ba93f155-a558-4082-82dd-21b22b27b698",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15539626159989124859": {
         "type": "shopify://apps/maxbundle-product-bundles/blocks/app-embed/469560a3-d600-4f5e-a767-2a4cdaceacca",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "603467265829353358": {
         "type": "shopify://apps/live-shopping-by-livemeup/blocks/player-script/82ccf4ed-67f8-4725-9167-e54475d4748e",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15516442047899035060": {
         "type": "shopify://apps/live-shopping-by-livemeup/blocks/live-widget/82ccf4ed-67f8-4725-9167-e54475d4748e",
@@ -1349,26 +1342,22 @@
       "10115289292966514107": {
         "type": "shopify://apps/wiser-product-recommendations/blocks/wiser-block/3f966edc-9a4a-465c-a4df-436d2a39160d",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "10373342392219168611": {
         "type": "shopify://apps/wiser-product-recommendations/blocks/wiser-quiz/3f966edc-9a4a-465c-a4df-436d2a39160d",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "5639393805199886848": {
         "type": "shopify://apps/wiser-product-recommendations/blocks/wiser-cart-drawer-block/3f966edc-9a4a-465c-a4df-436d2a39160d",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "10434560723743799785": {
         "type": "shopify://apps/wiser-product-recommendations/blocks/wiser-popup-block/3f966edc-9a4a-465c-a4df-436d2a39160d",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "9877325503541698247": {
         "type": "shopify://apps/in-cart-upsell/blocks/ajax_cart_app_block/6a252f23-8726-4893-8b3b-1ae15957efc3",
@@ -1382,23 +1371,17 @@
       "10112818894266855621": {
         "type": "shopify://apps/ufe-cross-sell-upsell-bundle/blocks/app-embed/588d2ac5-62f3-4ccd-8638-da98ec61fa90",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "14041968213898805026": {
         "type": "shopify://apps/aov-free-gift-bxgy/blocks/app-embed-free-gift/de98edfe-90fa-4145-8a57-1055e0058723",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
-      "2131494470682214141": {
-        "type": "shopify://apps/corner-cart-drawer-free-gift/blocks/corner-widget/73667a27-0d48-44b7-91f9-aef741c803ed",
-        "disabled": true,
-        "settings": {
-          "elementToReplaceInCartPage": "main",
-          "hide_theme_cart": false,
-          "enable_defer_loading": false
-        }
+      "11532412952436166569": {
+        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "disabled": false,
+        "settings": {}
       }
     }
   }
