@@ -1382,6 +1382,11 @@
         "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
         "settings": {}
+      },
+      "4025097737919964314": {
+        "type": "shopify://apps/personizely-popups-a-b-test/blocks/code-snippet/7a76a5cf-d4ab-4e6e-a88e-14fd37e56de1",
+        "disabled": false,
+        "settings": {}
       }
     }
   }
