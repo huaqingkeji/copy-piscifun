@@ -1387,6 +1387,11 @@
         "type": "shopify://apps/personizely-popups-a-b-test/blocks/code-snippet/7a76a5cf-d4ab-4e6e-a88e-14fd37e56de1",
         "disabled": false,
         "settings": {}
+      },
+      "15599951759576395258": {
+        "type": "shopify://apps/mida-replay-heatmaps/blocks/mida_recorder/e4c350c5-eabf-426d-8014-47ef50412bd0",
+        "disabled": false,
+        "settings": {}
       }
     }
   }
