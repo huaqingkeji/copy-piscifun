@@ -33,6 +33,8 @@
     endfor
   endif
 -%}
+
+{% assign metafields  = product.metafields |json %}}
 <div data-section-type="main-product" data-components="accordion,custom-select,modal">
   {% if section.settings.show_breadcrumbs %}
     <div class="container desktop-only not-in-quickbuy" data-cc-animate data-cc-animate-delay="0.2s">
@@ -45,6 +47,7 @@
   <div class="product-detail quickbuy-content spaced-row container">
     <div class="gallery gallery--layout-{{ section.settings.gallery_layout }} gallery-size-{{ section.settings.gallery_size }} product-column-left {% if product.media.size > 1 %}has-thumbnails{% endif %}"
       data-cc-animate
+      data-metafields="{{ metafields }}"
       data-cc-animate-delay="0.2s"
       data-variant-image-grouping="{{ section.settings.enable_var_img_grouping }}"
       data-variant-image-grouping-option="{{ section.settings.var_img_grouping_option | escape }}"
