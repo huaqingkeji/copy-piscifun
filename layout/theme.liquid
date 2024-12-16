@@ -9,7 +9,9 @@
   endif
 -%}
 <html lang="{{ request.locale.iso_code }}" dir="{{ lang_dir }}">
-<head>{% render 'yoast-seo' %}
+<head>
+{% render 'visually_io_sdk' %}
+{% render 'yoast-seo' %}
 <link rel='preconnect dns-prefetch' href='https://api.config-security.com/' crossorigin />
 <link rel='preconnect dns-prefetch' href='https://conf.config-security.com/' crossorigin />
 <link rel='preconnect dns-prefetch' href='https://whale.camera/' crossorigin />
