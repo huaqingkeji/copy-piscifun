@@ -14,8 +14,7 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -35,17 +34,10 @@
             "show_in_quickbuy": false
           }
         },
-        "qikify_upsell_bundle_bundle_offer_Vh8bJB": {
-          "type": "shopify://apps/qikify-upsell-gift/blocks/bundle_offer/2e94b962-8172-4839-8ad9-7837eb8b017a",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "vendor": {
           "type": "vendor",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "divider": {
           "type": "divider",
@@ -64,12 +56,6 @@
             "show_size_chart": false,
             "size_chart_variant": "Size",
             "size_chart_page": ""
-          }
-        },
-        "qikify_discount_gift_bogo_offer_HPrTPm": {
-          "type": "shopify://apps/qikify-upsell-gift/blocks/bogo_offer/2e94b962-8172-4839-8ad9-7837eb8b017a",
-          "settings": {
-            "product": "{{product}}"
           }
         },
         "buy_buttons": {
@@ -110,7 +96,27 @@
         },
         "88b9d524-001e-4f63-b9a7-2f427f190458": {
           "type": "sku",
+          "settings": {}
+        },
+        "blankwall_app_block_PaU7Tm": {
+          "type": "shopify://apps/blankwall/blocks/app-block/960fcf36-1878-450f-a7b1-a00da8967c00",
           "settings": {
+            "ar-button-bg-color": "#ffffff",
+            "ar-button-fg-color": "black",
+            "ar-button-text": "View in AR",
+            "ar-button-font": "",
+            "ar-button-font-size": 1,
+            "ar-button-font-weight": "normal",
+            "ar-button-text-transform": "none",
+            "ar-button-icon-size": 20,
+            "ar-button-padding": 10,
+            "ar-button-radius": 10,
+            "ar-button-border-width": 1,
+            "ar-button-border-color": "#808080",
+            "ar-button-margin-height": 0,
+            "ar-button-hover": "shadow",
+            "ar-button-metafield-visible-only": false,
+            "ar-button-custom-position": ""
           }
         }
       },
@@ -118,16 +124,15 @@
         "title",
         "price",
         "5111cf02-0d5a-41f9-8c96-19acf660c302",
-        "qikify_upsell_bundle_bundle_offer_Vh8bJB",
         "vendor",
         "divider",
         "variant_picker",
-        "qikify_discount_gift_bogo_offer_HPrTPm",
         "buy_buttons",
         "3dab4ab1-8a3d-4e71-804a-1b5cba0b4b70",
         "9748e379-84bd-4045-9fdf-721b126fca16",
         "c24701bd-67c6-4bd1-9d04-fc9d73e9600a",
-        "88b9d524-001e-4f63-b9a7-2f427f190458"
+        "88b9d524-001e-4f63-b9a7-2f427f190458",
+        "blankwall_app_block_PaU7Tm"
       ],
       "settings": {
         "show_breadcrumbs": true,
@@ -460,8 +465,7 @@
       "blocks": {
         "wiser_product_recommendations_wiser_fbt_4jNezm": {
           "type": "shopify://apps/wiser-product-recommendations/blocks/wiser_fbt/3f966edc-9a4a-465c-a4df-436d2a39160d",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
