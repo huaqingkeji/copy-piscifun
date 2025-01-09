@@ -1378,25 +1378,19 @@
         "disabled": false,
         "settings": {}
       },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+      "15885745614559378752": {
+        "type": "shopify://apps/accessibly/blocks/app-embed/4b59303e-1141-4c8a-945f-bf4adb516864",
         "disabled": false,
-        "settings": {}
-      },
-      "4025097737919964314": {
-        "type": "shopify://apps/personizely-popups-a-b-test/blocks/code-snippet/7a76a5cf-d4ab-4e6e-a88e-14fd37e56de1",
-        "disabled": false,
-        "settings": {}
-      },
-      "15599951759576395258": {
-        "type": "shopify://apps/mida-replay-heatmaps/blocks/mida_recorder/e4c350c5-eabf-426d-8014-47ef50412bd0",
-        "disabled": false,
-        "settings": {}
-      },
-      "1877152918344802950": {
-        "type": "shopify://apps/intelligems-a-b-testing/blocks/intelligems-script/fa83b64c-0c77-4c0c-b4b2-b94b42f5ef19",
-        "disabled": false,
-        "settings": {}
+        "settings": {
+          "themeColor": "#574CD5",
+          "iconColor": "#574CD5",
+          "showLogo": true,
+          "topBottomPosition": 10,
+          "rightLeftPosition": 10,
+          "iconSize": "small",
+          "iconCustomSize": 64,
+          "position": "middle-right"
+        }
       }
     }
   }
