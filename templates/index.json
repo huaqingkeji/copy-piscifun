@@ -11,6 +11,7 @@
   "sections": {
     "90458d7b-a69a-481d-b030-0515e566ac2a": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "code": "<script data-lyvecom async src=\"https://dashboard.lyvecom.com/widget/widget.js\"></script>\n    <div id=\"lyvecom_event--page\"></div>\n    <script>\n    (() => {\n        const scriptElement = document.querySelector('script[data-lyvecom]');\n        scriptElement.addEventListener('load', () => {\n            LyveComWidget.mountEventPage({\n                account: '66f13ac4988c9a3ceb75f157',\n                byCampaign: true,\n                parentElement: '#lyvecom_event--page',\n                lng: 'en'\n            });\n    })})()\n    </script>"
@@ -18,6 +19,7 @@
     },
     "custom_liquid_cw8kJp": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "code": "<script data-lyvecom async src=\"https://dashboard.lyvecom.com/widget/widget.js\"></script>\n        <script>\n        (() => {\n            const scriptElement = document.querySelector('script[data-lyvecom]');\n            scriptElement.addEventListener('load', () => {\n                LyveComWidget.mount({\n                    account: '66f134f790fe3f14bae349ff',\n                    lng: 'en',\n                    position: 'left',\n                    positionLeft: '0',\n                    positionBottom: '0'\n                });\n        })})()\n        </script>"
